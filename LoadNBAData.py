@@ -401,13 +401,14 @@ class NBADataLoader:
                 self.away_games_df = pd.read_csv(os.path.join(self.data_folder, 'away_games_stats.csv'), index_col=[0,1])
                 self.all_team_stats = pd.read_csv(os.path.join(self.data_folder, 'all_team_stats.csv'), index_col=[0,1])
                 self.enhanced_schedule = pd.read_csv(os.path.join(self.data_folder, 'enhanced_schedule.csv'), index_col=0)
+                self.schedule_no_results = pd.read_csv(os.path.join(self.data_folder, 'schedule_no_results.csv'), index_col=0)
                 
                 # Convert Date columns back to datetime
                 date_columns = ['Date']
                 for df_name in ['combined_stats', 'enhanced_schedule']:
                     df = getattr(self, df_name)
                     if df is not None and 'Date' in df.columns:
-                        df['Date'] = pd.to_datetime(df['Date'], format="%Y%m%d")
+                        df['Date'] = pd.to_datetime(df['Date'])
                 
                 print("Successfully loaded all data from files")
                 return
@@ -448,7 +449,8 @@ class NBADataLoader:
             'home_games_df': 'home_games_stats.csv',
             'away_games_df': 'away_games_stats.csv',
             'all_team_stats': 'all_team_stats.csv',
-            'enhanced_schedule': 'enhanced_schedule.csv'
+            'enhanced_schedule': 'enhanced_schedule.csv',
+            'schedule_no_results': 'schedule_no_results.csv'
         }
         
         # Save each table if it exists

@@ -4,3 +4,7 @@
 ._*
 .Spotlight-V100
 .Trashes 
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class

@@ -7,6 +7,8 @@ from torch.utils.data import Dataset, DataLoader
 import numpy as np
 from sklearn.preprocessing import StandardScaler
 
+import argparse
+
 class NBADataset(Dataset):
     def __init__(self, X, y):
         self.X = X
@@ -63,6 +65,7 @@ class NBAPredictionModel:
         self.enhanced_schedule = data.enhanced_schedule
         self.latest_game_stats = None
         self.schedule_no_results = data.schedule_no_results
+        self.data_folder = data.data_folder
 
     def train(self, df, num_epochs=200, batch_size=16):
         X = df[self.feature_columns].values
@@ -119,7 +122,7 @@ class NBAPredictionModel:
                 best_val_loss = avg_val_loss
                 patience_counter = 0
                 # Save best model
-                torch.save(self.model.state_dict(), 'best_model.pth')
+                torch.save(self.model.state_dict(), self.data_folder+'/best_model.pth')
             else:
                 patience_counter += 1
                 
@@ -132,8 +135,8 @@ class NBAPredictionModel:
                 print(f'Epoch [{epoch+1}/{num_epochs}], Train Loss: {avg_loss:.4f}, Val Loss: {avg_val_loss:.4f}')
 
                 # Load best model
-                self.model.load_state_dict(torch.load('best_model.pth'))
-                return self.model.eval()
+        self.model.load_state_dict(torch.load(self.data_folder+'/best_model.pth', weights_only=True))
+        return self.model.eval()
             
     def predict_future_games(self, future_games):
         future_X = future_games[self.feature_columns].values
@@ -155,7 +158,7 @@ class NBAPredictionModel:
         future_games['PredictedWinner'] = future_games.apply(self._predicted_winner, axis=1)
 
         prediction_display = future_games[['Date', 'Away', 'PredictedAwayPoints', 
-                                         'Home', 'PredictedHomePoints', 'PredictedWinner', 'PredictedSpread']]
+                                         'Home', 'PredictedHomePoints', 'PredictedWinner', 'PredictedSpread']].copy()
         
         prediction_display['PredictedAwayPoints'] = prediction_display['PredictedAwayPoints'].round(1)
         prediction_display['PredictedHomePoints'] = prediction_display['PredictedHomePoints'].round(1)
@@ -208,16 +211,44 @@ class NBAPredictionModel:
     @staticmethod
     def _predicted_spread(row):
         return abs(row['PredictedHomePoints'] - row['PredictedAwayPoints'])
-    
+
+def str2bool(v):
+    if isinstance(v, bool):
+        return v
+    if v.lower() in ('yes', 'true', 't', 'y', '1'):
+        return True
+    elif v.lower() in ('no', 'false', 'f', 'n', '0'):
+        return False
+    else:
+        raise argparse.ArgumentTypeError('Boolean value expected.')
 
 def main():
+    # Set up argument parser
+    parser = argparse.ArgumentParser(description='NBA Game Predictor')
+    parser.add_argument('--load_from_files', type=str2bool, nargs='?',
+                       const=True, default=True,
+                       help='Load data from existing files (default: True)')
+    parser.add_argument('--load_new', type=str2bool, nargs='?',
+                       const=True, default=True,
+                       help='Load new data from API (default: True)')
+    parser.add_argument('--reload_all', type=str2bool, nargs='?',
+                       const=True, default=False,
+                       help='Reload all data from API (default: False)')
+    parser.add_argument('--num_epochs', type=int, default=200,
+                       help='Number of epochs to train the model (default: 200)')
+    parser.add_argument('--batch_size', type=int, default=16,
+                       help='Batch size for training (default: 16)')
+
+    args = parser.parse_args()
+    
     # Load data
-    data_loader = NBADataLoader(load_from_files=True, load_new=True)
+    data_loader = NBADataLoader(load_from_files=args.load_from_files, 
+                               load_new=args.load_new, reload_all=args.reload_all)
     data_loader.load_all()
     
     # Initialize and train model
     model = NBAPredictionModel(data_loader)
-    model.train(data_loader.enhanced_schedule)
+    model.train(data_loader.enhanced_schedule, num_epochs=args.num_epochs, batch_size=args.batch_size)
     
     # Prepare future games data
     model.prepare_latest_games()
