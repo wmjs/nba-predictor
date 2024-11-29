@@ -54,7 +54,7 @@ python NBAPrediction.py
 The script supports several command-line arguments:
 
 ```bash
-python NBAPrediction.py [--load_from_files BOOL] [--load_new BOOL] [--reload_all BOOL] [--num_epochs INT] [--batch_size INT]
+python NBAPrediction.py [--load_from_files BOOL] [--load_new BOOL] [--reload_all BOOL] [--num_epochs INT] [--batch_size INT] [--output_type STR]
 ```
 
 
@@ -64,6 +64,7 @@ Arguments:
 - `--reload_all`: Force reload all data (default: False)
 - `--num_epochs`: Number of training epochs (default: 200)
 - `--batch_size`: Training batch size (default: 16)
+- `--output_type`: Format for prediction output - 'csv' or 'json' (default: 'csv')
 
 ## Data Structure
 

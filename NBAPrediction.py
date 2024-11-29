@@ -278,6 +278,8 @@ def main():
                        help='Number of epochs to train the model (default: 200)')
     parser.add_argument('--batch_size', type=int, default=16,
                        help='Batch size for training (default: 16)')
+    parser.add_argument('--output_type', type=str, default='csv',
+                       help='Output type (default: csv)')
 
     args = parser.parse_args()
     
@@ -298,9 +300,11 @@ def main():
     predictions = model.predict_future_games(model.future_games)
     
     # Export to CSV and JSON
-    predictions.to_csv('nba_predictions.csv', index=False)
-    predictions.to_json('nba_predictions.json', orient='records', date_format='iso')
-    print("Predictions exported to 'nba_predictions.csv' and 'nba_predictions.json'")
+    if args.output_type == 'csv':
+        predictions.to_csv('nba_predictions.csv', index=False)
+    elif args.output_type == 'json':
+        predictions.to_json('nba_predictions.json', orient='records', date_format='iso')
+    print(f"Predictions exported to 'nba_predictions.{args.output_type}'")
 
 if __name__ == "__main__":
     main()
