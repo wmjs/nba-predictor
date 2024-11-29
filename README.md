@@ -22,7 +22,7 @@ This project uses a neural network to predict NBA game outcomes by analyzing tea
 
 ## Requirements
 
-- Python 3.8+
+- Python
 - PyTorch
 - pandas
 - numpy
