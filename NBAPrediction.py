@@ -10,6 +10,12 @@ from sklearn.preprocessing import StandardScaler
 import argparse
 
 class NBADataset(Dataset):
+    """PyTorch Dataset for NBA game data.
+    
+    Args:
+        X (numpy.ndarray): Feature matrix
+        y (numpy.ndarray): Target values
+    """
     def __init__(self, X, y):
         self.X = X
         self.y = y
@@ -21,6 +27,11 @@ class NBADataset(Dataset):
         return self.X[idx], self.y[idx]
 
 class NBAPredictor(nn.Module):
+    """Neural network model for predicting NBA game scores.
+    
+    Args:
+        input_size (int): Number of input features
+    """
     def __init__(self, input_size):
         super(NBAPredictor, self).__init__()
         self.layer1 = nn.Linear(input_size, 128)
@@ -40,6 +51,11 @@ class NBAPredictor(nn.Module):
         return self.layer4(x)
     
 class NBAPredictionModel:
+    """Main class for NBA game prediction pipeline.
+    
+    Args:
+        data (NBADataLoader, optional): Data loader object containing NBA game data
+    """
     def __init__(self, data = None):
         self.feature_columns = [
             # Team advanced stats
@@ -68,6 +84,16 @@ class NBAPredictionModel:
         self.data_folder = data.data_folder
 
     def train(self, df, num_epochs=200, batch_size=16):
+        """Train the neural network model.
+        
+        Args:
+            df (pandas.DataFrame): Training data
+            num_epochs (int, optional): Number of training epochs. Defaults to 200
+            batch_size (int, optional): Batch size for training. Defaults to 16
+            
+        Returns:
+            torch.nn.Module: Trained model in evaluation mode
+        """
         X = df[self.feature_columns].values
         y = df[self.target_columns].values
         
@@ -139,6 +165,14 @@ class NBAPredictionModel:
         return self.model.eval()
             
     def predict_future_games(self, future_games):
+        """Make predictions for upcoming games.
+        
+        Args:
+            future_games (pandas.DataFrame): DataFrame containing future game data
+            
+        Returns:
+            pandas.DataFrame: Formatted predictions including scores and winners
+        """
         future_X = future_games[self.feature_columns].values
         future_X_scaled = self.feature_scaler.transform(future_X)
         future_X_tensor = torch.FloatTensor(future_X_scaled)
@@ -168,6 +202,7 @@ class NBAPredictionModel:
         return prediction_display.sort_values('Date')
     
     def prepare_latest_games(self):
+        """Prepare the most recent game statistics for each team."""
         latest_home_games = self.enhanced_schedule.sort_values('Date').groupby('Home').last().reset_index()
         latest_away_games = self.enhanced_schedule.sort_values('Date').groupby('Away').last().reset_index()
 
@@ -190,6 +225,7 @@ class NBAPredictionModel:
         self.latest_game_stats = latest_game_stats
 
     def prepare_future_games(self):
+        """Prepare upcoming games data by merging with latest team statistics."""
         future_games = self.schedule_no_results.merge(
             self.latest_game_stats.add_prefix('Away_'), 
             left_on="Away", 
@@ -223,6 +259,10 @@ def str2bool(v):
         raise argparse.ArgumentTypeError('Boolean value expected.')
 
 def main():
+    """Main function to run the NBA prediction pipeline.
+    
+    Handles command line arguments, loads data, trains model, and generates predictions.
+    """
     # Set up argument parser
     parser = argparse.ArgumentParser(description='NBA Game Predictor')
     parser.add_argument('--load_from_files', type=str2bool, nargs='?',

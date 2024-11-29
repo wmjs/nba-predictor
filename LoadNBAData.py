@@ -4,6 +4,35 @@ from tqdm import tqdm
 import os
 
 class NBADataLoader:
+    """A class to load and process NBA game data and statistics.
+
+    This class handles fetching, processing, and storing NBA game data including schedules,
+    results, and team statistics from basketball-reference.com. It can load data from web
+    sources or local files, and supports incremental updates for new games.
+
+    Attributes:
+        nba_abbreviations (DataFrame): Team name to abbreviation mappings
+        schedule_and_results_raw (DataFrame): Raw schedule and results data
+        schedule_and_results (DataFrame): Processed schedule and results
+        schedule_no_results (DataFrame): Upcoming games without results
+        combined_stats (DataFrame): Combined game statistics
+        home_games_df (DataFrame): Statistics for home games
+        away_games_df (DataFrame): Statistics for away games
+        all_team_stats (DataFrame): Cumulative team statistics
+        enhanced_schedule (DataFrame): Schedule with added team statistics
+        reload_all (bool): Whether to reload all data from web
+        load_new (bool): Whether to load only new games
+        latest_combined_stats_date (datetime): Latest date in combined stats
+        load_from_files (bool): Whether to load from saved files
+        data_folder (str): Directory for data storage
+
+    Args:
+        reload_all (bool, optional): Force reload all data. Defaults to False.
+        load_new (bool, optional): Load only new games. Defaults to False.
+        load_from_files (bool, optional): Load from saved files. Defaults to False.
+        data_folder (str, optional): Data storage directory. Defaults to 'nba_data'.
+    """
+
     def __init__(self, reload_all = False, load_new = False, load_from_files = False, data_folder='nba_data'):
         self.nba_abbreviations = None
         self.schedule_and_results_raw = None
@@ -25,7 +54,11 @@ class NBADataLoader:
             os.makedirs(self.data_folder)
 
     def get_nba_team_abbreviations(self):
-        """Get NBA team abbreviations from Wikipedia."""
+        """Fetch and process NBA team abbreviations from Wikipedia.
+        
+        Returns:
+            DataFrame: Team abbreviations indexed by team name.
+        """
         self.nba_abbreviations = (pd.read_html(
             "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_National_Basketball_Association/National_Basketball_Association_team_abbreviations")[0]
             .rename(columns={
@@ -40,7 +73,14 @@ class NBADataLoader:
         return self.nba_abbreviations
 
     def get_raw_schedule_and_results(self):
-        """Fetches and processes NBA schedule and results data."""
+        """Fetch NBA schedule and completed game results from basketball-reference.com.
+        
+        Fetches data month by month for the current season, processes it to remove
+        unnecessary columns, and combines into a single DataFrame.
+
+        Returns:
+            DataFrame: Raw schedule and results data.
+        """
         season_months = ["october", "november", "december", "january", "february", "march", "april"]
         schedule_and_results_raw = pd.DataFrame()
         for month in season_months:    
@@ -67,7 +107,14 @@ class NBADataLoader:
         return self.schedule_and_results_raw
     
     def get_schedule_no_results(self):
-        """Get schedule and results data without results."""
+        """Fetch upcoming NBA games without results.
+        
+        Similar to get_raw_schedule_and_results but only returns future games
+        that haven't been played yet.
+
+        Returns:
+            DataFrame: Upcoming games schedule.
+        """
         season_months = ["october", "november", "december", "january", "february", "march", "april"]
         schedule_no_results_raw = pd.DataFrame()
         for month in season_months:    
