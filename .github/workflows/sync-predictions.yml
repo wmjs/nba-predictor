@@ -31,7 +31,7 @@ jobs:
           if [[ -n $(git status --porcelain) ]]; then
             git config user.name "GitHub Actions Bot"
             git config user.email "actions@github.com"
-            git add nba_predictions.csv
+            git add nba_page/nba_predictions.csv
             git commit -m "Update NBA predictions"
             git push
           fi 
