@@ -25,6 +25,7 @@ jobs:
 
       - name: Copy predictions file
         run: |
+          ls
           cp nba-predictor/nba_predictions.csv wmjs.github.io/nba_page
           cd wmjs.github.io
           if [[ -n $(git status --porcelain) ]]; then
