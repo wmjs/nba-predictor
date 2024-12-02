@@ -35,7 +35,7 @@ class NBADataLoader:
 
     def __init__(self, reload_all = False, load_new = False, load_from_files = False, data_folder='nba_data'):
         self.nba_abbreviations = None
-        self.schedule_and_results_raw = None
+        self.schedule_and_results_raw = None    
         self.schedule_and_results = None
         self.schedule_no_results = None
         self.combined_stats = None
@@ -47,7 +47,7 @@ class NBADataLoader:
         self.load_new = load_new
         self.latest_combined_stats_date = None
         self.load_from_files = load_from_files
-        self.data_folder = data_folder
+        self.data_folder = data_folder + "/"
         
         # Create the data folder if it doesn't exist
         if not os.path.exists(self.data_folder):
@@ -291,14 +291,15 @@ class NBADataLoader:
             if self.load_new and not reload:
                 # Load existing data
                 try:
-                    self.combined_stats = pd.read_csv(os.path.join(self.data_folder, "combined_schedule_and_game_stats.csv"), index_col=0)
-                    self.combined_stats["Date"] = pd.to_datetime(self.combined_stats["Date"])
+                    self.load_all_from_files()
                     self.latest_combined_stats_date = self.get_latest_combined_stats_date()
                     
                     # Get new games only
+                    print(f"Last loaded: {self.latest_combined_stats_date}, loading as of today: {self.schedule_and_results['Date'].max()}")
                     new_schedule = self.schedule_and_results[
                         pd.to_datetime(self.schedule_and_results["Date"], format="%Y%m%d") > self.latest_combined_stats_date
                     ]
+
                     if len(new_schedule) == 0:
                         print("No new games to load")
                         return self.combined_stats
@@ -441,22 +442,7 @@ class NBADataLoader:
         """Load all data in sequence."""
         if self.load_from_files and not self.load_new:
             try:
-                self.nba_abbreviations = pd.read_csv(os.path.join(self.data_folder, 'nba_team_abbreviations.csv'), index_col=0)
-                self.schedule_and_results = pd.read_csv(os.path.join(self.data_folder, 'schedule_and_results.csv'), index_col=0)
-                self.combined_stats = pd.read_csv(os.path.join(self.data_folder, 'combined_schedule_and_game_stats.csv'), index_col=0)
-                self.home_games_df = pd.read_csv(os.path.join(self.data_folder, 'home_games_stats.csv'), index_col=[0,1])
-                self.away_games_df = pd.read_csv(os.path.join(self.data_folder, 'away_games_stats.csv'), index_col=[0,1])
-                self.all_team_stats = pd.read_csv(os.path.join(self.data_folder, 'all_team_stats.csv'), index_col=[0,1])
-                self.enhanced_schedule = pd.read_csv(os.path.join(self.data_folder, 'enhanced_schedule.csv'), index_col=0)
-                self.schedule_no_results = pd.read_csv(os.path.join(self.data_folder, 'schedule_no_results.csv'), index_col=0)
-                
-                # Convert Date columns back to datetime
-                date_columns = ['Date']
-                for df_name in ['combined_stats', 'enhanced_schedule']:
-                    df = getattr(self, df_name)
-                    if df is not None and 'Date' in df.columns:
-                        df['Date'] = pd.to_datetime(df['Date'])
-                
+                self.load_all_from_files()
                 print("Successfully loaded all data from files")
                 return
             except FileNotFoundError as e:
@@ -467,13 +453,13 @@ class NBADataLoader:
         # Load data from web
         self.get_nba_team_abbreviations()
         self.get_raw_schedule_and_results()
+        self.get_schedule_no_results()
         self.set_up_schedule_and_results()
         
         if self.load_new:
             # Load existing data first
             try:
-                self.combined_stats = pd.read_csv(os.path.join(self.data_folder, "combined_schedule_and_game_stats.csv"), index_col=0)
-                self.combined_stats['Date'] = pd.to_datetime(self.combined_stats['Date'])
+                self.load_all_from_files()
             except FileNotFoundError:
                 print("No existing combined stats file found. Loading all data.")
         
@@ -481,7 +467,7 @@ class NBADataLoader:
         self.split_home_away_games()
         self.calculate_cumulative_team_stats()
         self.enhance_schedule_with_team_stats()
-        self.get_schedule_no_results()
+       
 
         if self.reload_all or self.load_new:
             self.save_all_tables()
@@ -510,3 +496,53 @@ class NBADataLoader:
                     print(f"Successfully saved {filepath}")
                 except Exception as e:
                     print(f"Error saving {filepath}: {str(e)}")
+
+    def load_all_from_files(self):
+        """Load all data from files."""
+        try:
+            self.nba_abbreviations = pd.read_csv(os.path.join(self.data_folder, 'nba_team_abbreviations.csv'), index_col=0)
+            self.schedule_and_results = pd.read_csv(os.path.join(self.data_folder, 'schedule_and_results.csv'), index_col=0)
+            self.combined_stats = pd.read_csv(os.path.join(self.data_folder, 'combined_schedule_and_game_stats.csv'), index_col=0)
+            self.home_games_df = pd.read_csv(os.path.join(self.data_folder, 'home_games_stats.csv'), index_col=[0,1])
+            self.away_games_df = pd.read_csv(os.path.join(self.data_folder, 'away_games_stats.csv'), index_col=[0,1])
+            self.all_team_stats = pd.read_csv(os.path.join(self.data_folder, 'all_team_stats.csv'), index_col=[0,1])
+            self.enhanced_schedule = pd.read_csv(os.path.join(self.data_folder, 'enhanced_schedule.csv'), index_col=0)
+            self.schedule_no_results = pd.read_csv(os.path.join(self.data_folder, 'schedule_no_results.csv'), index_col=0)
+
+            # Print and convert date columns for each table that has them
+            date_tables = {
+                'schedule_and_results': self.schedule_and_results,
+                'combined_stats': self.combined_stats, 
+                'home_games_df': self.home_games_df,
+                'away_games_df': self.away_games_df,
+                'all_team_stats': self.all_team_stats,
+                'enhanced_schedule': self.enhanced_schedule,
+                'schedule_no_results': self.schedule_no_results
+            }
+
+            for table_name, df in date_tables.items():
+                if isinstance(df.index, pd.MultiIndex):
+                    # Convert the 'Date' level to datetime while preserving the index structure
+                    if df.index.get_level_values('Date').dtype == 'int64':
+                        date_level = pd.to_datetime(df.index.get_level_values('Date'), format="%Y%m%d")
+                    else:
+                        date_level = pd.to_datetime(df.index.get_level_values('Date'))
+                    team_level = df.index.get_level_values('Team')
+                    
+                    # Create new MultiIndex with converted dates
+                    new_index = pd.MultiIndex.from_arrays([date_level, team_level], names=['Date', 'Team'])
+                    df.index = new_index
+                    setattr(self, table_name, df)
+                else:
+                    if 'Date' in df.columns:
+                        if df["Date"].dtype == 'int64':
+                            df["Date"] = pd.to_datetime(df["Date"], format="%Y%m%d")
+                        else:
+                            df["Date"] = pd.to_datetime(df["Date"])
+                        setattr(self, table_name, df)
+   
+
+
+        except FileNotFoundError as e:
+            print(f"Error loading from files: {str(e)}")
+            raise FileNotFoundError(f"Error loading from files: {str(e)}")
