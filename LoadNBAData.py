@@ -291,7 +291,7 @@ class NBADataLoader:
             if self.load_new and not reload:
                 # Load existing data
                 try:
-                    self.load_all_from_files()
+                    # self.load_all_from_files()
                     self.latest_combined_stats_date = self.get_latest_combined_stats_date()
                     
                     # Get new games only
@@ -450,18 +450,19 @@ class NBADataLoader:
                 print("Falling back to loading from web...")
                 self.load_from_files = False
 
-        # Load data from web
-        self.get_nba_team_abbreviations()
-        self.get_raw_schedule_and_results()
-        self.get_schedule_no_results()
-        self.set_up_schedule_and_results()
-        
         if self.load_new:
             # Load existing data first
             try:
                 self.load_all_from_files()
             except FileNotFoundError:
                 print("No existing combined stats file found. Loading all data.")
+
+        # Get up to date schedule
+        self.get_nba_team_abbreviations()
+        self.get_raw_schedule_and_results()
+        self.get_schedule_no_results()
+        self.set_up_schedule_and_results()
+        
         
         self.load_combined_schedule_and_game_stats(reload=self.reload_all)
         self.split_home_away_games()
