@@ -198,6 +198,15 @@ class NBAPredictionModel:
         prediction_display['PredictedHomePoints'] = prediction_display['PredictedHomePoints'].round(1)
         prediction_display['PredictedSpread'] = prediction_display['PredictedSpread'].round(1)
         prediction_display['Date'] = pd.to_datetime(prediction_display['Date'])
+
+        # Calculate confidence levels based on PredictedSpread
+        max_spread = prediction_display['PredictedSpread'].max()
+        min_spread = prediction_display['PredictedSpread'].min()
+        
+        # Linear scaling between 50% and 95% confidence
+        prediction_display['Confidence'] = prediction_display['PredictedSpread'].apply(
+            lambda x: round(50 + (x - min_spread) * (95 - 50) / (max_spread - min_spread), 2)
+        )
         
         return prediction_display.sort_values('Date')
     
