@@ -6,6 +6,10 @@ on:
       - 'nba_display.csv'
     branches:
       - main
+  workflow_run:
+    workflows: ["Daily Data Update"]
+    types:
+      - completed
 
 jobs:
   sync:
