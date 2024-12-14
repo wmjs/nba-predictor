@@ -26,12 +26,12 @@ jobs:
       - name: Copy predictions file
         run: |
           ls
-          cp nba-predictor/nba_predictions.csv wmjs.github.io/nba_page
+          cp nba-predictor/nba_display.csv wmjs.github.io/nba_page
           cd wmjs.github.io
           if [[ -n $(git status --porcelain) ]]; then
             git config user.name "GitHub Actions Bot"
             git config user.email "actions@github.com"
-            git add nba_page/nba_predictions.csv
+            git add nba_page/nba_display.csv
             git commit -m "Update NBA predictions"
             git push
           fi 
