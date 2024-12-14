@@ -104,6 +104,7 @@ class NBADataLoader:
         columns_to_drop = ["Unnamed: 6", "Unnamed: 7", "Notes", "Attend.", "LOG", "Arena", "Start (ET)"]
         schedule_and_results_raw.drop(columns=columns_to_drop, inplace=True)
         self.schedule_and_results_raw = schedule_and_results_raw
+        print("DATE1", pd.to_datetime(schedule_and_results_raw["Date"]).max(), pd.to_datetime(schedule_and_results_raw["Date"]).min())
         return self.schedule_and_results_raw
     
     def get_schedule_no_results(self):
@@ -195,6 +196,7 @@ class NBADataLoader:
         self.schedule_and_results_raw["PointDifferential"] = self.schedule_and_results_raw.apply(get_point_differential, axis=1)
 
         self.schedule_and_results = self.schedule_and_results_raw
+        self.schedule_and_results["Date"] = pd.to_datetime(self.schedule_and_results["Date"])
         return self.schedule_and_results
 
     def scrape_game_page(self, url):
@@ -231,20 +233,20 @@ class NBADataLoader:
 
         return stat_dict
 
-    def combine_schedule_and_game_stats(self):
+    def combine_schedule_and_game_stats(self, schedule):
         """Combines schedule and game stats data."""
         if self.schedule_and_results is None:
             raise ValueError("Must call set_up_schedule_and_results() first")
         
         # Initialize empty lists to store stats for each game
         all_game_stats = []
-        num_games = self.schedule_and_results.shape[0]
-        
+        num_games = schedule.shape[0]
+
         # Create progress bar
         pbar = tqdm(total=num_games, desc="Loading game stats")
         
         # Iterate through each game in schedule_and_results
-        for i, game in self.schedule_and_results.iterrows():
+        for i, game in schedule.iterrows():
             try:
                 # Add delay between requests to avoid rate limiting
                 time.sleep(4)
@@ -261,7 +263,7 @@ class NBADataLoader:
                 ], axis=1)
                 
                 # Add all columns from the original schedule row
-                for col in self.schedule_and_results.columns:
+                for col in schedule.columns:
                     combined_stats[col] = game[col]
                 
                 all_game_stats.append(combined_stats)
@@ -283,8 +285,8 @@ class NBADataLoader:
 
         # Combine all games into one DataFrame
         all_games_df = pd.concat(all_game_stats, ignore_index=True)
-        self.combined_stats = all_games_df
-        return self.combined_stats
+        # self.combined_stats = all_games_df
+        return all_games_df
 
     def load_combined_schedule_and_game_stats(self, reload=False):
         if reload or self.load_new:
@@ -305,21 +307,23 @@ class NBADataLoader:
                         return self.combined_stats
                     
                     print(f"Loading {len(new_schedule)} new games")
-                    self.schedule_and_results = new_schedule
-                    new_stats = self.combine_schedule_and_game_stats()
+                    new_stats = self.combine_schedule_and_game_stats(new_schedule)
+                    self.schedule_and_results = pd.concat([new_schedule, self.schedule_and_results], ignore_index=True)
+                    self.schedule_and_results.drop_duplicates(keep='first', inplace=True)
                     
                     # Combine old and new data
                     self.combined_stats = pd.concat([self.combined_stats, new_stats], ignore_index=True).drop_duplicates(keep='first')
+                    self.combined_stats.drop_duplicates(keep='first', inplace=True)
                     self.save_combined_schedule_and_game_stats()
                     return self.combined_stats
                     
                 except FileNotFoundError:
                     print("No existing data found, loading all games")
-                    self.combined_stats = self.combine_schedule_and_game_stats()
+                    self.combined_stats = self.combine_schedule_and_game_stats(self.schedule_and_results)
                     self.save_combined_schedule_and_game_stats()
                     return self.combined_stats
             else:
-                self.combined_stats = self.combine_schedule_and_game_stats()
+                self.combined_stats = self.combine_schedule_and_game_stats(self.schedule_and_results)
                 self.save_combined_schedule_and_game_stats()
                 return self.combined_stats
         else:
@@ -547,3 +551,4 @@ class NBADataLoader:
         except FileNotFoundError as e:
             print(f"Error loading from files: {str(e)}")
             raise FileNotFoundError(f"Error loading from files: {str(e)}")
+
