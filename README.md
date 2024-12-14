@@ -157,4 +157,4 @@ The project creates the following files in the data folder:
 - Recommended to use `reload_all=True` when loading new data
 - Some game statistics may be missing if basketball-reference.com's structure changes
 
-This project is for educational purposes only. Please check local regulations regarding sports betting.
+This project is for entertainment purposes only. 
