@@ -3,7 +3,7 @@ name: Sync Predictions
 on:
   push:
     paths:
-      - 'nba_predictions.csv'
+      - 'nba_display.csv'
     branches:
       - main
 
