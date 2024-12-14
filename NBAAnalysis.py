@@ -13,10 +13,19 @@ class NBAAnalysis:
         for odds_df in self.odds_list:
             self.value_df = pd.merge(self.value_df, odds_df, on=["Date", "Away", "Home"], how = "left")
         
-        self.value_df["Book Winner"] = self.value_df.apply(lambda row: row["Home"] if row["Home Money Line Odds"] < row["Away Money Line Odds"] else row["Away"], axis=1)
+        def book_winner(row):
+            if row["Home Money Line Odds"] < row["Away Money Line Odds"]:
+                return row["Home"]
+            elif row["Home Money Line Odds"] > row["Away Money Line Odds"]:
+                return row["Away"]
+            else:
+                return ""
+        self.value_df["Book Winner"] = self.value_df.apply(book_winner, axis=1)
         return self.value_df
 
     def money_line_value(self, row):
+        if row["Book Winner"] == "":
+            return "No"
         if row["Book Winner"] == row["PredictedWinner"]:
             return "No"
         else:
