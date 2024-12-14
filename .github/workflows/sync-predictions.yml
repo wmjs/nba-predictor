@@ -36,6 +36,6 @@ jobs:
             git config user.name "GitHub Actions Bot"
             git config user.email "actions@github.com"
             git add nba_page/nba_display.csv
-            git commit -m "Update NBA predictions"
+            git commit -m "Update NBA predictions $(date)"
             git push
           fi 
