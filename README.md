@@ -1,60 +1,85 @@
 # NBA Game Predictor
 
-A machine learning model that predicts NBA game outcomes using historical game data and team statistics from basketball-reference.com.
+An automated NBA game prediction system that uses machine learning to forecast game outcomes and identify potential betting opportunities.
 
 ## Overview
 
-This project uses a neural network to predict NBA game outcomes by analyzing team performance metrics. It automatically scrapes and processes game data, maintains historical statistics, and generates predictions for upcoming games.
+This project combines historical NBA game data, team statistics, and betting odds to:
+- Predict outcomes of upcoming NBA games
+- Calculate win probabilities and expected point spreads
+- Identify value betting opportunities by comparing predictions to market odds
+- Automatically update predictions daily during the NBA season
 
 ## Features
 
-- Automated data collection from basketball-reference.com
-- Historical game data processing and analysis
-- Team statistics tracking (both basic and advanced metrics)
-- Neural network-based prediction model
-- Configurable data loading options (new games only, full reload, or from saved files)
-- Early stopping to prevent overfitting
-- Batch normalization and dropout for improved model stability
-- Predictions include:
-  - Expected scores
-  - Predicted winners
-  - Point spreads
+- **Data Collection**
+  - Scrapes game statistics from Basketball Reference
+  - Retrieves current betting odds from Sportsline
+  - Maintains historical team performance metrics
+  - Updates data automatically via GitHub Actions
 
-## Requirements
+- **Prediction Model**
+  - Uses neural network architecture for game outcome prediction
+  - Considers both basic and advanced team statistics
+  - Accounts for home/away performance differentials
+  - Generates point spread and total predictions
 
-- Python
-- PyTorch
+- **Analysis Tools**
+  - Compares predicted outcomes to betting market odds
+  - Calculates expected value for betting opportunities
+  - Tracks prediction accuracy over time
+  - Exports results to CSV for easy analysis
+
+## Data Sources
+
+- Game statistics: basketball-reference.com
+- Betting odds: sportsline.com
+- Team abbreviations and metadata maintained in project
+
+## Technical Details
+
+### Requirements
+- Python 3.x
 - pandas
 - numpy
-- scikit-learn
 - tqdm
-- html5lib
-- beautifulsoup4
+- PyTorch (for neural network model)
+- requests/beautifulsoup4 (for web scraping)
 
-Install dependencies using:
+### Key Components
+- `LoadNBAData.py`: Data collection and processing
+- `NBAPrediction.py`: Machine learning model implementation
+- `LoadBettingData.py`: Odds data retrieval and processing
+- `NBAAnalysis.py`: Results analysis and reporting
 
-```bash
-pip install -r requirements.txt
-```
-
+### Automation
+- Daily data updates via GitHub Actions
+- Automated model retraining with new game data
+- Scheduled prediction updates for upcoming games
 
 ## Usage
 
-### Basic Usage
-
-Run the predictor with default settings:
+1. Clone the repository
+2. Install required dependencies
+3. Run prediction pipeline:
 
 ```bash
-python NBAPrediction.py
+python run.py
 ```
 
+## Data Files
 
-### Advanced Usage
+- `all_team_stats.csv`: Comprehensive team statistics
+- `away_games_stats.csv`: Away game performance metrics
+- `home_games_stats.csv`: Home game performance metrics
+- `schedule_and_results.csv`: Game schedule and outcomes
+- `enhanced_schedule.csv`: Schedule with additional metrics
+- `nba_team_abbreviations.csv`: Team metadata
 
 The script supports several command-line arguments:
 
 ```bash
-python NBAPrediction.py [--load_from_files BOOL] [--load_new BOOL] [--reload_all BOOL] [--num_epochs INT] [--batch_size INT] [--output_type STR]
+python run.py [--load_from_files BOOL] [--load_new BOOL] [--reload_all BOOL] [--num_epochs INT] [--batch_size INT] [--output_type STR]
 ```
 
 
@@ -65,8 +90,6 @@ Arguments:
 - `--num_epochs`: Number of training epochs (default: 200)
 - `--batch_size`: Training batch size (default: 16)
 - `--output_type`: Format for prediction output - 'csv' or 'json' (default: 'csv')
-
-## Data Structure
 
 ### Input Features
 
@@ -130,14 +153,8 @@ The project creates the following files in the data folder:
 - Model needs regular updates as team performance changes throughout the season
 
 ### Known Issues
-- The data loader can be unstable when using `load_new=True`. (I think I resolved this but not sure...)
+- The data loader can be unstable when using `load_new=True`. 
 - Recommended to use `reload_all=True` when loading new data
 - Some game statistics may be missing if basketball-reference.com's structure changes
 
-## Contributing
-
-Feel free to open issues or submit pull requests for improvements. Areas that need work:
-- Robust error handling for data scraping
-- Additional features for player-level statistics
-- Improved prediction accuracy through feature engineering
-- Automated daily updates
+This project is for educational purposes only. Please check local regulations regarding sports betting.
