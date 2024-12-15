@@ -203,11 +203,10 @@ class NBAPredictionModel:
         max_spread = prediction_display['PredictedSpread'].max()
         min_spread = prediction_display['PredictedSpread'].min()
         
-        # Linear scaling between 50% and 95% confidence
+        # Sigmoid scaling between 50% and 95% confidence
         prediction_display['Confidence'] = prediction_display['PredictedSpread'].apply(
-            lambda x: round(50 + (x - min_spread) * (95 - 50) / (max_spread - min_spread), 2)
+            lambda x: round(50 + (95 - 50) / (1 + np.exp(-6 * (x - min_spread) / (max_spread - min_spread) + 3)), 2)
         )
-        
         return prediction_display.sort_values('Date')
     
     def prepare_latest_games(self):
