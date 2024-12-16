@@ -59,7 +59,10 @@ def get_odds(odds_type, abv):
 
         pos = re.search(r'[+-][^+-]*$', entry).start()
         line = entry[:pos]
-        odd = float(entry[pos:])
+        try:
+            odd = float(entry[pos:])
+        except:
+            return None, None, None
 
         if odd < 0:
             implied_prob = round((np.abs(odd) / (np.abs(odd) + 100)) * 100, 2)

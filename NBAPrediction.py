@@ -56,7 +56,7 @@ class NBAPredictionModel:
     Args:
         data (NBADataLoader, optional): Data loader object containing NBA game data
     """
-    def __init__(self, data = None):
+    def __init__(self, data = None, verbose=True):
         self.feature_columns = [
             # Team advanced stats
             'Away_advanced_ORtg', 'Away_advanced_DRtg',
@@ -82,7 +82,8 @@ class NBAPredictionModel:
         self.latest_game_stats = None
         self.schedule_no_results = data.schedule_no_results
         self.data_folder = data.data_folder
-
+        self.verbose = verbose
+        
     def train(self, df, num_epochs=200, batch_size=16):
         """Train the neural network model.
         
@@ -94,6 +95,10 @@ class NBAPredictionModel:
         Returns:
             torch.nn.Module: Trained model in evaluation mode
         """
+        if len(df) < 2:  # Need at least 2 samples for BatchNorm
+            print("Warning: Not enough samples to train. Skipping training.")
+            return
+        
         X = df[self.feature_columns].values
         y = df[self.target_columns].values
         
@@ -104,8 +109,8 @@ class NBAPredictionModel:
         # Create data loaders
         train_dataset = NBADataset(torch.FloatTensor(X_scaled), torch.FloatTensor(y_scaled))
         test_dataset = NBADataset(torch.FloatTensor(X_scaled), torch.FloatTensor(y_scaled))
-        train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True)
-        test_loader = DataLoader(test_dataset, batch_size=batch_size)
+        train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True, drop_last=True)
+        test_loader = DataLoader(test_dataset, batch_size=batch_size, drop_last=True)
 
         # Initialize model and training components
         self.model = NBAPredictor(len(self.feature_columns))
@@ -153,12 +158,14 @@ class NBAPredictionModel:
                 patience_counter += 1
                 
             if patience_counter >= patience:
-                print(f'Early stopping at epoch {epoch+1}')
+                if self.verbose:
+                    print(f'Early stopping at epoch {epoch+1}')
                 break
                 
             if (epoch + 1) % 10 == 0:
                 avg_loss = total_loss / len(train_loader)
-                print(f'Epoch [{epoch+1}/{num_epochs}], Train Loss: {avg_loss:.4f}, Val Loss: {avg_val_loss:.4f}')
+                if self.verbose:
+                    print(f'Epoch [{epoch+1}/{num_epochs}], Train Loss: {avg_loss:.4f}, Val Loss: {avg_val_loss:.4f}')
 
                 # Load best model
         self.model.load_state_dict(torch.load(self.data_folder+'/best_model.pth', weights_only=True))
@@ -204,8 +211,9 @@ class NBAPredictionModel:
         min_spread = prediction_display['PredictedSpread'].min()
         
         # Sigmoid scaling between 50% and 95% confidence
+        epsilon = 1e-10
         prediction_display['Confidence'] = prediction_display['PredictedSpread'].apply(
-            lambda x: round(50 + (95 - 50) / (1 + np.exp(-6 * (x - min_spread) / (max_spread - min_spread) + 3)), 2)
+            lambda x: round(50 + (95 - 50) / (1 + np.exp(-6 * (x - min_spread) / (max_spread - min_spread + epsilon) + 3)), 2)
         )
         return prediction_display.sort_values('Date')
     

@@ -1,6 +1,7 @@
 from LoadNBAData import NBADataLoader
 from NBAPrediction import NBAPredictionModel
 from NBAAnalysis import NBAAnalysis
+from backtest import run_comparative_backtest
 import argparse
 
 def str2bool(v):
@@ -32,38 +33,43 @@ def main():
                        help='Batch size for training (default: 16)')
     parser.add_argument('--output_type', type=str, default='csv',
                        help='Output type (default: csv)')
+    parser.add_argument('--backtest', type=str2bool, nargs='?',
+                       const=True, default=False,
+                       help='Run backtesting (default: False)')
+    parser.add_argument('--backtest_interval', type=str, choices=['day', 'week', 'month'],
+                       default='week',
+                       help='Interval for batch retraining in backtest (default: week)')
 
     args = parser.parse_args()
     
-    # Load data
+    # Regular prediction pipeline
     data_loader = NBADataLoader(load_from_files=args.load_from_files, 
-                               load_new=args.load_new, reload_all=args.reload_all)
+                              load_new=args.load_new, reload_all=args.reload_all)
     data_loader.load_all()
     
-    # Initialize and train model
     model = NBAPredictionModel(data_loader)
     model.train(data_loader.enhanced_schedule, num_epochs=args.num_epochs, batch_size=args.batch_size)
     
-    # Prepare future games data
     model.prepare_latest_games()
     model.prepare_future_games()
     
-    # Make predictions
     predictions = model.predict_future_games(model.future_games)
     
-    # Export predictions
     if args.output_type == 'csv':
         predictions.to_csv('nba_predictions.csv', index=False)
     elif args.output_type == 'json':
         predictions.to_json('nba_predictions.json', orient='records', date_format='iso')
     print(f"Predictions exported to 'nba_predictions.{args.output_type}'")
 
-    # Run analysis
     analysis = NBAAnalysis()
     analysis.perform_analysis()
     analysis.print_stats()
     analysis.save_analysis()
     print("Analysis completed and saved to 'nba_display.csv'")
+
+    if args.backtest:
+        print("\nRunning backtests...")
+        run_comparative_backtest(args.backtest_interval)
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,5 @@
+Metric,SingleModel,monthBatchRetrain
+TotalGames,360.0,305.0
+CorrectPredictions,322.0,218.0
+Accuracy,0.8944444444444445,0.7147540983606557
+AverageSpreadError,4.803888888888889,7.89704918032787
