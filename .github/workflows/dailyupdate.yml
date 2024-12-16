@@ -26,7 +26,7 @@ jobs:
 
     - name: Run script
       run: |
-        python3 run.py --load_new=True --load_from_files=True --reload_all=False
+        python3 run.py --load_new=True --load_from_files=True --reload_all=False --backtest=True --backtest_interval=week
 
     - name: Commit and push if changes
       run: |

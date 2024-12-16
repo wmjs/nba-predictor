@@ -31,11 +31,15 @@ jobs:
         run: |
           ls
           cp nba-predictor/nba_display.csv wmjs.github.io/nba_page
+          cp nba-predictor/backtest_results.csv wmjs.github.io/nba_page
+          cp nba-predictor/backtest_summary.csv wmjs.github.io/nba_page
           cd wmjs.github.io
           if [[ -n $(git status --porcelain) ]]; then
             git config user.name "GitHub Actions Bot"
             git config user.email "actions@github.com"
             git add nba_page/nba_display.csv
+            git add nba_page/backtest_results.csv
+            git add nba_page/backtest_summary.csv
             git commit -m "Update NBA predictions $(date)"
             git push
           fi 
