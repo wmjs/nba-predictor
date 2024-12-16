@@ -36,11 +36,19 @@ def main():
     parser.add_argument('--backtest', type=str2bool, nargs='?',
                        const=True, default=False,
                        help='Run backtesting (default: False)')
+    parser.add_argument('--only_backtest', type=str2bool, nargs='?',
+                       const=True, default=False,
+                       help='Run only backtesting without predictions (default: False)')
     parser.add_argument('--backtest_interval', type=str, choices=['day', 'week', 'month'],
                        default='week',
                        help='Interval for batch retraining in backtest (default: week)')
 
     args = parser.parse_args()
+    
+    if args.only_backtest:
+        print("\nRunning backtests...")
+        run_comparative_backtest(args.backtest_interval)
+        return
     
     # Regular prediction pipeline
     data_loader = NBADataLoader(load_from_files=args.load_from_files, 

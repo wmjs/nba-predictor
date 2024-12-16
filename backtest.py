@@ -9,7 +9,7 @@ from multiprocessing import Pool, cpu_count
 from datetime import datetime, timedelta
 
 class NBABacktester:
-    def __init__(self, retrain_per_game=False, batch_interval='month'):
+    def __init__(self, retrain_per_game=False, batch_interval='week'):
         self.data_loader = NBADataLoader(load_from_files=True, load_new=False, reload_all=False)
         self.model = NBAPredictionModel(self.data_loader, verbose=False)
         self.results = []
@@ -41,6 +41,9 @@ class NBABacktester:
 
     def process_batch(self, batch_data, training_data):
         """Process a batch of games using the same model"""
+        # print(f"\nBatch data shape: {batch_data.shape}")
+        # print(f"Date range: {batch_data['Date'].min()} to {batch_data['Date'].max()}")
+        
         model = NBAPredictionModel(self.data_loader, verbose=False)
         model.train(training_data)
         
@@ -50,7 +53,6 @@ class NBABacktester:
             prediction = model.predict_future_games(game_to_predict)
             result = self.evaluate_prediction(row, prediction)
             batch_results.append(result)
-        
         return batch_results
 
     def run_backtest(self):
@@ -90,10 +92,11 @@ class NBABacktester:
                 batch_results = []
                 for name, group in tqdm(groups, desc="Processing batches"):
                     training_data = schedule_df[schedule_df['Date'] < group['Date'].min()]
-                    if len(training_data) < 11:  # Minimum games needed for training
+                    if len(training_data) < 11:
                         continue
                     results = self.process_batch(group, training_data)
                     batch_results.extend(results)
+                
                 self.results = batch_results
 
     def generate_report(self):
@@ -126,12 +129,11 @@ def run_comparative_backtest(batch_interval='week'):
     batch_results = pd.DataFrame(batch_backtester.results)
     batch_summary = batch_backtester.generate_report()
     
-    # Combine results
     combined_results = pd.merge(
         single_results.add_suffix('_SingleModel'),
         batch_results.add_suffix(f'_{batch_interval}BatchRetrain'),
-        left_index=True, right_index=True,
-        suffixes=('_SingleModel', f'_{batch_interval}BatchRetrain')
+        left_on = 'Date_SingleModel', right_on = f'Date_{batch_interval}BatchRetrain',
+        suffixes=('_SingleModel', f'_{batch_interval}BatchRetrain'), how = 'outer'
     )
     
     # Create combined summary
@@ -152,6 +154,7 @@ def run_comparative_backtest(batch_interval='week'):
     })
     
     # Save combined results
+    combined_results.sort_values(by = 'Date_SingleModel', inplace = True, ascending = False)
     combined_results.to_csv('backtest_results.csv', index=False)
     combined_summary.to_csv('backtest_summary.csv', index=False)
     
