@@ -128,12 +128,12 @@ def run_comparative_backtest(batch_interval='week'):
     batch_backtester.run_backtest()
     batch_results = pd.DataFrame(batch_backtester.results)
     batch_summary = batch_backtester.generate_report()
-    
+
     combined_results = pd.merge(
         single_results.add_suffix('_SingleModel'),
         batch_results.add_suffix(f'_{batch_interval}BatchRetrain'),
-        left_on = 'Date_SingleModel', right_on = f'Date_{batch_interval}BatchRetrain',
-        suffixes=('_SingleModel', f'_{batch_interval}BatchRetrain'), how = 'outer'
+        left_on = ['Date_SingleModel', 'Home_SingleModel', 'Away_SingleModel'], right_on = [f'Date_{batch_interval}BatchRetrain', f'Home_{batch_interval}BatchRetrain', f'Away_{batch_interval}BatchRetrain'],
+        suffixes=('_SingleModel', f'_{batch_interval}BatchRetrain'), how = 'left'
     )
     
     # Create combined summary
