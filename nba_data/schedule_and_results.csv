@@ -1,388 +1,391 @@
 ,Date,Away,AwayPoints,Home,HomePoints,HomeAbbreviation,AwayAbbreviation,GameUrl,A_Team,B_Team,Winner,PointDifferential
-0,2024-10-25,Brooklyn Nets,101.0,Orlando Magic,116.0,ORL,BRK,https://www.basketball-reference.com/boxscores/202410250ORL.html,Brooklyn Nets,Orlando Magic,Home,15.0
-1,2024-10-25,Philadelphia 76ers,107.0,Toronto Raptors,115.0,TOR,PHI,https://www.basketball-reference.com/boxscores/202410250TOR.html,Philadelphia 76ers,Toronto Raptors,Home,8.0
-2,2024-10-25,Charlotte Hornets,120.0,Atlanta Hawks,125.0,ATL,CHO,https://www.basketball-reference.com/boxscores/202410250ATL.html,Atlanta Hawks,Charlotte Hornets,Home,5.0
-3,2024-10-25,Detroit Pistons,101.0,Cleveland Cavaliers,113.0,CLE,DET,https://www.basketball-reference.com/boxscores/202410250CLE.html,Cleveland Cavaliers,Detroit Pistons,Home,12.0
-4,2024-10-25,Indiana Pacers,98.0,New York Knicks,123.0,NYK,IND,https://www.basketball-reference.com/boxscores/202410250NYK.html,Indiana Pacers,New York Knicks,Home,25.0
-5,2024-10-25,Memphis Grizzlies,108.0,Houston Rockets,128.0,HOU,MEM,https://www.basketball-reference.com/boxscores/202410250HOU.html,Houston Rockets,Memphis Grizzlies,Home,20.0
-6,2024-10-25,Chicago Bulls,133.0,Milwaukee Bucks,122.0,MIL,CHI,https://www.basketball-reference.com/boxscores/202410250MIL.html,Chicago Bulls,Milwaukee Bucks,Away,-11.0
-7,2024-10-25,Golden State Warriors,127.0,Utah Jazz,86.0,UTA,GSW,https://www.basketball-reference.com/boxscores/202410250UTA.html,Golden State Warriors,Utah Jazz,Away,-41.0
-8,2024-10-25,Phoenix Suns,116.0,Los Angeles Lakers,123.0,LAL,PHO,https://www.basketball-reference.com/boxscores/202410250LAL.html,Los Angeles Lakers,Phoenix Suns,Home,7.0
-9,2024-10-25,New Orleans Pelicans,105.0,Portland Trail Blazers,103.0,POR,NOP,https://www.basketball-reference.com/boxscores/202410250POR.html,New Orleans Pelicans,Portland Trail Blazers,Away,-2.0
-10,2024-10-26,Los Angeles Clippers,109.0,Denver Nuggets,104.0,DEN,LAC,https://www.basketball-reference.com/boxscores/202410260DEN.html,Denver Nuggets,Los Angeles Clippers,Away,-5.0
-11,2024-10-26,Cleveland Cavaliers,135.0,Washington Wizards,116.0,WAS,CLE,https://www.basketball-reference.com/boxscores/202410260WAS.html,Cleveland Cavaliers,Washington Wizards,Away,-19.0
-12,2024-10-26,Boston Celtics,124.0,Detroit Pistons,118.0,DET,BOS,https://www.basketball-reference.com/boxscores/202410260DET.html,Boston Celtics,Detroit Pistons,Away,-6.0
-13,2024-10-26,Miami Heat,114.0,Charlotte Hornets,106.0,CHO,MIA,https://www.basketball-reference.com/boxscores/202410260CHO.html,Charlotte Hornets,Miami Heat,Away,-8.0
-14,2024-10-26,Orlando Magic,111.0,Memphis Grizzlies,124.0,MEM,ORL,https://www.basketball-reference.com/boxscores/202410260MEM.html,Memphis Grizzlies,Orlando Magic,Home,13.0
-15,2024-10-26,Toronto Raptors,101.0,Minnesota Timberwolves,112.0,MIN,TOR,https://www.basketball-reference.com/boxscores/202410260MIN.html,Minnesota Timberwolves,Toronto Raptors,Home,11.0
-16,2024-10-26,Oklahoma City Thunder,114.0,Chicago Bulls,95.0,CHI,OKC,https://www.basketball-reference.com/boxscores/202410260CHI.html,Chicago Bulls,Oklahoma City Thunder,Away,-19.0
-17,2024-10-26,Houston Rockets,106.0,San Antonio Spurs,109.0,SAS,HOU,https://www.basketball-reference.com/boxscores/202410260SAS.html,Houston Rockets,San Antonio Spurs,Home,3.0
-18,2024-10-26,Dallas Mavericks,102.0,Phoenix Suns,114.0,PHO,DAL,https://www.basketball-reference.com/boxscores/202410260PHO.html,Dallas Mavericks,Phoenix Suns,Home,12.0
-19,2024-10-26,Sacramento Kings,127.0,Los Angeles Lakers,131.0,LAL,SAC,https://www.basketball-reference.com/boxscores/202410260LAL.html,Los Angeles Lakers,Sacramento Kings,Home,4.0
-20,2024-10-27,Philadelphia 76ers,118.0,Indiana Pacers,114.0,IND,PHI,https://www.basketball-reference.com/boxscores/202410270IND.html,Indiana Pacers,Philadelphia 76ers,Away,-4.0
-21,2024-10-27,New Orleans Pelicans,103.0,Portland Trail Blazers,125.0,POR,NOP,https://www.basketball-reference.com/boxscores/202410270POR.html,New Orleans Pelicans,Portland Trail Blazers,Home,22.0
-22,2024-10-27,Milwaukee Bucks,102.0,Brooklyn Nets,115.0,BRK,MIL,https://www.basketball-reference.com/boxscores/202410270BRK.html,Brooklyn Nets,Milwaukee Bucks,Home,13.0
-23,2024-10-27,Atlanta Hawks,104.0,Oklahoma City Thunder,128.0,OKC,ATL,https://www.basketball-reference.com/boxscores/202410270OKC.html,Atlanta Hawks,Oklahoma City Thunder,Home,24.0
-24,2024-10-27,Los Angeles Clippers,112.0,Golden State Warriors,104.0,GSW,LAC,https://www.basketball-reference.com/boxscores/202410270GSW.html,Golden State Warriors,Los Angeles Clippers,Away,-8.0
-25,2024-10-28,Indiana Pacers,115.0,Orlando Magic,119.0,ORL,IND,https://www.basketball-reference.com/boxscores/202410280ORL.html,Indiana Pacers,Orlando Magic,Home,4.0
-26,2024-10-28,Washington Wizards,121.0,Atlanta Hawks,119.0,ATL,WAS,https://www.basketball-reference.com/boxscores/202410280ATL.html,Atlanta Hawks,Washington Wizards,Away,-2.0
-27,2024-10-28,Milwaukee Bucks,108.0,Boston Celtics,119.0,BOS,MIL,https://www.basketball-reference.com/boxscores/202410280BOS.html,Boston Celtics,Milwaukee Bucks,Home,11.0
-28,2024-10-28,Denver Nuggets,127.0,Toronto Raptors,125.0,TOR,DEN,https://www.basketball-reference.com/boxscores/202410280TOR.html,Denver Nuggets,Toronto Raptors,Away,-2.0
-29,2024-10-28,Detroit Pistons,98.0,Miami Heat,106.0,MIA,DET,https://www.basketball-reference.com/boxscores/202410280MIA.html,Detroit Pistons,Miami Heat,Home,8.0
-30,2024-10-28,Cleveland Cavaliers,110.0,New York Knicks,104.0,NYK,CLE,https://www.basketball-reference.com/boxscores/202410280NYK.html,Cleveland Cavaliers,New York Knicks,Away,-6.0
-31,2024-10-28,Houston Rockets,106.0,San Antonio Spurs,101.0,SAS,HOU,https://www.basketball-reference.com/boxscores/202410280SAS.html,Houston Rockets,San Antonio Spurs,Away,-5.0
-32,2024-10-28,Chicago Bulls,126.0,Memphis Grizzlies,123.0,MEM,CHI,https://www.basketball-reference.com/boxscores/202410280MEM.html,Chicago Bulls,Memphis Grizzlies,Away,-3.0
-33,2024-10-28,Utah Jazz,102.0,Dallas Mavericks,110.0,DAL,UTA,https://www.basketball-reference.com/boxscores/202410280DAL.html,Dallas Mavericks,Utah Jazz,Home,8.0
-34,2024-10-28,Portland Trail Blazers,98.0,Sacramento Kings,111.0,SAC,POR,https://www.basketball-reference.com/boxscores/202410280SAC.html,Portland Trail Blazers,Sacramento Kings,Home,13.0
-35,2024-10-28,Los Angeles Lakers,105.0,Phoenix Suns,109.0,PHO,LAL,https://www.basketball-reference.com/boxscores/202410280PHO.html,Los Angeles Lakers,Phoenix Suns,Home,4.0
-36,2024-10-29,Denver Nuggets,144.0,Brooklyn Nets,139.0,BRK,DEN,https://www.basketball-reference.com/boxscores/202410290BRK.html,Brooklyn Nets,Denver Nuggets,Away,-5.0
-37,2024-10-29,Dallas Mavericks,120.0,Minnesota Timberwolves,114.0,MIN,DAL,https://www.basketball-reference.com/boxscores/202410290MIN.html,Dallas Mavericks,Minnesota Timberwolves,Away,-6.0
-38,2024-10-29,Sacramento Kings,113.0,Utah Jazz,96.0,UTA,SAC,https://www.basketball-reference.com/boxscores/202410290UTA.html,Sacramento Kings,Utah Jazz,Away,-17.0
-39,2024-10-29,New Orleans Pelicans,106.0,Golden State Warriors,124.0,GSW,NOP,https://www.basketball-reference.com/boxscores/202410290GSW.html,Golden State Warriors,New Orleans Pelicans,Home,18.0
-40,2024-10-30,Detroit Pistons,105.0,Philadelphia 76ers,95.0,PHI,DET,https://www.basketball-reference.com/boxscores/202410300PHI.html,Detroit Pistons,Philadelphia 76ers,Away,-10.0
-41,2024-10-30,Atlanta Hawks,120.0,Washington Wizards,133.0,WAS,ATL,https://www.basketball-reference.com/boxscores/202410300WAS.html,Atlanta Hawks,Washington Wizards,Home,13.0
-42,2024-10-30,Boston Celtics,132.0,Indiana Pacers,135.0,IND,BOS,https://www.basketball-reference.com/boxscores/202410300IND.html,Boston Celtics,Indiana Pacers,Home,3.0
-43,2024-10-30,Los Angeles Lakers,110.0,Cleveland Cavaliers,134.0,CLE,LAL,https://www.basketball-reference.com/boxscores/202410300CLE.html,Cleveland Cavaliers,Los Angeles Lakers,Home,24.0
-44,2024-10-30,Toronto Raptors,133.0,Charlotte Hornets,138.0,CHO,TOR,https://www.basketball-reference.com/boxscores/202410300CHO.html,Charlotte Hornets,Toronto Raptors,Home,5.0
-45,2024-10-30,New York Knicks,116.0,Miami Heat,107.0,MIA,NYK,https://www.basketball-reference.com/boxscores/202410300MIA.html,Miami Heat,New York Knicks,Away,-9.0
-46,2024-10-30,Orlando Magic,99.0,Chicago Bulls,102.0,CHI,ORL,https://www.basketball-reference.com/boxscores/202410300CHI.html,Chicago Bulls,Orlando Magic,Home,3.0
-47,2024-10-30,Brooklyn Nets,119.0,Memphis Grizzlies,106.0,MEM,BRK,https://www.basketball-reference.com/boxscores/202410300MEM.html,Brooklyn Nets,Memphis Grizzlies,Away,-13.0
-48,2024-10-30,San Antonio Spurs,93.0,Oklahoma City Thunder,105.0,OKC,SAS,https://www.basketball-reference.com/boxscores/202410300OKC.html,Oklahoma City Thunder,San Antonio Spurs,Home,12.0
-49,2024-10-30,New Orleans Pelicans,89.0,Golden State Warriors,104.0,GSW,NOP,https://www.basketball-reference.com/boxscores/202410300GSW.html,Golden State Warriors,New Orleans Pelicans,Home,15.0
-50,2024-10-30,Portland Trail Blazers,106.0,Los Angeles Clippers,105.0,LAC,POR,https://www.basketball-reference.com/boxscores/202410300LAC.html,Los Angeles Clippers,Portland Trail Blazers,Away,-1.0
-51,2024-10-31,Milwaukee Bucks,99.0,Memphis Grizzlies,122.0,MEM,MIL,https://www.basketball-reference.com/boxscores/202410310MEM.html,Memphis Grizzlies,Milwaukee Bucks,Home,23.0
-52,2024-10-31,Houston Rockets,108.0,Dallas Mavericks,102.0,DAL,HOU,https://www.basketball-reference.com/boxscores/202410310DAL.html,Dallas Mavericks,Houston Rockets,Away,-6.0
-53,2024-10-31,San Antonio Spurs,106.0,Utah Jazz,88.0,UTA,SAS,https://www.basketball-reference.com/boxscores/202410310UTA.html,San Antonio Spurs,Utah Jazz,Away,-18.0
-54,2024-10-31,Phoenix Suns,125.0,Los Angeles Clippers,119.0,LAC,PHO,https://www.basketball-reference.com/boxscores/202410310LAC.html,Los Angeles Clippers,Phoenix Suns,Away,-6.0
-55,2024-11-01,Boston Celtics,124.0,Charlotte Hornets,109.0,CHO,BOS,https://www.basketball-reference.com/boxscores/202411010CHO.html,Boston Celtics,Charlotte Hornets,Away,-15.0
-56,2024-11-01,Orlando Magic,109.0,Cleveland Cavaliers,120.0,CLE,ORL,https://www.basketball-reference.com/boxscores/202411010CLE.html,Cleveland Cavaliers,Orlando Magic,Home,11.0
-57,2024-11-01,New York Knicks,128.0,Detroit Pistons,98.0,DET,NYK,https://www.basketball-reference.com/boxscores/202411010DET.html,Detroit Pistons,New York Knicks,Away,-30.0
-58,2024-11-01,Sacramento Kings,123.0,Atlanta Hawks,115.0,ATL,SAC,https://www.basketball-reference.com/boxscores/202411010ATL.html,Atlanta Hawks,Sacramento Kings,Away,-8.0
-59,2024-11-01,Chicago Bulls,112.0,Brooklyn Nets,120.0,BRK,CHI,https://www.basketball-reference.com/boxscores/202411010BRK.html,Brooklyn Nets,Chicago Bulls,Home,8.0
-60,2024-11-01,Los Angeles Lakers,131.0,Toronto Raptors,125.0,TOR,LAL,https://www.basketball-reference.com/boxscores/202411010TOR.html,Los Angeles Lakers,Toronto Raptors,Away,-6.0
-61,2024-11-01,Indiana Pacers,118.0,New Orleans Pelicans,125.0,NOP,IND,https://www.basketball-reference.com/boxscores/202411010NOP.html,Indiana Pacers,New Orleans Pelicans,Home,7.0
-62,2024-11-01,Denver Nuggets,116.0,Minnesota Timberwolves,119.0,MIN,DEN,https://www.basketball-reference.com/boxscores/202411010MIN.html,Denver Nuggets,Minnesota Timberwolves,Home,3.0
-63,2024-11-01,Oklahoma City Thunder,137.0,Portland Trail Blazers,114.0,POR,OKC,https://www.basketball-reference.com/boxscores/202411010POR.html,Oklahoma City Thunder,Portland Trail Blazers,Away,-23.0
-64,2024-11-02,Boston Celtics,113.0,Charlotte Hornets,103.0,CHO,BOS,https://www.basketball-reference.com/boxscores/202411020CHO.html,Boston Celtics,Charlotte Hornets,Away,-10.0
-65,2024-11-02,Memphis Grizzlies,124.0,Philadelphia 76ers,107.0,PHI,MEM,https://www.basketball-reference.com/boxscores/202411020PHI.html,Memphis Grizzlies,Philadelphia 76ers,Away,-17.0
-66,2024-11-02,Sacramento Kings,128.0,Toronto Raptors,131.0,TOR,SAC,https://www.basketball-reference.com/boxscores/202411020TOR.html,Sacramento Kings,Toronto Raptors,Home,3.0
-67,2024-11-02,Golden State Warriors,127.0,Houston Rockets,121.0,HOU,GSW,https://www.basketball-reference.com/boxscores/202411020HOU.html,Golden State Warriors,Houston Rockets,Away,-6.0
-68,2024-11-02,Cleveland Cavaliers,114.0,Milwaukee Bucks,113.0,MIL,CLE,https://www.basketball-reference.com/boxscores/202411020MIL.html,Cleveland Cavaliers,Milwaukee Bucks,Away,-1.0
-69,2024-11-02,Minnesota Timberwolves,103.0,San Antonio Spurs,113.0,SAS,MIN,https://www.basketball-reference.com/boxscores/202411020SAS.html,Minnesota Timberwolves,San Antonio Spurs,Home,10.0
-70,2024-11-02,Miami Heat,118.0,Washington Wizards,98.0,WAS,MIA,https://www.basketball-reference.com/boxscores/202411020WAS.html,Miami Heat,Washington Wizards,Away,-20.0
-71,2024-11-02,Utah Jazz,103.0,Denver Nuggets,129.0,DEN,UTA,https://www.basketball-reference.com/boxscores/202411020DEN.html,Denver Nuggets,Utah Jazz,Home,26.0
-72,2024-11-02,Portland Trail Blazers,97.0,Phoenix Suns,103.0,PHO,POR,https://www.basketball-reference.com/boxscores/202411020PHO.html,Phoenix Suns,Portland Trail Blazers,Home,6.0
-73,2024-11-02,Oklahoma City Thunder,105.0,Los Angeles Clippers,92.0,LAC,OKC,https://www.basketball-reference.com/boxscores/202411020LAC.html,Los Angeles Clippers,Oklahoma City Thunder,Away,-13.0
-74,2024-11-03,Detroit Pistons,106.0,Brooklyn Nets,92.0,BRK,DET,https://www.basketball-reference.com/boxscores/202411030BRK.html,Brooklyn Nets,Detroit Pistons,Away,-14.0
-75,2024-11-03,Atlanta Hawks,126.0,New Orleans Pelicans,111.0,NOP,ATL,https://www.basketball-reference.com/boxscores/202411030NOP.html,Atlanta Hawks,New Orleans Pelicans,Away,-15.0
-76,2024-11-03,Orlando Magic,85.0,Dallas Mavericks,108.0,DAL,ORL,https://www.basketball-reference.com/boxscores/202411030DAL.html,Dallas Mavericks,Orlando Magic,Home,23.0
-77,2024-11-04,Milwaukee Bucks,114.0,Cleveland Cavaliers,116.0,CLE,MIL,https://www.basketball-reference.com/boxscores/202411040CLE.html,Cleveland Cavaliers,Milwaukee Bucks,Home,2.0
-78,2024-11-04,Golden State Warriors,125.0,Washington Wizards,112.0,WAS,GSW,https://www.basketball-reference.com/boxscores/202411040WAS.html,Golden State Warriors,Washington Wizards,Away,-13.0
-79,2024-11-04,Los Angeles Lakers,103.0,Detroit Pistons,115.0,DET,LAL,https://www.basketball-reference.com/boxscores/202411040DET.html,Detroit Pistons,Los Angeles Lakers,Home,12.0
-80,2024-11-04,Boston Celtics,123.0,Atlanta Hawks,93.0,ATL,BOS,https://www.basketball-reference.com/boxscores/202411040ATL.html,Atlanta Hawks,Boston Celtics,Away,-30.0
-81,2024-11-04,Memphis Grizzlies,104.0,Brooklyn Nets,106.0,BRK,MEM,https://www.basketball-reference.com/boxscores/202411040BRK.html,Brooklyn Nets,Memphis Grizzlies,Home,2.0
-82,2024-11-04,Sacramento Kings,111.0,Miami Heat,110.0,MIA,SAC,https://www.basketball-reference.com/boxscores/202411040MIA.html,Miami Heat,Sacramento Kings,Away,-1.0
-83,2024-11-04,Utah Jazz,135.0,Chicago Bulls,126.0,CHI,UTA,https://www.basketball-reference.com/boxscores/202411040CHI.html,Chicago Bulls,Utah Jazz,Away,-9.0
-84,2024-11-04,New York Knicks,97.0,Houston Rockets,109.0,HOU,NYK,https://www.basketball-reference.com/boxscores/202411040HOU.html,Houston Rockets,New York Knicks,Home,12.0
-85,2024-11-04,Charlotte Hornets,93.0,Minnesota Timberwolves,114.0,MIN,CHO,https://www.basketball-reference.com/boxscores/202411040MIN.html,Charlotte Hornets,Minnesota Timberwolves,Home,21.0
-86,2024-11-04,Orlando Magic,86.0,Oklahoma City Thunder,102.0,OKC,ORL,https://www.basketball-reference.com/boxscores/202411040OKC.html,Oklahoma City Thunder,Orlando Magic,Home,16.0
-87,2024-11-04,Portland Trail Blazers,118.0,New Orleans Pelicans,100.0,NOP,POR,https://www.basketball-reference.com/boxscores/202411040NOP.html,New Orleans Pelicans,Portland Trail Blazers,Away,-18.0
-88,2024-11-04,Indiana Pacers,134.0,Dallas Mavericks,127.0,DAL,IND,https://www.basketball-reference.com/boxscores/202411040DAL.html,Dallas Mavericks,Indiana Pacers,Away,-7.0
-89,2024-11-04,Toronto Raptors,119.0,Denver Nuggets,121.0,DEN,TOR,https://www.basketball-reference.com/boxscores/202411040DEN.html,Denver Nuggets,Toronto Raptors,Home,2.0
-90,2024-11-04,Philadelphia 76ers,116.0,Phoenix Suns,118.0,PHO,PHI,https://www.basketball-reference.com/boxscores/202411040PHO.html,Philadelphia 76ers,Phoenix Suns,Home,2.0
-91,2024-11-04,San Antonio Spurs,104.0,Los Angeles Clippers,113.0,LAC,SAS,https://www.basketball-reference.com/boxscores/202411040LAC.html,Los Angeles Clippers,San Antonio Spurs,Home,9.0
-92,2024-11-06,Detroit Pistons,107.0,Charlotte Hornets,108.0,CHO,DET,https://www.basketball-reference.com/boxscores/202411060CHO.html,Charlotte Hornets,Detroit Pistons,Home,1.0
-93,2024-11-06,Orlando Magic,111.0,Indiana Pacers,118.0,IND,ORL,https://www.basketball-reference.com/boxscores/202411060IND.html,Indiana Pacers,Orlando Magic,Home,7.0
-94,2024-11-06,New York Knicks,116.0,Atlanta Hawks,121.0,ATL,NYK,https://www.basketball-reference.com/boxscores/202411060ATL.html,Atlanta Hawks,New York Knicks,Home,5.0
-95,2024-11-06,Golden State Warriors,118.0,Boston Celtics,112.0,BOS,GSW,https://www.basketball-reference.com/boxscores/202411060BOS.html,Boston Celtics,Golden State Warriors,Away,-6.0
-96,2024-11-06,San Antonio Spurs,100.0,Houston Rockets,127.0,HOU,SAS,https://www.basketball-reference.com/boxscores/202411060HOU.html,Houston Rockets,San Antonio Spurs,Home,27.0
-97,2024-11-06,Los Angeles Lakers,114.0,Memphis Grizzlies,131.0,MEM,LAL,https://www.basketball-reference.com/boxscores/202411060MEM.html,Los Angeles Lakers,Memphis Grizzlies,Home,17.0
-98,2024-11-06,Cleveland Cavaliers,131.0,New Orleans Pelicans,122.0,NOP,CLE,https://www.basketball-reference.com/boxscores/202411060NOP.html,Cleveland Cavaliers,New Orleans Pelicans,Away,-9.0
-99,2024-11-06,Chicago Bulls,99.0,Dallas Mavericks,119.0,DAL,CHI,https://www.basketball-reference.com/boxscores/202411060DAL.html,Chicago Bulls,Dallas Mavericks,Home,20.0
-100,2024-11-06,Oklahoma City Thunder,122.0,Denver Nuggets,124.0,DEN,OKC,https://www.basketball-reference.com/boxscores/202411060DEN.html,Denver Nuggets,Oklahoma City Thunder,Home,2.0
-101,2024-11-06,Miami Heat,112.0,Phoenix Suns,115.0,PHO,MIA,https://www.basketball-reference.com/boxscores/202411060PHO.html,Miami Heat,Phoenix Suns,Home,3.0
-102,2024-11-06,Philadelphia 76ers,98.0,Los Angeles Clippers,110.0,LAC,PHI,https://www.basketball-reference.com/boxscores/202411060LAC.html,Los Angeles Clippers,Philadelphia 76ers,Home,12.0
-103,2024-11-06,Toronto Raptors,107.0,Sacramento Kings,122.0,SAC,TOR,https://www.basketball-reference.com/boxscores/202411060SAC.html,Sacramento Kings,Toronto Raptors,Home,15.0
-104,2024-11-07,Minnesota Timberwolves,135.0,Chicago Bulls,119.0,CHI,MIN,https://www.basketball-reference.com/boxscores/202411070CHI.html,Chicago Bulls,Minnesota Timberwolves,Away,-16.0
-105,2024-11-07,Utah Jazz,100.0,Milwaukee Bucks,123.0,MIL,UTA,https://www.basketball-reference.com/boxscores/202411070MIL.html,Milwaukee Bucks,Utah Jazz,Home,23.0
-106,2024-11-07,Portland Trail Blazers,105.0,San Antonio Spurs,118.0,SAS,POR,https://www.basketball-reference.com/boxscores/202411070SAS.html,Portland Trail Blazers,San Antonio Spurs,Home,13.0
-107,2024-11-08,Indiana Pacers,83.0,Charlotte Hornets,103.0,CHO,IND,https://www.basketball-reference.com/boxscores/202411080CHO.html,Charlotte Hornets,Indiana Pacers,Home,20.0
-108,2024-11-08,Atlanta Hawks,121.0,Detroit Pistons,122.0,DET,ATL,https://www.basketball-reference.com/boxscores/202411080DET.html,Atlanta Hawks,Detroit Pistons,Home,1.0
-109,2024-11-08,New Orleans Pelicans,88.0,Orlando Magic,115.0,ORL,NOP,https://www.basketball-reference.com/boxscores/202411080ORL.html,New Orleans Pelicans,Orlando Magic,Home,27.0
-110,2024-11-08,Brooklyn Nets,104.0,Boston Celtics,108.0,BOS,BRK,https://www.basketball-reference.com/boxscores/202411080BOS.html,Boston Celtics,Brooklyn Nets,Home,4.0
-111,2024-11-08,Golden State Warriors,117.0,Cleveland Cavaliers,136.0,CLE,GSW,https://www.basketball-reference.com/boxscores/202411080CLE.html,Cleveland Cavaliers,Golden State Warriors,Home,19.0
-112,2024-11-08,Phoenix Suns,114.0,Dallas Mavericks,113.0,DAL,PHO,https://www.basketball-reference.com/boxscores/202411080DAL.html,Dallas Mavericks,Phoenix Suns,Away,-1.0
-113,2024-11-08,Milwaukee Bucks,94.0,New York Knicks,116.0,NYK,MIL,https://www.basketball-reference.com/boxscores/202411080NYK.html,Milwaukee Bucks,New York Knicks,Home,22.0
-114,2024-11-08,Washington Wizards,104.0,Memphis Grizzlies,128.0,MEM,WAS,https://www.basketball-reference.com/boxscores/202411080MEM.html,Memphis Grizzlies,Washington Wizards,Home,24.0
-115,2024-11-08,Houston Rockets,107.0,Oklahoma City Thunder,126.0,OKC,HOU,https://www.basketball-reference.com/boxscores/202411080OKC.html,Houston Rockets,Oklahoma City Thunder,Home,19.0
-116,2024-11-08,Miami Heat,122.0,Denver Nuggets,135.0,DEN,MIA,https://www.basketball-reference.com/boxscores/202411080DEN.html,Denver Nuggets,Miami Heat,Home,13.0
-117,2024-11-08,Portland Trail Blazers,102.0,Minnesota Timberwolves,127.0,MIN,POR,https://www.basketball-reference.com/boxscores/202411080MIN.html,Minnesota Timberwolves,Portland Trail Blazers,Home,25.0
-118,2024-11-08,Philadelphia 76ers,106.0,Los Angeles Lakers,116.0,LAL,PHI,https://www.basketball-reference.com/boxscores/202411080LAL.html,Los Angeles Lakers,Philadelphia 76ers,Home,10.0
-119,2024-11-08,Los Angeles Clippers,107.0,Sacramento Kings,98.0,SAC,LAC,https://www.basketball-reference.com/boxscores/202411080SAC.html,Los Angeles Clippers,Sacramento Kings,Away,-9.0
-120,2024-11-09,Utah Jazz,111.0,San Antonio Spurs,110.0,SAS,UTA,https://www.basketball-reference.com/boxscores/202411090SAS.html,San Antonio Spurs,Utah Jazz,Away,-1.0
-121,2024-11-09,Chicago Bulls,125.0,Atlanta Hawks,113.0,ATL,CHI,https://www.basketball-reference.com/boxscores/202411090ATL.html,Atlanta Hawks,Chicago Bulls,Away,-12.0
-122,2024-11-09,Brooklyn Nets,100.0,Cleveland Cavaliers,105.0,CLE,BRK,https://www.basketball-reference.com/boxscores/202411090CLE.html,Brooklyn Nets,Cleveland Cavaliers,Home,5.0
-123,2024-11-09,Toronto Raptors,103.0,Los Angeles Clippers,105.0,LAC,TOR,https://www.basketball-reference.com/boxscores/202411090LAC.html,Los Angeles Clippers,Toronto Raptors,Home,2.0
-124,2024-11-10,Houston Rockets,101.0,Detroit Pistons,99.0,DET,HOU,https://www.basketball-reference.com/boxscores/202411100DET.html,Detroit Pistons,Houston Rockets,Away,-2.0
-125,2024-11-10,Boston Celtics,113.0,Milwaukee Bucks,107.0,MIL,BOS,https://www.basketball-reference.com/boxscores/202411100MIL.html,Boston Celtics,Milwaukee Bucks,Away,-6.0
-126,2024-11-10,New York Knicks,121.0,Indiana Pacers,132.0,IND,NYK,https://www.basketball-reference.com/boxscores/202411100IND.html,Indiana Pacers,New York Knicks,Home,11.0
-127,2024-11-10,Washington Wizards,94.0,Orlando Magic,121.0,ORL,WAS,https://www.basketball-reference.com/boxscores/202411100ORL.html,Orlando Magic,Washington Wizards,Home,27.0
-128,2024-11-10,Miami Heat,95.0,Minnesota Timberwolves,94.0,MIN,MIA,https://www.basketball-reference.com/boxscores/202411100MIN.html,Miami Heat,Minnesota Timberwolves,Away,-1.0
-129,2024-11-10,Golden State Warriors,127.0,Oklahoma City Thunder,116.0,OKC,GSW,https://www.basketball-reference.com/boxscores/202411100OKC.html,Golden State Warriors,Oklahoma City Thunder,Away,-11.0
-130,2024-11-10,Charlotte Hornets,105.0,Philadelphia 76ers,107.0,PHI,CHO,https://www.basketball-reference.com/boxscores/202411100PHI.html,Charlotte Hornets,Philadelphia 76ers,Home,2.0
-131,2024-11-10,Dallas Mavericks,120.0,Denver Nuggets,122.0,DEN,DAL,https://www.basketball-reference.com/boxscores/202411100DEN.html,Dallas Mavericks,Denver Nuggets,Home,2.0
-132,2024-11-10,Sacramento Kings,127.0,Phoenix Suns,118.0,PHO,SAC,https://www.basketball-reference.com/boxscores/202411100PHO.html,Phoenix Suns,Sacramento Kings,Away,-9.0
-133,2024-11-10,Memphis Grizzlies,134.0,Portland Trail Blazers,89.0,POR,MEM,https://www.basketball-reference.com/boxscores/202411100POR.html,Memphis Grizzlies,Portland Trail Blazers,Away,-45.0
-134,2024-11-10,Toronto Raptors,103.0,Los Angeles Lakers,123.0,LAL,TOR,https://www.basketball-reference.com/boxscores/202411100LAL.html,Los Angeles Lakers,Toronto Raptors,Home,20.0
-135,2024-11-11,Cleveland Cavaliers,119.0,Chicago Bulls,113.0,CHI,CLE,https://www.basketball-reference.com/boxscores/202411110CHI.html,Chicago Bulls,Cleveland Cavaliers,Away,-6.0
-136,2024-11-11,Washington Wizards,92.0,Houston Rockets,107.0,HOU,WAS,https://www.basketball-reference.com/boxscores/202411110HOU.html,Houston Rockets,Washington Wizards,Home,15.0
-137,2024-11-11,Brooklyn Nets,107.0,New Orleans Pelicans,105.0,NOP,BRK,https://www.basketball-reference.com/boxscores/202411110NOP.html,Brooklyn Nets,New Orleans Pelicans,Away,-2.0
-138,2024-11-11,Los Angeles Clippers,128.0,Oklahoma City Thunder,134.0,OKC,LAC,https://www.basketball-reference.com/boxscores/202411110OKC.html,Los Angeles Clippers,Oklahoma City Thunder,Home,6.0
-139,2024-11-11,Sacramento Kings,96.0,San Antonio Spurs,116.0,SAS,SAC,https://www.basketball-reference.com/boxscores/202411110SAS.html,Sacramento Kings,San Antonio Spurs,Home,20.0
-140,2024-11-12,Atlanta Hawks,117.0,Boston Celtics,116.0,BOS,ATL,https://www.basketball-reference.com/boxscores/202411120BOS.html,Atlanta Hawks,Boston Celtics,Away,-1.0
-141,2024-11-12,Miami Heat,121.0,Detroit Pistons,123.0,DET,MIA,https://www.basketball-reference.com/boxscores/202411120DET.html,Detroit Pistons,Miami Heat,Home,2.0
-142,2024-11-12,Charlotte Hornets,89.0,Orlando Magic,114.0,ORL,CHO,https://www.basketball-reference.com/boxscores/202411120ORL.html,Charlotte Hornets,Orlando Magic,Home,25.0
-143,2024-11-12,New York Knicks,111.0,Philadelphia 76ers,99.0,PHI,NYK,https://www.basketball-reference.com/boxscores/202411120PHI.html,New York Knicks,Philadelphia 76ers,Away,-12.0
-144,2024-11-12,Toronto Raptors,85.0,Milwaukee Bucks,99.0,MIL,TOR,https://www.basketball-reference.com/boxscores/202411120MIL.html,Milwaukee Bucks,Toronto Raptors,Home,14.0
-145,2024-11-12,Phoenix Suns,120.0,Utah Jazz,112.0,UTA,PHO,https://www.basketball-reference.com/boxscores/202411120UTA.html,Phoenix Suns,Utah Jazz,Away,-8.0
-146,2024-11-12,Dallas Mavericks,117.0,Golden State Warriors,120.0,GSW,DAL,https://www.basketball-reference.com/boxscores/202411120GSW.html,Dallas Mavericks,Golden State Warriors,Home,3.0
-147,2024-11-12,Minnesota Timberwolves,108.0,Portland Trail Blazers,122.0,POR,MIN,https://www.basketball-reference.com/boxscores/202411120POR.html,Minnesota Timberwolves,Portland Trail Blazers,Home,14.0
-148,2024-11-13,Indiana Pacers,90.0,Orlando Magic,94.0,ORL,IND,https://www.basketball-reference.com/boxscores/202411130ORL.html,Indiana Pacers,Orlando Magic,Home,4.0
-149,2024-11-13,Boston Celtics,139.0,Brooklyn Nets,114.0,BRK,BOS,https://www.basketball-reference.com/boxscores/202411130BRK.html,Boston Celtics,Brooklyn Nets,Away,-25.0
-150,2024-11-13,Chicago Bulls,124.0,New York Knicks,123.0,NYK,CHI,https://www.basketball-reference.com/boxscores/202411130NYK.html,Chicago Bulls,New York Knicks,Away,-1.0
-151,2024-11-13,New Orleans Pelicans,88.0,Oklahoma City Thunder,106.0,OKC,NOP,https://www.basketball-reference.com/boxscores/202411130OKC.html,New Orleans Pelicans,Oklahoma City Thunder,Home,18.0
-152,2024-11-13,Cleveland Cavaliers,114.0,Philadelphia 76ers,106.0,PHI,CLE,https://www.basketball-reference.com/boxscores/202411130PHI.html,Cleveland Cavaliers,Philadelphia 76ers,Away,-8.0
-153,2024-11-13,Los Angeles Clippers,103.0,Houston Rockets,111.0,HOU,LAC,https://www.basketball-reference.com/boxscores/202411130HOU.html,Houston Rockets,Los Angeles Clippers,Home,8.0
-154,2024-11-13,Detroit Pistons,120.0,Milwaukee Bucks,127.0,MIL,DET,https://www.basketball-reference.com/boxscores/202411130MIL.html,Detroit Pistons,Milwaukee Bucks,Home,7.0
-155,2024-11-13,Washington Wizards,130.0,San Antonio Spurs,139.0,SAS,WAS,https://www.basketball-reference.com/boxscores/202411130SAS.html,San Antonio Spurs,Washington Wizards,Home,9.0
-156,2024-11-13,Memphis Grizzlies,123.0,Los Angeles Lakers,128.0,LAL,MEM,https://www.basketball-reference.com/boxscores/202411130LAL.html,Los Angeles Lakers,Memphis Grizzlies,Home,5.0
-157,2024-11-13,Minnesota Timberwolves,98.0,Portland Trail Blazers,106.0,POR,MIN,https://www.basketball-reference.com/boxscores/202411130POR.html,Minnesota Timberwolves,Portland Trail Blazers,Home,8.0
-158,2024-11-13,Phoenix Suns,104.0,Sacramento Kings,127.0,SAC,PHO,https://www.basketball-reference.com/boxscores/202411130SAC.html,Phoenix Suns,Sacramento Kings,Home,23.0
-159,2024-11-14,Dallas Mavericks,113.0,Utah Jazz,115.0,UTA,DAL,https://www.basketball-reference.com/boxscores/202411140UTA.html,Dallas Mavericks,Utah Jazz,Home,2.0
-160,2024-11-15,Miami Heat,124.0,Indiana Pacers,111.0,IND,MIA,https://www.basketball-reference.com/boxscores/202411150IND.html,Indiana Pacers,Miami Heat,Away,-13.0
-161,2024-11-15,Philadelphia 76ers,86.0,Orlando Magic,98.0,ORL,PHI,https://www.basketball-reference.com/boxscores/202411150ORL.html,Orlando Magic,Philadelphia 76ers,Home,12.0
-162,2024-11-15,Detroit Pistons,99.0,Toronto Raptors,95.0,TOR,DET,https://www.basketball-reference.com/boxscores/202411150TOR.html,Detroit Pistons,Toronto Raptors,Away,-4.0
-163,2024-11-15,Washington Wizards,117.0,Atlanta Hawks,129.0,ATL,WAS,https://www.basketball-reference.com/boxscores/202411150ATL.html,Atlanta Hawks,Washington Wizards,Home,12.0
-164,2024-11-15,Chicago Bulls,126.0,Cleveland Cavaliers,144.0,CLE,CHI,https://www.basketball-reference.com/boxscores/202411150CLE.html,Chicago Bulls,Cleveland Cavaliers,Home,18.0
-165,2024-11-15,Brooklyn Nets,122.0,New York Knicks,124.0,NYK,BRK,https://www.basketball-reference.com/boxscores/202411150NYK.html,Brooklyn Nets,New York Knicks,Home,2.0
-166,2024-11-15,Los Angeles Lakers,120.0,San Antonio Spurs,115.0,SAS,LAL,https://www.basketball-reference.com/boxscores/202411150SAS.html,Los Angeles Lakers,San Antonio Spurs,Away,-5.0
-167,2024-11-15,Los Angeles Clippers,104.0,Houston Rockets,125.0,HOU,LAC,https://www.basketball-reference.com/boxscores/202411150HOU.html,Houston Rockets,Los Angeles Clippers,Home,21.0
-168,2024-11-15,Denver Nuggets,94.0,New Orleans Pelicans,101.0,NOP,DEN,https://www.basketball-reference.com/boxscores/202411150NOP.html,Denver Nuggets,New Orleans Pelicans,Home,7.0
-169,2024-11-15,Phoenix Suns,83.0,Oklahoma City Thunder,99.0,OKC,PHO,https://www.basketball-reference.com/boxscores/202411150OKC.html,Oklahoma City Thunder,Phoenix Suns,Home,16.0
-170,2024-11-15,Memphis Grizzlies,118.0,Golden State Warriors,123.0,GSW,MEM,https://www.basketball-reference.com/boxscores/202411150GSW.html,Golden State Warriors,Memphis Grizzlies,Home,5.0
-171,2024-11-15,Minnesota Timberwolves,130.0,Sacramento Kings,126.0,SAC,MIN,https://www.basketball-reference.com/boxscores/202411150SAC.html,Minnesota Timberwolves,Sacramento Kings,Away,-4.0
-172,2024-11-16,Milwaukee Bucks,114.0,Charlotte Hornets,115.0,CHO,MIL,https://www.basketball-reference.com/boxscores/202411160CHO.html,Charlotte Hornets,Milwaukee Bucks,Home,1.0
-173,2024-11-16,Toronto Raptors,123.0,Boston Celtics,126.0,BOS,TOR,https://www.basketball-reference.com/boxscores/202411160BOS.html,Boston Celtics,Toronto Raptors,Home,3.0
-174,2024-11-16,Los Angeles Lakers,104.0,New Orleans Pelicans,99.0,NOP,LAL,https://www.basketball-reference.com/boxscores/202411160NOP.html,Los Angeles Lakers,New Orleans Pelicans,Away,-5.0
-175,2024-11-16,San Antonio Spurs,93.0,Dallas Mavericks,110.0,DAL,SAS,https://www.basketball-reference.com/boxscores/202411160DAL.html,Dallas Mavericks,San Antonio Spurs,Home,17.0
-176,2024-11-16,Utah Jazz,117.0,Sacramento Kings,121.0,SAC,UTA,https://www.basketball-reference.com/boxscores/202411160SAC.html,Sacramento Kings,Utah Jazz,Home,4.0
-177,2024-11-17,Phoenix Suns,117.0,Minnesota Timberwolves,120.0,MIN,PHO,https://www.basketball-reference.com/boxscores/202411170MIN.html,Minnesota Timberwolves,Phoenix Suns,Home,3.0
-178,2024-11-17,Miami Heat,110.0,Indiana Pacers,119.0,IND,MIA,https://www.basketball-reference.com/boxscores/202411170IND.html,Indiana Pacers,Miami Heat,Home,9.0
-179,2024-11-17,Charlotte Hornets,114.0,Cleveland Cavaliers,128.0,CLE,CHO,https://www.basketball-reference.com/boxscores/202411170CLE.html,Charlotte Hornets,Cleveland Cavaliers,Home,14.0
-180,2024-11-17,Denver Nuggets,90.0,Memphis Grizzlies,105.0,MEM,DEN,https://www.basketball-reference.com/boxscores/202411170MEM.html,Denver Nuggets,Memphis Grizzlies,Home,15.0
-181,2024-11-17,Atlanta Hawks,110.0,Portland Trail Blazers,114.0,POR,ATL,https://www.basketball-reference.com/boxscores/202411170POR.html,Atlanta Hawks,Portland Trail Blazers,Home,4.0
-182,2024-11-17,Detroit Pistons,124.0,Washington Wizards,104.0,WAS,DET,https://www.basketball-reference.com/boxscores/202411170WAS.html,Detroit Pistons,Washington Wizards,Away,-20.0
-183,2024-11-17,Houston Rockets,143.0,Chicago Bulls,107.0,CHI,HOU,https://www.basketball-reference.com/boxscores/202411170CHI.html,Chicago Bulls,Houston Rockets,Away,-36.0
-184,2024-11-17,Brooklyn Nets,104.0,New York Knicks,114.0,NYK,BRK,https://www.basketball-reference.com/boxscores/202411170NYK.html,Brooklyn Nets,New York Knicks,Home,10.0
-185,2024-11-17,Dallas Mavericks,121.0,Oklahoma City Thunder,119.0,OKC,DAL,https://www.basketball-reference.com/boxscores/202411170OKC.html,Dallas Mavericks,Oklahoma City Thunder,Away,-2.0
-186,2024-11-17,Utah Jazz,105.0,Los Angeles Clippers,116.0,LAC,UTA,https://www.basketball-reference.com/boxscores/202411170LAC.html,Los Angeles Clippers,Utah Jazz,Home,11.0
-187,2024-11-18,Chicago Bulls,122.0,Detroit Pistons,112.0,DET,CHI,https://www.basketball-reference.com/boxscores/202411180DET.html,Chicago Bulls,Detroit Pistons,Away,-10.0
-188,2024-11-18,Philadelphia 76ers,89.0,Miami Heat,106.0,MIA,PHI,https://www.basketball-reference.com/boxscores/202411180MIA.html,Miami Heat,Philadelphia 76ers,Home,17.0
-189,2024-11-18,Washington Wizards,106.0,New York Knicks,134.0,NYK,WAS,https://www.basketball-reference.com/boxscores/202411180NYK.html,New York Knicks,Washington Wizards,Home,28.0
-190,2024-11-18,Indiana Pacers,119.0,Toronto Raptors,130.0,TOR,IND,https://www.basketball-reference.com/boxscores/202411180TOR.html,Indiana Pacers,Toronto Raptors,Home,11.0
-191,2024-11-18,Houston Rockets,100.0,Milwaukee Bucks,101.0,MIL,HOU,https://www.basketball-reference.com/boxscores/202411180MIL.html,Houston Rockets,Milwaukee Bucks,Home,1.0
-192,2024-11-18,Orlando Magic,109.0,Phoenix Suns,99.0,PHO,ORL,https://www.basketball-reference.com/boxscores/202411180PHO.html,Orlando Magic,Phoenix Suns,Away,-10.0
-193,2024-11-18,Atlanta Hawks,109.0,Sacramento Kings,108.0,SAC,ATL,https://www.basketball-reference.com/boxscores/202411180SAC.html,Atlanta Hawks,Sacramento Kings,Away,-1.0
-194,2024-11-18,Golden State Warriors,99.0,Los Angeles Clippers,102.0,LAC,GSW,https://www.basketball-reference.com/boxscores/202411180LAC.html,Golden State Warriors,Los Angeles Clippers,Home,3.0
-195,2024-11-19,Cleveland Cavaliers,117.0,Boston Celtics,120.0,BOS,CLE,https://www.basketball-reference.com/boxscores/202411190BOS.html,Boston Celtics,Cleveland Cavaliers,Home,3.0
-196,2024-11-19,Charlotte Hornets,115.0,Brooklyn Nets,116.0,BRK,CHO,https://www.basketball-reference.com/boxscores/202411190BRK.html,Brooklyn Nets,Charlotte Hornets,Home,1.0
-197,2024-11-19,Denver Nuggets,122.0,Memphis Grizzlies,110.0,MEM,DEN,https://www.basketball-reference.com/boxscores/202411190MEM.html,Denver Nuggets,Memphis Grizzlies,Away,-12.0
-198,2024-11-19,New Orleans Pelicans,91.0,Dallas Mavericks,132.0,DAL,NOP,https://www.basketball-reference.com/boxscores/202411190DAL.html,Dallas Mavericks,New Orleans Pelicans,Home,41.0
-199,2024-11-19,Oklahoma City Thunder,104.0,San Antonio Spurs,110.0,SAS,OKC,https://www.basketball-reference.com/boxscores/202411190SAS.html,Oklahoma City Thunder,San Antonio Spurs,Home,6.0
-200,2024-11-19,Utah Jazz,118.0,Los Angeles Lakers,124.0,LAL,UTA,https://www.basketball-reference.com/boxscores/202411190LAL.html,Los Angeles Lakers,Utah Jazz,Home,6.0
-201,2024-11-20,New Orleans Pelicans,100.0,Cleveland Cavaliers,128.0,CLE,NOP,https://www.basketball-reference.com/boxscores/202411200CLE.html,Cleveland Cavaliers,New Orleans Pelicans,Home,28.0
-202,2024-11-20,Chicago Bulls,106.0,Milwaukee Bucks,122.0,MIL,CHI,https://www.basketball-reference.com/boxscores/202411200MIL.html,Chicago Bulls,Milwaukee Bucks,Home,16.0
-203,2024-11-20,Indiana Pacers,113.0,Houston Rockets,130.0,HOU,IND,https://www.basketball-reference.com/boxscores/202411200HOU.html,Houston Rockets,Indiana Pacers,Home,17.0
-204,2024-11-20,Philadelphia 76ers,111.0,Memphis Grizzlies,117.0,MEM,PHI,https://www.basketball-reference.com/boxscores/202411200MEM.html,Memphis Grizzlies,Philadelphia 76ers,Home,6.0
-205,2024-11-20,Portland Trail Blazers,99.0,Oklahoma City Thunder,109.0,OKC,POR,https://www.basketball-reference.com/boxscores/202411200OKC.html,Oklahoma City Thunder,Portland Trail Blazers,Home,10.0
-206,2024-11-20,Atlanta Hawks,97.0,Golden State Warriors,120.0,GSW,ATL,https://www.basketball-reference.com/boxscores/202411200GSW.html,Atlanta Hawks,Golden State Warriors,Home,23.0
-207,2024-11-20,New York Knicks,138.0,Phoenix Suns,122.0,PHO,NYK,https://www.basketball-reference.com/boxscores/202411200PHO.html,New York Knicks,Phoenix Suns,Away,-16.0
-208,2024-11-20,Orlando Magic,93.0,Los Angeles Clippers,104.0,LAC,ORL,https://www.basketball-reference.com/boxscores/202411200LAC.html,Los Angeles Clippers,Orlando Magic,Home,11.0
-209,2024-11-21,Detroit Pistons,121.0,Charlotte Hornets,123.0,CHO,DET,https://www.basketball-reference.com/boxscores/202411210CHO.html,Charlotte Hornets,Detroit Pistons,Home,2.0
-210,2024-11-21,Minnesota Timberwolves,105.0,Toronto Raptors,110.0,TOR,MIN,https://www.basketball-reference.com/boxscores/202411210TOR.html,Minnesota Timberwolves,Toronto Raptors,Home,5.0
-211,2024-11-21,Utah Jazz,118.0,San Antonio Spurs,126.0,SAS,UTA,https://www.basketball-reference.com/boxscores/202411210SAS.html,San Antonio Spurs,Utah Jazz,Home,8.0
-212,2024-11-21,Orlando Magic,119.0,Los Angeles Lakers,118.0,LAL,ORL,https://www.basketball-reference.com/boxscores/202411210LAL.html,Los Angeles Lakers,Orlando Magic,Away,-1.0
-213,2024-11-22,Brooklyn Nets,98.0,Philadelphia 76ers,113.0,PHI,BRK,https://www.basketball-reference.com/boxscores/202411220PHI.html,Brooklyn Nets,Philadelphia 76ers,Home,15.0
-214,2024-11-22,Boston Celtics,108.0,Washington Wizards,96.0,WAS,BOS,https://www.basketball-reference.com/boxscores/202411220WAS.html,Boston Celtics,Washington Wizards,Away,-12.0
-215,2024-11-22,Golden State Warriors,112.0,New Orleans Pelicans,108.0,NOP,GSW,https://www.basketball-reference.com/boxscores/202411220NOP.html,Golden State Warriors,New Orleans Pelicans,Away,-4.0
-216,2024-11-22,Atlanta Hawks,122.0,Chicago Bulls,136.0,CHI,ATL,https://www.basketball-reference.com/boxscores/202411220CHI.html,Atlanta Hawks,Chicago Bulls,Home,14.0
-217,2024-11-22,Portland Trail Blazers,88.0,Houston Rockets,116.0,HOU,POR,https://www.basketball-reference.com/boxscores/202411220HOU.html,Houston Rockets,Portland Trail Blazers,Home,28.0
-218,2024-11-22,Indiana Pacers,117.0,Milwaukee Bucks,129.0,MIL,IND,https://www.basketball-reference.com/boxscores/202411220MIL.html,Indiana Pacers,Milwaukee Bucks,Home,12.0
-219,2024-11-22,Dallas Mavericks,123.0,Denver Nuggets,120.0,DEN,DAL,https://www.basketball-reference.com/boxscores/202411220DEN.html,Dallas Mavericks,Denver Nuggets,Away,-3.0
-220,2024-11-22,Sacramento Kings,88.0,Los Angeles Clippers,104.0,LAC,SAC,https://www.basketball-reference.com/boxscores/202411220LAC.html,Los Angeles Clippers,Sacramento Kings,Home,16.0
-221,2024-11-23,New York Knicks,106.0,Utah Jazz,121.0,UTA,NYK,https://www.basketball-reference.com/boxscores/202411230UTA.html,New York Knicks,Utah Jazz,Home,15.0
-222,2024-11-23,Detroit Pistons,100.0,Orlando Magic,111.0,ORL,DET,https://www.basketball-reference.com/boxscores/202411230ORL.html,Detroit Pistons,Orlando Magic,Home,11.0
-223,2024-11-23,Memphis Grizzlies,142.0,Chicago Bulls,131.0,CHI,MEM,https://www.basketball-reference.com/boxscores/202411230CHI.html,Chicago Bulls,Memphis Grizzlies,Away,-11.0
-224,2024-11-23,Portland Trail Blazers,104.0,Houston Rockets,98.0,HOU,POR,https://www.basketball-reference.com/boxscores/202411230HOU.html,Houston Rockets,Portland Trail Blazers,Away,-6.0
-225,2024-11-23,Charlotte Hornets,119.0,Milwaukee Bucks,125.0,MIL,CHO,https://www.basketball-reference.com/boxscores/202411230MIL.html,Charlotte Hornets,Milwaukee Bucks,Home,6.0
-226,2024-11-23,Golden State Warriors,94.0,San Antonio Spurs,104.0,SAS,GSW,https://www.basketball-reference.com/boxscores/202411230SAS.html,Golden State Warriors,San Antonio Spurs,Home,10.0
-227,2024-11-23,Denver Nuggets,127.0,Los Angeles Lakers,102.0,LAL,DEN,https://www.basketball-reference.com/boxscores/202411230LAL.html,Denver Nuggets,Los Angeles Lakers,Away,-25.0
-228,2024-11-24,Minnesota Timberwolves,105.0,Boston Celtics,107.0,BOS,MIN,https://www.basketball-reference.com/boxscores/202411240BOS.html,Boston Celtics,Minnesota Timberwolves,Home,2.0
-229,2024-11-24,Washington Wizards,103.0,Indiana Pacers,115.0,IND,WAS,https://www.basketball-reference.com/boxscores/202411240IND.html,Indiana Pacers,Washington Wizards,Home,12.0
-230,2024-11-24,Dallas Mavericks,118.0,Miami Heat,123.0,MIA,DAL,https://www.basketball-reference.com/boxscores/202411240MIA.html,Dallas Mavericks,Miami Heat,Home,5.0
-231,2024-11-24,Los Angeles Clippers,125.0,Philadelphia 76ers,99.0,PHI,LAC,https://www.basketball-reference.com/boxscores/202411240PHI.html,Los Angeles Clippers,Philadelphia 76ers,Away,-26.0
-232,2024-11-24,Toronto Raptors,108.0,Cleveland Cavaliers,122.0,CLE,TOR,https://www.basketball-reference.com/boxscores/202411240CLE.html,Cleveland Cavaliers,Toronto Raptors,Home,14.0
-233,2024-11-24,Brooklyn Nets,108.0,Sacramento Kings,103.0,SAC,BRK,https://www.basketball-reference.com/boxscores/202411240SAC.html,Brooklyn Nets,Sacramento Kings,Away,-5.0
-234,2024-11-25,Orlando Magic,95.0,Charlotte Hornets,84.0,CHO,ORL,https://www.basketball-reference.com/boxscores/202411250CHO.html,Charlotte Hornets,Orlando Magic,Away,-11.0
-235,2024-11-25,Toronto Raptors,100.0,Detroit Pistons,102.0,DET,TOR,https://www.basketball-reference.com/boxscores/202411250DET.html,Detroit Pistons,Toronto Raptors,Home,2.0
-236,2024-11-25,New Orleans Pelicans,110.0,Indiana Pacers,114.0,IND,NOP,https://www.basketball-reference.com/boxscores/202411250IND.html,Indiana Pacers,New Orleans Pelicans,Home,4.0
-237,2024-11-25,Dallas Mavericks,129.0,Atlanta Hawks,119.0,ATL,DAL,https://www.basketball-reference.com/boxscores/202411250ATL.html,Atlanta Hawks,Dallas Mavericks,Away,-10.0
-238,2024-11-25,Los Angeles Clippers,94.0,Boston Celtics,126.0,BOS,LAC,https://www.basketball-reference.com/boxscores/202411250BOS.html,Boston Celtics,Los Angeles Clippers,Home,32.0
-239,2024-11-25,Portland Trail Blazers,98.0,Memphis Grizzlies,123.0,MEM,POR,https://www.basketball-reference.com/boxscores/202411250MEM.html,Memphis Grizzlies,Portland Trail Blazers,Home,25.0
-240,2024-11-25,New York Knicks,145.0,Denver Nuggets,118.0,DEN,NYK,https://www.basketball-reference.com/boxscores/202411250DEN.html,Denver Nuggets,New York Knicks,Away,-27.0
-241,2024-11-25,Brooklyn Nets,128.0,Golden State Warriors,120.0,GSW,BRK,https://www.basketball-reference.com/boxscores/202411250GSW.html,Brooklyn Nets,Golden State Warriors,Away,-8.0
-242,2024-11-25,Oklahoma City Thunder,130.0,Sacramento Kings,109.0,SAC,OKC,https://www.basketball-reference.com/boxscores/202411250SAC.html,Oklahoma City Thunder,Sacramento Kings,Away,-21.0
-243,2024-11-26,Chicago Bulls,127.0,Washington Wizards,108.0,WAS,CHI,https://www.basketball-reference.com/boxscores/202411260WAS.html,Chicago Bulls,Washington Wizards,Away,-19.0
-244,2024-11-26,Milwaukee Bucks,106.0,Miami Heat,103.0,MIA,MIL,https://www.basketball-reference.com/boxscores/202411260MIA.html,Miami Heat,Milwaukee Bucks,Away,-3.0
-245,2024-11-26,Houston Rockets,117.0,Minnesota Timberwolves,111.0,MIN,HOU,https://www.basketball-reference.com/boxscores/202411260MIN.html,Houston Rockets,Minnesota Timberwolves,Away,-6.0
-246,2024-11-26,San Antonio Spurs,128.0,Utah Jazz,115.0,UTA,SAS,https://www.basketball-reference.com/boxscores/202411260UTA.html,San Antonio Spurs,Utah Jazz,Away,-13.0
-247,2024-11-26,Los Angeles Lakers,100.0,Phoenix Suns,127.0,PHO,LAL,https://www.basketball-reference.com/boxscores/202411260PHO.html,Los Angeles Lakers,Phoenix Suns,Home,27.0
-248,2024-11-27,Miami Heat,98.0,Charlotte Hornets,94.0,CHO,MIA,https://www.basketball-reference.com/boxscores/202411270CHO.html,Charlotte Hornets,Miami Heat,Away,-4.0
-249,2024-11-27,Atlanta Hawks,135.0,Cleveland Cavaliers,124.0,CLE,ATL,https://www.basketball-reference.com/boxscores/202411270CLE.html,Atlanta Hawks,Cleveland Cavaliers,Away,-11.0
-250,2024-11-27,Portland Trail Blazers,114.0,Indiana Pacers,121.0,IND,POR,https://www.basketball-reference.com/boxscores/202411270IND.html,Indiana Pacers,Portland Trail Blazers,Home,7.0
-251,2024-11-27,Chicago Bulls,119.0,Orlando Magic,133.0,ORL,CHI,https://www.basketball-reference.com/boxscores/202411270ORL.html,Chicago Bulls,Orlando Magic,Home,14.0
-252,2024-11-27,Houston Rockets,122.0,Philadelphia 76ers,115.0,PHI,HOU,https://www.basketball-reference.com/boxscores/202411270PHI.html,Houston Rockets,Philadelphia 76ers,Away,-7.0
-253,2024-11-27,Los Angeles Clippers,121.0,Washington Wizards,96.0,WAS,LAC,https://www.basketball-reference.com/boxscores/202411270WAS.html,Los Angeles Clippers,Washington Wizards,Away,-25.0
-254,2024-11-27,New York Knicks,114.0,Dallas Mavericks,129.0,DAL,NYK,https://www.basketball-reference.com/boxscores/202411270DAL.html,Dallas Mavericks,New York Knicks,Home,15.0
-255,2024-11-27,Detroit Pistons,111.0,Memphis Grizzlies,131.0,MEM,DET,https://www.basketball-reference.com/boxscores/202411270MEM.html,Detroit Pistons,Memphis Grizzlies,Home,20.0
-256,2024-11-27,Sacramento Kings,115.0,Minnesota Timberwolves,104.0,MIN,SAC,https://www.basketball-reference.com/boxscores/202411270MIN.html,Minnesota Timberwolves,Sacramento Kings,Away,-11.0
-257,2024-11-27,Toronto Raptors,119.0,New Orleans Pelicans,93.0,NOP,TOR,https://www.basketball-reference.com/boxscores/202411270NOP.html,New Orleans Pelicans,Toronto Raptors,Away,-26.0
-258,2024-11-27,Los Angeles Lakers,119.0,San Antonio Spurs,101.0,SAS,LAL,https://www.basketball-reference.com/boxscores/202411270SAS.html,Los Angeles Lakers,San Antonio Spurs,Away,-18.0
-259,2024-11-27,Brooklyn Nets,127.0,Phoenix Suns,117.0,PHO,BRK,https://www.basketball-reference.com/boxscores/202411270PHO.html,Brooklyn Nets,Phoenix Suns,Away,-10.0
-260,2024-11-27,Denver Nuggets,122.0,Utah Jazz,103.0,UTA,DEN,https://www.basketball-reference.com/boxscores/202411270UTA.html,Denver Nuggets,Utah Jazz,Away,-19.0
-261,2024-11-27,Oklahoma City Thunder,105.0,Golden State Warriors,101.0,GSW,OKC,https://www.basketball-reference.com/boxscores/202411270GSW.html,Golden State Warriors,Oklahoma City Thunder,Away,-4.0
-262,2024-11-29,New York Knicks,99.0,Charlotte Hornets,98.0,CHO,NYK,https://www.basketball-reference.com/boxscores/202411290CHO.html,Charlotte Hornets,New York Knicks,Away,-1.0
-263,2024-11-29,Cleveland Cavaliers,101.0,Atlanta Hawks,117.0,ATL,CLE,https://www.basketball-reference.com/boxscores/202411290ATL.html,Atlanta Hawks,Cleveland Cavaliers,Home,16.0
-264,2024-11-29,New Orleans Pelicans,109.0,Memphis Grizzlies,120.0,MEM,NOP,https://www.basketball-reference.com/boxscores/202411290MEM.html,Memphis Grizzlies,New Orleans Pelicans,Home,11.0
-265,2024-11-29,Orlando Magic,123.0,Brooklyn Nets,100.0,BRK,ORL,https://www.basketball-reference.com/boxscores/202411290BRK.html,Brooklyn Nets,Orlando Magic,Away,-23.0
-266,2024-11-29,Los Angeles Clippers,92.0,Minnesota Timberwolves,93.0,MIN,LAC,https://www.basketball-reference.com/boxscores/202411290MIN.html,Los Angeles Clippers,Minnesota Timberwolves,Home,1.0
-267,2024-11-29,Boston Celtics,138.0,Chicago Bulls,129.0,CHI,BOS,https://www.basketball-reference.com/boxscores/202411290CHI.html,Boston Celtics,Chicago Bulls,Away,-9.0
-268,2024-11-29,Detroit Pistons,130.0,Indiana Pacers,106.0,IND,DET,https://www.basketball-reference.com/boxscores/202411290IND.html,Detroit Pistons,Indiana Pacers,Away,-24.0
-269,2024-11-29,Toronto Raptors,111.0,Miami Heat,121.0,MIA,TOR,https://www.basketball-reference.com/boxscores/202411290MIA.html,Miami Heat,Toronto Raptors,Home,10.0
-270,2024-11-29,Oklahoma City Thunder,101.0,Los Angeles Lakers,93.0,LAL,OKC,https://www.basketball-reference.com/boxscores/202411290LAL.html,Los Angeles Lakers,Oklahoma City Thunder,Away,-8.0
-271,2024-11-29,Sacramento Kings,106.0,Portland Trail Blazers,115.0,POR,SAC,https://www.basketball-reference.com/boxscores/202411290POR.html,Portland Trail Blazers,Sacramento Kings,Home,9.0
-272,2024-11-30,Atlanta Hawks,107.0,Charlotte Hornets,104.0,CHO,ATL,https://www.basketball-reference.com/boxscores/202411300CHO.html,Atlanta Hawks,Charlotte Hornets,Away,-3.0
-273,2024-11-30,Philadelphia 76ers,111.0,Detroit Pistons,96.0,DET,PHI,https://www.basketball-reference.com/boxscores/202411300DET.html,Detroit Pistons,Philadelphia 76ers,Away,-15.0
-274,2024-11-30,Washington Wizards,114.0,Milwaukee Bucks,124.0,MIL,WAS,https://www.basketball-reference.com/boxscores/202411300MIL.html,Milwaukee Bucks,Washington Wizards,Home,10.0
-275,2024-11-30,Golden State Warriors,105.0,Phoenix Suns,113.0,PHO,GSW,https://www.basketball-reference.com/boxscores/202411300PHO.html,Golden State Warriors,Phoenix Suns,Home,8.0
-276,2024-11-30,Dallas Mavericks,106.0,Utah Jazz,94.0,UTA,DAL,https://www.basketball-reference.com/boxscores/202411300UTA.html,Dallas Mavericks,Utah Jazz,Away,-12.0
-277,2024-12-01,Orlando Magic,100.0,Brooklyn Nets,92.0,BRK,ORL,https://www.basketball-reference.com/boxscores/202412010BRK.html,Brooklyn Nets,Orlando Magic,Away,-8.0
-278,2024-12-01,Indiana Pacers,121.0,Memphis Grizzlies,136.0,MEM,IND,https://www.basketball-reference.com/boxscores/202412010MEM.html,Indiana Pacers,Memphis Grizzlies,Home,15.0
-279,2024-12-01,Boston Celtics,111.0,Cleveland Cavaliers,115.0,CLE,BOS,https://www.basketball-reference.com/boxscores/202412010CLE.html,Boston Celtics,Cleveland Cavaliers,Home,4.0
-280,2024-12-01,New Orleans Pelicans,85.0,New York Knicks,118.0,NYK,NOP,https://www.basketball-reference.com/boxscores/202412010NYK.html,New Orleans Pelicans,New York Knicks,Home,33.0
-281,2024-12-01,Miami Heat,116.0,Toronto Raptors,119.0,TOR,MIA,https://www.basketball-reference.com/boxscores/202412010TOR.html,Miami Heat,Toronto Raptors,Home,3.0
-282,2024-12-01,Oklahoma City Thunder,116.0,Houston Rockets,119.0,HOU,OKC,https://www.basketball-reference.com/boxscores/202412010HOU.html,Houston Rockets,Oklahoma City Thunder,Home,3.0
-283,2024-12-01,Los Angeles Lakers,105.0,Utah Jazz,104.0,UTA,LAL,https://www.basketball-reference.com/boxscores/202412010UTA.html,Los Angeles Lakers,Utah Jazz,Away,-1.0
-284,2024-12-01,Dallas Mavericks,137.0,Portland Trail Blazers,131.0,POR,DAL,https://www.basketball-reference.com/boxscores/202412010POR.html,Dallas Mavericks,Portland Trail Blazers,Away,-6.0
-285,2024-12-01,San Antonio Spurs,127.0,Sacramento Kings,125.0,SAC,SAS,https://www.basketball-reference.com/boxscores/202412010SAC.html,Sacramento Kings,San Antonio Spurs,Away,-2.0
-286,2024-12-01,Denver Nuggets,122.0,Los Angeles Clippers,126.0,LAC,DEN,https://www.basketball-reference.com/boxscores/202412010LAC.html,Denver Nuggets,Los Angeles Clippers,Home,4.0
-287,2024-12-02,New Orleans Pelicans,112.0,Atlanta Hawks,124.0,ATL,NOP,https://www.basketball-reference.com/boxscores/202412020ATL.html,Atlanta Hawks,New Orleans Pelicans,Home,12.0
-288,2024-12-02,Miami Heat,89.0,Boston Celtics,108.0,BOS,MIA,https://www.basketball-reference.com/boxscores/202412020BOS.html,Boston Celtics,Miami Heat,Home,19.0
-289,2024-12-02,Brooklyn Nets,102.0,Chicago Bulls,128.0,CHI,BRK,https://www.basketball-reference.com/boxscores/202412020CHI.html,Brooklyn Nets,Chicago Bulls,Home,26.0
-290,2024-12-02,Los Angeles Lakers,80.0,Minnesota Timberwolves,109.0,MIN,LAL,https://www.basketball-reference.com/boxscores/202412020MIN.html,Los Angeles Lakers,Minnesota Timberwolves,Home,29.0
-291,2024-12-03,Philadelphia 76ers,110.0,Charlotte Hornets,104.0,CHO,PHI,https://www.basketball-reference.com/boxscores/202412030CHO.html,Charlotte Hornets,Philadelphia 76ers,Away,-6.0
-292,2024-12-03,Washington Wizards,87.0,Cleveland Cavaliers,118.0,CLE,WAS,https://www.basketball-reference.com/boxscores/202412030CLE.html,Cleveland Cavaliers,Washington Wizards,Home,31.0
-293,2024-12-03,Milwaukee Bucks,128.0,Detroit Pistons,107.0,DET,MIL,https://www.basketball-reference.com/boxscores/202412030DET.html,Detroit Pistons,Milwaukee Bucks,Away,-21.0
-294,2024-12-03,Orlando Magic,106.0,New York Knicks,121.0,NYK,ORL,https://www.basketball-reference.com/boxscores/202412030NYK.html,New York Knicks,Orlando Magic,Home,15.0
-295,2024-12-03,Indiana Pacers,111.0,Toronto Raptors,122.0,TOR,IND,https://www.basketball-reference.com/boxscores/202412030TOR.html,Indiana Pacers,Toronto Raptors,Home,11.0
-296,2024-12-03,Utah Jazz,106.0,Oklahoma City Thunder,133.0,OKC,UTA,https://www.basketball-reference.com/boxscores/202412030OKC.html,Oklahoma City Thunder,Utah Jazz,Home,27.0
-297,2024-12-03,Memphis Grizzlies,116.0,Dallas Mavericks,121.0,DAL,MEM,https://www.basketball-reference.com/boxscores/202412030DAL.html,Dallas Mavericks,Memphis Grizzlies,Home,5.0
-298,2024-12-03,San Antonio Spurs,93.0,Phoenix Suns,104.0,PHO,SAS,https://www.basketball-reference.com/boxscores/202412030PHO.html,Phoenix Suns,San Antonio Spurs,Home,11.0
-299,2024-12-03,Golden State Warriors,115.0,Denver Nuggets,119.0,DEN,GSW,https://www.basketball-reference.com/boxscores/202412030DEN.html,Denver Nuggets,Golden State Warriors,Home,4.0
-300,2024-12-03,Houston Rockets,111.0,Sacramento Kings,120.0,SAC,HOU,https://www.basketball-reference.com/boxscores/202412030SAC.html,Houston Rockets,Sacramento Kings,Home,9.0
-301,2024-12-03,Portland Trail Blazers,105.0,Los Angeles Clippers,127.0,LAC,POR,https://www.basketball-reference.com/boxscores/202412030LAC.html,Los Angeles Clippers,Portland Trail Blazers,Home,22.0
-302,2024-12-04,Detroit Pistons,120.0,Boston Celtics,130.0,BOS,DET,https://www.basketball-reference.com/boxscores/202412040BOS.html,Boston Celtics,Detroit Pistons,Home,10.0
-303,2024-12-04,Indiana Pacers,90.0,Brooklyn Nets,99.0,BRK,IND,https://www.basketball-reference.com/boxscores/202412040BRK.html,Brooklyn Nets,Indiana Pacers,Home,9.0
-304,2024-12-04,Los Angeles Lakers,93.0,Miami Heat,134.0,MIA,LAL,https://www.basketball-reference.com/boxscores/202412040MIA.html,Los Angeles Lakers,Miami Heat,Home,41.0
-305,2024-12-04,Orlando Magic,106.0,Philadelphia 76ers,102.0,PHI,ORL,https://www.basketball-reference.com/boxscores/202412040PHI.html,Orlando Magic,Philadelphia 76ers,Away,-4.0
-306,2024-12-04,Atlanta Hawks,119.0,Milwaukee Bucks,104.0,MIL,ATL,https://www.basketball-reference.com/boxscores/202412040MIL.html,Atlanta Hawks,Milwaukee Bucks,Away,-15.0
-307,2024-12-04,Minnesota Timberwolves,108.0,Los Angeles Clippers,80.0,LAC,MIN,https://www.basketball-reference.com/boxscores/202412040LAC.html,Los Angeles Clippers,Minnesota Timberwolves,Away,-28.0
-308,2024-12-05,Denver Nuggets,114.0,Cleveland Cavaliers,126.0,CLE,DEN,https://www.basketball-reference.com/boxscores/202412050CLE.html,Cleveland Cavaliers,Denver Nuggets,Home,12.0
-309,2024-12-05,Dallas Mavericks,137.0,Washington Wizards,101.0,WAS,DAL,https://www.basketball-reference.com/boxscores/202412050WAS.html,Dallas Mavericks,Washington Wizards,Away,-36.0
-310,2024-12-05,Charlotte Hornets,101.0,New York Knicks,125.0,NYK,CHO,https://www.basketball-reference.com/boxscores/202412050NYK.html,Charlotte Hornets,New York Knicks,Home,24.0
-311,2024-12-05,Oklahoma City Thunder,129.0,Toronto Raptors,92.0,TOR,OKC,https://www.basketball-reference.com/boxscores/202412050TOR.html,Oklahoma City Thunder,Toronto Raptors,Away,-37.0
-312,2024-12-05,Sacramento Kings,110.0,Memphis Grizzlies,115.0,MEM,SAC,https://www.basketball-reference.com/boxscores/202412050MEM.html,Memphis Grizzlies,Sacramento Kings,Home,5.0
-313,2024-12-05,Phoenix Suns,124.0,New Orleans Pelicans,126.0,NOP,PHO,https://www.basketball-reference.com/boxscores/202412050NOP.html,New Orleans Pelicans,Phoenix Suns,Home,2.0
-314,2024-12-05,Chicago Bulls,139.0,San Antonio Spurs,124.0,SAS,CHI,https://www.basketball-reference.com/boxscores/202412050SAS.html,Chicago Bulls,San Antonio Spurs,Away,-15.0
-315,2024-12-05,Houston Rockets,93.0,Golden State Warriors,99.0,GSW,HOU,https://www.basketball-reference.com/boxscores/202412050GSW.html,Golden State Warriors,Houston Rockets,Home,6.0
-316,2024-12-06,Orlando Magic,94.0,Philadelphia 76ers,102.0,PHI,ORL,https://www.basketball-reference.com/boxscores/202412060PHI.html,Orlando Magic,Philadelphia 76ers,Home,8.0
-317,2024-12-06,Los Angeles Lakers,132.0,Atlanta Hawks,134.0,ATL,LAL,https://www.basketball-reference.com/boxscores/202412060ATL.html,Atlanta Hawks,Los Angeles Lakers,Home,2.0
-318,2024-12-06,Milwaukee Bucks,105.0,Boston Celtics,111.0,BOS,MIL,https://www.basketball-reference.com/boxscores/202412060BOS.html,Boston Celtics,Milwaukee Bucks,Home,6.0
-319,2024-12-06,Indiana Pacers,132.0,Chicago Bulls,123.0,CHI,IND,https://www.basketball-reference.com/boxscores/202412060CHI.html,Chicago Bulls,Indiana Pacers,Away,-9.0
-320,2024-12-06,Sacramento Kings,140.0,San Antonio Spurs,113.0,SAS,SAC,https://www.basketball-reference.com/boxscores/202412060SAS.html,Sacramento Kings,San Antonio Spurs,Away,-27.0
-321,2024-12-06,Minnesota Timberwolves,107.0,Golden State Warriors,90.0,GSW,MIN,https://www.basketball-reference.com/boxscores/202412060GSW.html,Golden State Warriors,Minnesota Timberwolves,Away,-17.0
-322,2024-12-06,Utah Jazz,141.0,Portland Trail Blazers,99.0,POR,UTA,https://www.basketball-reference.com/boxscores/202412060POR.html,Portland Trail Blazers,Utah Jazz,Away,-42.0
-323,2024-12-07,Cleveland Cavaliers,116.0,Charlotte Hornets,102.0,CHO,CLE,https://www.basketball-reference.com/boxscores/202412070CHO.html,Charlotte Hornets,Cleveland Cavaliers,Away,-14.0
-324,2024-12-07,Oklahoma City Thunder,119.0,New Orleans Pelicans,109.0,NOP,OKC,https://www.basketball-reference.com/boxscores/202412070NOP.html,New Orleans Pelicans,Oklahoma City Thunder,Away,-10.0
-325,2024-12-07,Denver Nuggets,113.0,Washington Wizards,122.0,WAS,DEN,https://www.basketball-reference.com/boxscores/202412070WAS.html,Denver Nuggets,Washington Wizards,Home,9.0
-326,2024-12-07,Detroit Pistons,120.0,New York Knicks,111.0,NYK,DET,https://www.basketball-reference.com/boxscores/202412070NYK.html,Detroit Pistons,New York Knicks,Away,-9.0
-327,2024-12-07,Dallas Mavericks,125.0,Toronto Raptors,118.0,TOR,DAL,https://www.basketball-reference.com/boxscores/202412070TOR.html,Dallas Mavericks,Toronto Raptors,Away,-7.0
-328,2024-12-07,Memphis Grizzlies,127.0,Boston Celtics,121.0,BOS,MEM,https://www.basketball-reference.com/boxscores/202412070BOS.html,Boston Celtics,Memphis Grizzlies,Away,-6.0
-329,2024-12-07,Phoenix Suns,111.0,Miami Heat,121.0,MIA,PHO,https://www.basketball-reference.com/boxscores/202412070MIA.html,Miami Heat,Phoenix Suns,Home,10.0
-330,2024-12-08,Philadelphia 76ers,108.0,Chicago Bulls,100.0,CHI,PHI,https://www.basketball-reference.com/boxscores/202412080CHI.html,Chicago Bulls,Philadelphia 76ers,Away,-8.0
-331,2024-12-08,Milwaukee Bucks,118.0,Brooklyn Nets,113.0,BRK,MIL,https://www.basketball-reference.com/boxscores/202412080BRK.html,Brooklyn Nets,Milwaukee Bucks,Away,-5.0
-332,2024-12-08,Charlotte Hornets,113.0,Indiana Pacers,109.0,IND,CHO,https://www.basketball-reference.com/boxscores/202412080IND.html,Charlotte Hornets,Indiana Pacers,Away,-4.0
-333,2024-12-08,Denver Nuggets,141.0,Atlanta Hawks,111.0,ATL,DEN,https://www.basketball-reference.com/boxscores/202412080ATL.html,Atlanta Hawks,Denver Nuggets,Away,-30.0
-334,2024-12-08,Cleveland Cavaliers,113.0,Miami Heat,122.0,MIA,CLE,https://www.basketball-reference.com/boxscores/202412080MIA.html,Cleveland Cavaliers,Miami Heat,Home,9.0
-335,2024-12-08,Phoenix Suns,110.0,Orlando Magic,115.0,ORL,PHO,https://www.basketball-reference.com/boxscores/202412080ORL.html,Orlando Magic,Phoenix Suns,Home,5.0
-336,2024-12-08,New Orleans Pelicans,116.0,San Antonio Spurs,121.0,SAS,NOP,https://www.basketball-reference.com/boxscores/202412080SAS.html,New Orleans Pelicans,San Antonio Spurs,Home,5.0
-337,2024-12-08,Memphis Grizzlies,140.0,Washington Wizards,112.0,WAS,MEM,https://www.basketball-reference.com/boxscores/202412080WAS.html,Memphis Grizzlies,Washington Wizards,Away,-28.0
-338,2024-12-08,Minnesota Timberwolves,106.0,Golden State Warriors,114.0,GSW,MIN,https://www.basketball-reference.com/boxscores/202412080GSW.html,Golden State Warriors,Minnesota Timberwolves,Home,8.0
-339,2024-12-08,Houston Rockets,117.0,Los Angeles Clippers,106.0,LAC,HOU,https://www.basketball-reference.com/boxscores/202412080LAC.html,Houston Rockets,Los Angeles Clippers,Away,-11.0
-340,2024-12-08,Utah Jazz,97.0,Sacramento Kings,141.0,SAC,UTA,https://www.basketball-reference.com/boxscores/202412080SAC.html,Sacramento Kings,Utah Jazz,Home,44.0
-341,2024-12-08,Portland Trail Blazers,98.0,Los Angeles Lakers,107.0,LAL,POR,https://www.basketball-reference.com/boxscores/202412080LAL.html,Los Angeles Lakers,Portland Trail Blazers,Home,9.0
-342,2024-12-09,New York Knicks,113.0,Toronto Raptors,108.0,TOR,NYK,https://www.basketball-reference.com/boxscores/202412090TOR.html,New York Knicks,Toronto Raptors,Away,-5.0
-343,2024-12-10,Orlando Magic,109.0,Milwaukee Bucks,114.0,MIL,ORL,https://www.basketball-reference.com/boxscores/202412100MIL.html,Milwaukee Bucks,Orlando Magic,Home,5.0
-344,2024-12-10,Dallas Mavericks,104.0,Oklahoma City Thunder,118.0,OKC,DAL,https://www.basketball-reference.com/boxscores/202412100OKC.html,Dallas Mavericks,Oklahoma City Thunder,Home,14.0
-345,2024-12-11,Atlanta Hawks,108.0,New York Knicks,100.0,NYK,ATL,https://www.basketball-reference.com/boxscores/202412110NYK.html,Atlanta Hawks,New York Knicks,Away,-8.0
-346,2024-12-11,Golden State Warriors,90.0,Houston Rockets,91.0,HOU,GSW,https://www.basketball-reference.com/boxscores/202412110HOU.html,Golden State Warriors,Houston Rockets,Home,1.0
-347,2024-12-12,Detroit Pistons,99.0,Boston Celtics,123.0,BOS,DET,https://www.basketball-reference.com/boxscores/202412120BOS.html,Boston Celtics,Detroit Pistons,Home,24.0
-348,2024-12-12,Toronto Raptors,104.0,Miami Heat,114.0,MIA,TOR,https://www.basketball-reference.com/boxscores/202412120MIA.html,Miami Heat,Toronto Raptors,Home,10.0
-349,2024-12-12,Sacramento Kings,111.0,New Orleans Pelicans,109.0,NOP,SAC,https://www.basketball-reference.com/boxscores/202412120NOP.html,New Orleans Pelicans,Sacramento Kings,Away,-2.0
-350,2024-12-13,Washington Wizards,105.0,Cleveland Cavaliers,115.0,CLE,WAS,https://www.basketball-reference.com/boxscores/202412130CLE.html,Cleveland Cavaliers,Washington Wizards,Home,10.0
-351,2024-12-13,Indiana Pacers,121.0,Philadelphia 76ers,107.0,PHI,IND,https://www.basketball-reference.com/boxscores/202412130PHI.html,Indiana Pacers,Philadelphia 76ers,Away,-14.0
-352,2024-12-13,Charlotte Hornets,95.0,Chicago Bulls,109.0,CHI,CHO,https://www.basketball-reference.com/boxscores/202412130CHI.html,Charlotte Hornets,Chicago Bulls,Home,14.0
-353,2024-12-13,Brooklyn Nets,119.0,Memphis Grizzlies,135.0,MEM,BRK,https://www.basketball-reference.com/boxscores/202412130MEM.html,Brooklyn Nets,Memphis Grizzlies,Home,16.0
-354,2024-12-13,Los Angeles Lakers,87.0,Minnesota Timberwolves,97.0,MIN,LAL,https://www.basketball-reference.com/boxscores/202412130MIN.html,Los Angeles Lakers,Minnesota Timberwolves,Home,10.0
-355,2024-12-13,Los Angeles Clippers,98.0,Denver Nuggets,120.0,DEN,LAC,https://www.basketball-reference.com/boxscores/202412130DEN.html,Denver Nuggets,Los Angeles Clippers,Home,22.0
-356,2024-12-13,Phoenix Suns,134.0,Utah Jazz,126.0,UTA,PHO,https://www.basketball-reference.com/boxscores/202412130UTA.html,Phoenix Suns,Utah Jazz,Away,-8.0
-357,2024-12-13,San Antonio Spurs,118.0,Portland Trail Blazers,116.0,POR,SAS,https://www.basketball-reference.com/boxscores/202412130POR.html,Portland Trail Blazers,San Antonio Spurs,Away,-2.0
-358,2024-12-14,Atlanta Hawks,102.0,Milwaukee Bucks,110.0,MIL,ATL,https://www.basketball-reference.com/boxscores/202412140MIL.html,Atlanta Hawks,Milwaukee Bucks,Home,8.0
-359,2024-12-14,Houston Rockets,96.0,Oklahoma City Thunder,111.0,OKC,HOU,https://www.basketball-reference.com/boxscores/202412140OKC.html,Houston Rockets,Oklahoma City Thunder,Home,15.0
-360,2024-12-15,New Orleans Pelicans,104.0,Indiana Pacers,119.0,IND,NOP,https://www.basketball-reference.com/boxscores/202412150IND.html,Indiana Pacers,New Orleans Pelicans,Home,15.0
-361,2024-12-15,New York Knicks,100.0,Orlando Magic,91.0,ORL,NYK,https://www.basketball-reference.com/boxscores/202412150ORL.html,New York Knicks,Orlando Magic,Away,-9.0
-362,2024-12-15,Boston Celtics,112.0,Washington Wizards,98.0,WAS,BOS,https://www.basketball-reference.com/boxscores/202412150WAS.html,Boston Celtics,Washington Wizards,Away,-14.0
-363,2024-12-15,Minnesota Timberwolves,106.0,San Antonio Spurs,92.0,SAS,MIN,https://www.basketball-reference.com/boxscores/202412150SAS.html,Minnesota Timberwolves,San Antonio Spurs,Away,-14.0
-364,2024-12-15,Portland Trail Blazers,109.0,Phoenix Suns,116.0,PHO,POR,https://www.basketball-reference.com/boxscores/202412150PHO.html,Phoenix Suns,Portland Trail Blazers,Home,7.0
-365,2024-12-15,Dallas Mavericks,143.0,Golden State Warriors,133.0,GSW,DAL,https://www.basketball-reference.com/boxscores/202412150GSW.html,Dallas Mavericks,Golden State Warriors,Away,-10.0
-366,2024-12-15,Memphis Grizzlies,110.0,Los Angeles Lakers,116.0,LAL,MEM,https://www.basketball-reference.com/boxscores/202412150LAL.html,Los Angeles Lakers,Memphis Grizzlies,Home,6.0
-367,2024-12-16,Philadelphia 76ers,121.0,Charlotte Hornets,108.0,CHO,PHI,https://www.basketball-reference.com/boxscores/202412160CHO.html,Charlotte Hornets,Philadelphia 76ers,Away,-13.0
-368,2024-12-16,Miami Heat,124.0,Detroit Pistons,125.0,DET,MIA,https://www.basketball-reference.com/boxscores/202412160DET.html,Detroit Pistons,Miami Heat,Home,1.0
-369,2024-12-16,Cleveland Cavaliers,130.0,Brooklyn Nets,101.0,BRK,CLE,https://www.basketball-reference.com/boxscores/202412160BRK.html,Brooklyn Nets,Cleveland Cavaliers,Away,-29.0
-370,2024-12-16,Chicago Bulls,122.0,Toronto Raptors,121.0,TOR,CHI,https://www.basketball-reference.com/boxscores/202412160TOR.html,Chicago Bulls,Toronto Raptors,Away,-1.0
-371,2024-12-16,Denver Nuggets,130.0,Sacramento Kings,129.0,SAC,DEN,https://www.basketball-reference.com/boxscores/202412160SAC.html,Denver Nuggets,Sacramento Kings,Away,-1.0
-372,2024-12-16,Utah Jazz,107.0,Los Angeles Clippers,144.0,LAC,UTA,https://www.basketball-reference.com/boxscores/202412160LAC.html,Los Angeles Clippers,Utah Jazz,Home,37.0
-373,2024-12-17,Milwaukee Bucks,97.0,Oklahoma City Thunder,81.0,OKC,MIL,https://www.basketball-reference.com/boxscores/202412170OKC.html,Milwaukee Bucks,Oklahoma City Thunder,Away,-16.0
-374,2024-12-19,Utah Jazz,126.0,Detroit Pistons,119.0,DET,UTA,https://www.basketball-reference.com/boxscores/202412190DET.html,Detroit Pistons,Utah Jazz,Away,-7.0
-375,2024-12-19,Oklahoma City Thunder,105.0,Orlando Magic,99.0,ORL,OKC,https://www.basketball-reference.com/boxscores/202412190ORL.html,Oklahoma City Thunder,Orlando Magic,Away,-6.0
-376,2024-12-19,Charlotte Hornets,114.0,Washington Wizards,123.0,WAS,CHO,https://www.basketball-reference.com/boxscores/202412190WAS.html,Charlotte Hornets,Washington Wizards,Home,9.0
-377,2024-12-19,Chicago Bulls,117.0,Boston Celtics,108.0,BOS,CHI,https://www.basketball-reference.com/boxscores/202412190BOS.html,Boston Celtics,Chicago Bulls,Away,-9.0
-378,2024-12-19,Brooklyn Nets,101.0,Toronto Raptors,94.0,TOR,BRK,https://www.basketball-reference.com/boxscores/202412190TOR.html,Brooklyn Nets,Toronto Raptors,Away,-7.0
-379,2024-12-19,New Orleans Pelicans,113.0,Houston Rockets,133.0,HOU,NOP,https://www.basketball-reference.com/boxscores/202412190HOU.html,Houston Rockets,New Orleans Pelicans,Home,20.0
-380,2024-12-19,Golden State Warriors,93.0,Memphis Grizzlies,144.0,MEM,GSW,https://www.basketball-reference.com/boxscores/202412190MEM.html,Golden State Warriors,Memphis Grizzlies,Home,51.0
-381,2024-12-19,Atlanta Hawks,126.0,San Antonio Spurs,133.0,SAS,ATL,https://www.basketball-reference.com/boxscores/202412190SAS.html,Atlanta Hawks,San Antonio Spurs,Home,7.0
-382,2024-12-19,Los Angeles Clippers,118.0,Dallas Mavericks,95.0,DAL,LAC,https://www.basketball-reference.com/boxscores/202412190DAL.html,Dallas Mavericks,Los Angeles Clippers,Away,-23.0
-383,2024-12-19,Indiana Pacers,120.0,Phoenix Suns,111.0,PHO,IND,https://www.basketball-reference.com/boxscores/202412190PHO.html,Indiana Pacers,Phoenix Suns,Away,-9.0
-384,2024-12-19,New York Knicks,133.0,Minnesota Timberwolves,107.0,MIN,NYK,https://www.basketball-reference.com/boxscores/202412190MIN.html,Minnesota Timberwolves,New York Knicks,Away,-26.0
-385,2024-12-19,Denver Nuggets,124.0,Portland Trail Blazers,126.0,POR,DEN,https://www.basketball-reference.com/boxscores/202412190POR.html,Denver Nuggets,Portland Trail Blazers,Home,2.0
-386,2024-12-19,Los Angeles Lakers,113.0,Sacramento Kings,100.0,SAC,LAL,https://www.basketball-reference.com/boxscores/202412190SAC.html,Los Angeles Lakers,Sacramento Kings,Away,-13.0
+0,2024-12-20,Charlotte Hornets,98.0,Philadelphia 76ers,108.0,PHI,CHO,https://www.basketball-reference.com/boxscores/202412200PHI.html,Charlotte Hornets,Philadelphia 76ers,Home,10.0
+1,2024-12-20,Milwaukee Bucks,101.0,Cleveland Cavaliers,124.0,CLE,MIL,https://www.basketball-reference.com/boxscores/202412200CLE.html,Cleveland Cavaliers,Milwaukee Bucks,Home,23.0
+2,2024-12-20,Oklahoma City Thunder,104.0,Miami Heat,97.0,MIA,OKC,https://www.basketball-reference.com/boxscores/202412200MIA.html,Miami Heat,Oklahoma City Thunder,Away,-7.0
+3,2024-10-25,Brooklyn Nets,101.0,Orlando Magic,116.0,ORL,BRK,https://www.basketball-reference.com/boxscores/202410250ORL.html,Brooklyn Nets,Orlando Magic,Home,15.0
+4,2024-10-25,Philadelphia 76ers,107.0,Toronto Raptors,115.0,TOR,PHI,https://www.basketball-reference.com/boxscores/202410250TOR.html,Philadelphia 76ers,Toronto Raptors,Home,8.0
+5,2024-10-25,Charlotte Hornets,120.0,Atlanta Hawks,125.0,ATL,CHO,https://www.basketball-reference.com/boxscores/202410250ATL.html,Atlanta Hawks,Charlotte Hornets,Home,5.0
+6,2024-10-25,Detroit Pistons,101.0,Cleveland Cavaliers,113.0,CLE,DET,https://www.basketball-reference.com/boxscores/202410250CLE.html,Cleveland Cavaliers,Detroit Pistons,Home,12.0
+7,2024-10-25,Indiana Pacers,98.0,New York Knicks,123.0,NYK,IND,https://www.basketball-reference.com/boxscores/202410250NYK.html,Indiana Pacers,New York Knicks,Home,25.0
+8,2024-10-25,Memphis Grizzlies,108.0,Houston Rockets,128.0,HOU,MEM,https://www.basketball-reference.com/boxscores/202410250HOU.html,Houston Rockets,Memphis Grizzlies,Home,20.0
+9,2024-10-25,Chicago Bulls,133.0,Milwaukee Bucks,122.0,MIL,CHI,https://www.basketball-reference.com/boxscores/202410250MIL.html,Chicago Bulls,Milwaukee Bucks,Away,-11.0
+10,2024-10-25,Golden State Warriors,127.0,Utah Jazz,86.0,UTA,GSW,https://www.basketball-reference.com/boxscores/202410250UTA.html,Golden State Warriors,Utah Jazz,Away,-41.0
+11,2024-10-25,Phoenix Suns,116.0,Los Angeles Lakers,123.0,LAL,PHO,https://www.basketball-reference.com/boxscores/202410250LAL.html,Los Angeles Lakers,Phoenix Suns,Home,7.0
+12,2024-10-25,New Orleans Pelicans,105.0,Portland Trail Blazers,103.0,POR,NOP,https://www.basketball-reference.com/boxscores/202410250POR.html,New Orleans Pelicans,Portland Trail Blazers,Away,-2.0
+13,2024-10-26,Los Angeles Clippers,109.0,Denver Nuggets,104.0,DEN,LAC,https://www.basketball-reference.com/boxscores/202410260DEN.html,Denver Nuggets,Los Angeles Clippers,Away,-5.0
+14,2024-10-26,Cleveland Cavaliers,135.0,Washington Wizards,116.0,WAS,CLE,https://www.basketball-reference.com/boxscores/202410260WAS.html,Cleveland Cavaliers,Washington Wizards,Away,-19.0
+15,2024-10-26,Boston Celtics,124.0,Detroit Pistons,118.0,DET,BOS,https://www.basketball-reference.com/boxscores/202410260DET.html,Boston Celtics,Detroit Pistons,Away,-6.0
+16,2024-10-26,Miami Heat,114.0,Charlotte Hornets,106.0,CHO,MIA,https://www.basketball-reference.com/boxscores/202410260CHO.html,Charlotte Hornets,Miami Heat,Away,-8.0
+17,2024-10-26,Orlando Magic,111.0,Memphis Grizzlies,124.0,MEM,ORL,https://www.basketball-reference.com/boxscores/202410260MEM.html,Memphis Grizzlies,Orlando Magic,Home,13.0
+18,2024-10-26,Toronto Raptors,101.0,Minnesota Timberwolves,112.0,MIN,TOR,https://www.basketball-reference.com/boxscores/202410260MIN.html,Minnesota Timberwolves,Toronto Raptors,Home,11.0
+19,2024-10-26,Oklahoma City Thunder,114.0,Chicago Bulls,95.0,CHI,OKC,https://www.basketball-reference.com/boxscores/202410260CHI.html,Chicago Bulls,Oklahoma City Thunder,Away,-19.0
+20,2024-10-26,Houston Rockets,106.0,San Antonio Spurs,109.0,SAS,HOU,https://www.basketball-reference.com/boxscores/202410260SAS.html,Houston Rockets,San Antonio Spurs,Home,3.0
+21,2024-10-26,Dallas Mavericks,102.0,Phoenix Suns,114.0,PHO,DAL,https://www.basketball-reference.com/boxscores/202410260PHO.html,Dallas Mavericks,Phoenix Suns,Home,12.0
+22,2024-10-26,Sacramento Kings,127.0,Los Angeles Lakers,131.0,LAL,SAC,https://www.basketball-reference.com/boxscores/202410260LAL.html,Los Angeles Lakers,Sacramento Kings,Home,4.0
+23,2024-10-27,Philadelphia 76ers,118.0,Indiana Pacers,114.0,IND,PHI,https://www.basketball-reference.com/boxscores/202410270IND.html,Indiana Pacers,Philadelphia 76ers,Away,-4.0
+24,2024-10-27,New Orleans Pelicans,103.0,Portland Trail Blazers,125.0,POR,NOP,https://www.basketball-reference.com/boxscores/202410270POR.html,New Orleans Pelicans,Portland Trail Blazers,Home,22.0
+25,2024-10-27,Milwaukee Bucks,102.0,Brooklyn Nets,115.0,BRK,MIL,https://www.basketball-reference.com/boxscores/202410270BRK.html,Brooklyn Nets,Milwaukee Bucks,Home,13.0
+26,2024-10-27,Atlanta Hawks,104.0,Oklahoma City Thunder,128.0,OKC,ATL,https://www.basketball-reference.com/boxscores/202410270OKC.html,Atlanta Hawks,Oklahoma City Thunder,Home,24.0
+27,2024-10-27,Los Angeles Clippers,112.0,Golden State Warriors,104.0,GSW,LAC,https://www.basketball-reference.com/boxscores/202410270GSW.html,Golden State Warriors,Los Angeles Clippers,Away,-8.0
+28,2024-10-28,Indiana Pacers,115.0,Orlando Magic,119.0,ORL,IND,https://www.basketball-reference.com/boxscores/202410280ORL.html,Indiana Pacers,Orlando Magic,Home,4.0
+29,2024-10-28,Washington Wizards,121.0,Atlanta Hawks,119.0,ATL,WAS,https://www.basketball-reference.com/boxscores/202410280ATL.html,Atlanta Hawks,Washington Wizards,Away,-2.0
+30,2024-10-28,Milwaukee Bucks,108.0,Boston Celtics,119.0,BOS,MIL,https://www.basketball-reference.com/boxscores/202410280BOS.html,Boston Celtics,Milwaukee Bucks,Home,11.0
+31,2024-10-28,Denver Nuggets,127.0,Toronto Raptors,125.0,TOR,DEN,https://www.basketball-reference.com/boxscores/202410280TOR.html,Denver Nuggets,Toronto Raptors,Away,-2.0
+32,2024-10-28,Detroit Pistons,98.0,Miami Heat,106.0,MIA,DET,https://www.basketball-reference.com/boxscores/202410280MIA.html,Detroit Pistons,Miami Heat,Home,8.0
+33,2024-10-28,Cleveland Cavaliers,110.0,New York Knicks,104.0,NYK,CLE,https://www.basketball-reference.com/boxscores/202410280NYK.html,Cleveland Cavaliers,New York Knicks,Away,-6.0
+34,2024-10-28,Houston Rockets,106.0,San Antonio Spurs,101.0,SAS,HOU,https://www.basketball-reference.com/boxscores/202410280SAS.html,Houston Rockets,San Antonio Spurs,Away,-5.0
+35,2024-10-28,Chicago Bulls,126.0,Memphis Grizzlies,123.0,MEM,CHI,https://www.basketball-reference.com/boxscores/202410280MEM.html,Chicago Bulls,Memphis Grizzlies,Away,-3.0
+36,2024-10-28,Utah Jazz,102.0,Dallas Mavericks,110.0,DAL,UTA,https://www.basketball-reference.com/boxscores/202410280DAL.html,Dallas Mavericks,Utah Jazz,Home,8.0
+37,2024-10-28,Portland Trail Blazers,98.0,Sacramento Kings,111.0,SAC,POR,https://www.basketball-reference.com/boxscores/202410280SAC.html,Portland Trail Blazers,Sacramento Kings,Home,13.0
+38,2024-10-28,Los Angeles Lakers,105.0,Phoenix Suns,109.0,PHO,LAL,https://www.basketball-reference.com/boxscores/202410280PHO.html,Los Angeles Lakers,Phoenix Suns,Home,4.0
+39,2024-10-29,Denver Nuggets,144.0,Brooklyn Nets,139.0,BRK,DEN,https://www.basketball-reference.com/boxscores/202410290BRK.html,Brooklyn Nets,Denver Nuggets,Away,-5.0
+40,2024-10-29,Dallas Mavericks,120.0,Minnesota Timberwolves,114.0,MIN,DAL,https://www.basketball-reference.com/boxscores/202410290MIN.html,Dallas Mavericks,Minnesota Timberwolves,Away,-6.0
+41,2024-10-29,Sacramento Kings,113.0,Utah Jazz,96.0,UTA,SAC,https://www.basketball-reference.com/boxscores/202410290UTA.html,Sacramento Kings,Utah Jazz,Away,-17.0
+42,2024-10-29,New Orleans Pelicans,106.0,Golden State Warriors,124.0,GSW,NOP,https://www.basketball-reference.com/boxscores/202410290GSW.html,Golden State Warriors,New Orleans Pelicans,Home,18.0
+43,2024-10-30,Detroit Pistons,105.0,Philadelphia 76ers,95.0,PHI,DET,https://www.basketball-reference.com/boxscores/202410300PHI.html,Detroit Pistons,Philadelphia 76ers,Away,-10.0
+44,2024-10-30,Atlanta Hawks,120.0,Washington Wizards,133.0,WAS,ATL,https://www.basketball-reference.com/boxscores/202410300WAS.html,Atlanta Hawks,Washington Wizards,Home,13.0
+45,2024-10-30,Boston Celtics,132.0,Indiana Pacers,135.0,IND,BOS,https://www.basketball-reference.com/boxscores/202410300IND.html,Boston Celtics,Indiana Pacers,Home,3.0
+46,2024-10-30,Los Angeles Lakers,110.0,Cleveland Cavaliers,134.0,CLE,LAL,https://www.basketball-reference.com/boxscores/202410300CLE.html,Cleveland Cavaliers,Los Angeles Lakers,Home,24.0
+47,2024-10-30,Toronto Raptors,133.0,Charlotte Hornets,138.0,CHO,TOR,https://www.basketball-reference.com/boxscores/202410300CHO.html,Charlotte Hornets,Toronto Raptors,Home,5.0
+48,2024-10-30,New York Knicks,116.0,Miami Heat,107.0,MIA,NYK,https://www.basketball-reference.com/boxscores/202410300MIA.html,Miami Heat,New York Knicks,Away,-9.0
+49,2024-10-30,Orlando Magic,99.0,Chicago Bulls,102.0,CHI,ORL,https://www.basketball-reference.com/boxscores/202410300CHI.html,Chicago Bulls,Orlando Magic,Home,3.0
+50,2024-10-30,Brooklyn Nets,119.0,Memphis Grizzlies,106.0,MEM,BRK,https://www.basketball-reference.com/boxscores/202410300MEM.html,Brooklyn Nets,Memphis Grizzlies,Away,-13.0
+51,2024-10-30,San Antonio Spurs,93.0,Oklahoma City Thunder,105.0,OKC,SAS,https://www.basketball-reference.com/boxscores/202410300OKC.html,Oklahoma City Thunder,San Antonio Spurs,Home,12.0
+52,2024-10-30,New Orleans Pelicans,89.0,Golden State Warriors,104.0,GSW,NOP,https://www.basketball-reference.com/boxscores/202410300GSW.html,Golden State Warriors,New Orleans Pelicans,Home,15.0
+53,2024-10-30,Portland Trail Blazers,106.0,Los Angeles Clippers,105.0,LAC,POR,https://www.basketball-reference.com/boxscores/202410300LAC.html,Los Angeles Clippers,Portland Trail Blazers,Away,-1.0
+54,2024-10-31,Milwaukee Bucks,99.0,Memphis Grizzlies,122.0,MEM,MIL,https://www.basketball-reference.com/boxscores/202410310MEM.html,Memphis Grizzlies,Milwaukee Bucks,Home,23.0
+55,2024-10-31,Houston Rockets,108.0,Dallas Mavericks,102.0,DAL,HOU,https://www.basketball-reference.com/boxscores/202410310DAL.html,Dallas Mavericks,Houston Rockets,Away,-6.0
+56,2024-10-31,San Antonio Spurs,106.0,Utah Jazz,88.0,UTA,SAS,https://www.basketball-reference.com/boxscores/202410310UTA.html,San Antonio Spurs,Utah Jazz,Away,-18.0
+57,2024-10-31,Phoenix Suns,125.0,Los Angeles Clippers,119.0,LAC,PHO,https://www.basketball-reference.com/boxscores/202410310LAC.html,Los Angeles Clippers,Phoenix Suns,Away,-6.0
+58,2024-11-01,Boston Celtics,124.0,Charlotte Hornets,109.0,CHO,BOS,https://www.basketball-reference.com/boxscores/202411010CHO.html,Boston Celtics,Charlotte Hornets,Away,-15.0
+59,2024-11-01,Orlando Magic,109.0,Cleveland Cavaliers,120.0,CLE,ORL,https://www.basketball-reference.com/boxscores/202411010CLE.html,Cleveland Cavaliers,Orlando Magic,Home,11.0
+60,2024-11-01,New York Knicks,128.0,Detroit Pistons,98.0,DET,NYK,https://www.basketball-reference.com/boxscores/202411010DET.html,Detroit Pistons,New York Knicks,Away,-30.0
+61,2024-11-01,Sacramento Kings,123.0,Atlanta Hawks,115.0,ATL,SAC,https://www.basketball-reference.com/boxscores/202411010ATL.html,Atlanta Hawks,Sacramento Kings,Away,-8.0
+62,2024-11-01,Chicago Bulls,112.0,Brooklyn Nets,120.0,BRK,CHI,https://www.basketball-reference.com/boxscores/202411010BRK.html,Brooklyn Nets,Chicago Bulls,Home,8.0
+63,2024-11-01,Los Angeles Lakers,131.0,Toronto Raptors,125.0,TOR,LAL,https://www.basketball-reference.com/boxscores/202411010TOR.html,Los Angeles Lakers,Toronto Raptors,Away,-6.0
+64,2024-11-01,Indiana Pacers,118.0,New Orleans Pelicans,125.0,NOP,IND,https://www.basketball-reference.com/boxscores/202411010NOP.html,Indiana Pacers,New Orleans Pelicans,Home,7.0
+65,2024-11-01,Denver Nuggets,116.0,Minnesota Timberwolves,119.0,MIN,DEN,https://www.basketball-reference.com/boxscores/202411010MIN.html,Denver Nuggets,Minnesota Timberwolves,Home,3.0
+66,2024-11-01,Oklahoma City Thunder,137.0,Portland Trail Blazers,114.0,POR,OKC,https://www.basketball-reference.com/boxscores/202411010POR.html,Oklahoma City Thunder,Portland Trail Blazers,Away,-23.0
+67,2024-11-02,Boston Celtics,113.0,Charlotte Hornets,103.0,CHO,BOS,https://www.basketball-reference.com/boxscores/202411020CHO.html,Boston Celtics,Charlotte Hornets,Away,-10.0
+68,2024-11-02,Memphis Grizzlies,124.0,Philadelphia 76ers,107.0,PHI,MEM,https://www.basketball-reference.com/boxscores/202411020PHI.html,Memphis Grizzlies,Philadelphia 76ers,Away,-17.0
+69,2024-11-02,Sacramento Kings,128.0,Toronto Raptors,131.0,TOR,SAC,https://www.basketball-reference.com/boxscores/202411020TOR.html,Sacramento Kings,Toronto Raptors,Home,3.0
+70,2024-11-02,Golden State Warriors,127.0,Houston Rockets,121.0,HOU,GSW,https://www.basketball-reference.com/boxscores/202411020HOU.html,Golden State Warriors,Houston Rockets,Away,-6.0
+71,2024-11-02,Cleveland Cavaliers,114.0,Milwaukee Bucks,113.0,MIL,CLE,https://www.basketball-reference.com/boxscores/202411020MIL.html,Cleveland Cavaliers,Milwaukee Bucks,Away,-1.0
+72,2024-11-02,Minnesota Timberwolves,103.0,San Antonio Spurs,113.0,SAS,MIN,https://www.basketball-reference.com/boxscores/202411020SAS.html,Minnesota Timberwolves,San Antonio Spurs,Home,10.0
+73,2024-11-02,Miami Heat,118.0,Washington Wizards,98.0,WAS,MIA,https://www.basketball-reference.com/boxscores/202411020WAS.html,Miami Heat,Washington Wizards,Away,-20.0
+74,2024-11-02,Utah Jazz,103.0,Denver Nuggets,129.0,DEN,UTA,https://www.basketball-reference.com/boxscores/202411020DEN.html,Denver Nuggets,Utah Jazz,Home,26.0
+75,2024-11-02,Portland Trail Blazers,97.0,Phoenix Suns,103.0,PHO,POR,https://www.basketball-reference.com/boxscores/202411020PHO.html,Phoenix Suns,Portland Trail Blazers,Home,6.0
+76,2024-11-02,Oklahoma City Thunder,105.0,Los Angeles Clippers,92.0,LAC,OKC,https://www.basketball-reference.com/boxscores/202411020LAC.html,Los Angeles Clippers,Oklahoma City Thunder,Away,-13.0
+77,2024-11-03,Detroit Pistons,106.0,Brooklyn Nets,92.0,BRK,DET,https://www.basketball-reference.com/boxscores/202411030BRK.html,Brooklyn Nets,Detroit Pistons,Away,-14.0
+78,2024-11-03,Atlanta Hawks,126.0,New Orleans Pelicans,111.0,NOP,ATL,https://www.basketball-reference.com/boxscores/202411030NOP.html,Atlanta Hawks,New Orleans Pelicans,Away,-15.0
+79,2024-11-03,Orlando Magic,85.0,Dallas Mavericks,108.0,DAL,ORL,https://www.basketball-reference.com/boxscores/202411030DAL.html,Dallas Mavericks,Orlando Magic,Home,23.0
+80,2024-11-04,Milwaukee Bucks,114.0,Cleveland Cavaliers,116.0,CLE,MIL,https://www.basketball-reference.com/boxscores/202411040CLE.html,Cleveland Cavaliers,Milwaukee Bucks,Home,2.0
+81,2024-11-04,Golden State Warriors,125.0,Washington Wizards,112.0,WAS,GSW,https://www.basketball-reference.com/boxscores/202411040WAS.html,Golden State Warriors,Washington Wizards,Away,-13.0
+82,2024-11-04,Los Angeles Lakers,103.0,Detroit Pistons,115.0,DET,LAL,https://www.basketball-reference.com/boxscores/202411040DET.html,Detroit Pistons,Los Angeles Lakers,Home,12.0
+83,2024-11-04,Boston Celtics,123.0,Atlanta Hawks,93.0,ATL,BOS,https://www.basketball-reference.com/boxscores/202411040ATL.html,Atlanta Hawks,Boston Celtics,Away,-30.0
+84,2024-11-04,Memphis Grizzlies,104.0,Brooklyn Nets,106.0,BRK,MEM,https://www.basketball-reference.com/boxscores/202411040BRK.html,Brooklyn Nets,Memphis Grizzlies,Home,2.0
+85,2024-11-04,Sacramento Kings,111.0,Miami Heat,110.0,MIA,SAC,https://www.basketball-reference.com/boxscores/202411040MIA.html,Miami Heat,Sacramento Kings,Away,-1.0
+86,2024-11-04,Utah Jazz,135.0,Chicago Bulls,126.0,CHI,UTA,https://www.basketball-reference.com/boxscores/202411040CHI.html,Chicago Bulls,Utah Jazz,Away,-9.0
+87,2024-11-04,New York Knicks,97.0,Houston Rockets,109.0,HOU,NYK,https://www.basketball-reference.com/boxscores/202411040HOU.html,Houston Rockets,New York Knicks,Home,12.0
+88,2024-11-04,Charlotte Hornets,93.0,Minnesota Timberwolves,114.0,MIN,CHO,https://www.basketball-reference.com/boxscores/202411040MIN.html,Charlotte Hornets,Minnesota Timberwolves,Home,21.0
+89,2024-11-04,Orlando Magic,86.0,Oklahoma City Thunder,102.0,OKC,ORL,https://www.basketball-reference.com/boxscores/202411040OKC.html,Oklahoma City Thunder,Orlando Magic,Home,16.0
+90,2024-11-04,Portland Trail Blazers,118.0,New Orleans Pelicans,100.0,NOP,POR,https://www.basketball-reference.com/boxscores/202411040NOP.html,New Orleans Pelicans,Portland Trail Blazers,Away,-18.0
+91,2024-11-04,Indiana Pacers,134.0,Dallas Mavericks,127.0,DAL,IND,https://www.basketball-reference.com/boxscores/202411040DAL.html,Dallas Mavericks,Indiana Pacers,Away,-7.0
+92,2024-11-04,Toronto Raptors,119.0,Denver Nuggets,121.0,DEN,TOR,https://www.basketball-reference.com/boxscores/202411040DEN.html,Denver Nuggets,Toronto Raptors,Home,2.0
+93,2024-11-04,Philadelphia 76ers,116.0,Phoenix Suns,118.0,PHO,PHI,https://www.basketball-reference.com/boxscores/202411040PHO.html,Philadelphia 76ers,Phoenix Suns,Home,2.0
+94,2024-11-04,San Antonio Spurs,104.0,Los Angeles Clippers,113.0,LAC,SAS,https://www.basketball-reference.com/boxscores/202411040LAC.html,Los Angeles Clippers,San Antonio Spurs,Home,9.0
+95,2024-11-06,Detroit Pistons,107.0,Charlotte Hornets,108.0,CHO,DET,https://www.basketball-reference.com/boxscores/202411060CHO.html,Charlotte Hornets,Detroit Pistons,Home,1.0
+96,2024-11-06,Orlando Magic,111.0,Indiana Pacers,118.0,IND,ORL,https://www.basketball-reference.com/boxscores/202411060IND.html,Indiana Pacers,Orlando Magic,Home,7.0
+97,2024-11-06,New York Knicks,116.0,Atlanta Hawks,121.0,ATL,NYK,https://www.basketball-reference.com/boxscores/202411060ATL.html,Atlanta Hawks,New York Knicks,Home,5.0
+98,2024-11-06,Golden State Warriors,118.0,Boston Celtics,112.0,BOS,GSW,https://www.basketball-reference.com/boxscores/202411060BOS.html,Boston Celtics,Golden State Warriors,Away,-6.0
+99,2024-11-06,San Antonio Spurs,100.0,Houston Rockets,127.0,HOU,SAS,https://www.basketball-reference.com/boxscores/202411060HOU.html,Houston Rockets,San Antonio Spurs,Home,27.0
+100,2024-11-06,Los Angeles Lakers,114.0,Memphis Grizzlies,131.0,MEM,LAL,https://www.basketball-reference.com/boxscores/202411060MEM.html,Los Angeles Lakers,Memphis Grizzlies,Home,17.0
+101,2024-11-06,Cleveland Cavaliers,131.0,New Orleans Pelicans,122.0,NOP,CLE,https://www.basketball-reference.com/boxscores/202411060NOP.html,Cleveland Cavaliers,New Orleans Pelicans,Away,-9.0
+102,2024-11-06,Chicago Bulls,99.0,Dallas Mavericks,119.0,DAL,CHI,https://www.basketball-reference.com/boxscores/202411060DAL.html,Chicago Bulls,Dallas Mavericks,Home,20.0
+103,2024-11-06,Oklahoma City Thunder,122.0,Denver Nuggets,124.0,DEN,OKC,https://www.basketball-reference.com/boxscores/202411060DEN.html,Denver Nuggets,Oklahoma City Thunder,Home,2.0
+104,2024-11-06,Miami Heat,112.0,Phoenix Suns,115.0,PHO,MIA,https://www.basketball-reference.com/boxscores/202411060PHO.html,Miami Heat,Phoenix Suns,Home,3.0
+105,2024-11-06,Philadelphia 76ers,98.0,Los Angeles Clippers,110.0,LAC,PHI,https://www.basketball-reference.com/boxscores/202411060LAC.html,Los Angeles Clippers,Philadelphia 76ers,Home,12.0
+106,2024-11-06,Toronto Raptors,107.0,Sacramento Kings,122.0,SAC,TOR,https://www.basketball-reference.com/boxscores/202411060SAC.html,Sacramento Kings,Toronto Raptors,Home,15.0
+107,2024-11-07,Minnesota Timberwolves,135.0,Chicago Bulls,119.0,CHI,MIN,https://www.basketball-reference.com/boxscores/202411070CHI.html,Chicago Bulls,Minnesota Timberwolves,Away,-16.0
+108,2024-11-07,Utah Jazz,100.0,Milwaukee Bucks,123.0,MIL,UTA,https://www.basketball-reference.com/boxscores/202411070MIL.html,Milwaukee Bucks,Utah Jazz,Home,23.0
+109,2024-11-07,Portland Trail Blazers,105.0,San Antonio Spurs,118.0,SAS,POR,https://www.basketball-reference.com/boxscores/202411070SAS.html,Portland Trail Blazers,San Antonio Spurs,Home,13.0
+110,2024-11-08,Indiana Pacers,83.0,Charlotte Hornets,103.0,CHO,IND,https://www.basketball-reference.com/boxscores/202411080CHO.html,Charlotte Hornets,Indiana Pacers,Home,20.0
+111,2024-11-08,Atlanta Hawks,121.0,Detroit Pistons,122.0,DET,ATL,https://www.basketball-reference.com/boxscores/202411080DET.html,Atlanta Hawks,Detroit Pistons,Home,1.0
+112,2024-11-08,New Orleans Pelicans,88.0,Orlando Magic,115.0,ORL,NOP,https://www.basketball-reference.com/boxscores/202411080ORL.html,New Orleans Pelicans,Orlando Magic,Home,27.0
+113,2024-11-08,Brooklyn Nets,104.0,Boston Celtics,108.0,BOS,BRK,https://www.basketball-reference.com/boxscores/202411080BOS.html,Boston Celtics,Brooklyn Nets,Home,4.0
+114,2024-11-08,Golden State Warriors,117.0,Cleveland Cavaliers,136.0,CLE,GSW,https://www.basketball-reference.com/boxscores/202411080CLE.html,Cleveland Cavaliers,Golden State Warriors,Home,19.0
+115,2024-11-08,Phoenix Suns,114.0,Dallas Mavericks,113.0,DAL,PHO,https://www.basketball-reference.com/boxscores/202411080DAL.html,Dallas Mavericks,Phoenix Suns,Away,-1.0
+116,2024-11-08,Milwaukee Bucks,94.0,New York Knicks,116.0,NYK,MIL,https://www.basketball-reference.com/boxscores/202411080NYK.html,Milwaukee Bucks,New York Knicks,Home,22.0
+117,2024-11-08,Washington Wizards,104.0,Memphis Grizzlies,128.0,MEM,WAS,https://www.basketball-reference.com/boxscores/202411080MEM.html,Memphis Grizzlies,Washington Wizards,Home,24.0
+118,2024-11-08,Houston Rockets,107.0,Oklahoma City Thunder,126.0,OKC,HOU,https://www.basketball-reference.com/boxscores/202411080OKC.html,Houston Rockets,Oklahoma City Thunder,Home,19.0
+119,2024-11-08,Miami Heat,122.0,Denver Nuggets,135.0,DEN,MIA,https://www.basketball-reference.com/boxscores/202411080DEN.html,Denver Nuggets,Miami Heat,Home,13.0
+120,2024-11-08,Portland Trail Blazers,102.0,Minnesota Timberwolves,127.0,MIN,POR,https://www.basketball-reference.com/boxscores/202411080MIN.html,Minnesota Timberwolves,Portland Trail Blazers,Home,25.0
+121,2024-11-08,Philadelphia 76ers,106.0,Los Angeles Lakers,116.0,LAL,PHI,https://www.basketball-reference.com/boxscores/202411080LAL.html,Los Angeles Lakers,Philadelphia 76ers,Home,10.0
+122,2024-11-08,Los Angeles Clippers,107.0,Sacramento Kings,98.0,SAC,LAC,https://www.basketball-reference.com/boxscores/202411080SAC.html,Los Angeles Clippers,Sacramento Kings,Away,-9.0
+123,2024-11-09,Utah Jazz,111.0,San Antonio Spurs,110.0,SAS,UTA,https://www.basketball-reference.com/boxscores/202411090SAS.html,San Antonio Spurs,Utah Jazz,Away,-1.0
+124,2024-11-09,Chicago Bulls,125.0,Atlanta Hawks,113.0,ATL,CHI,https://www.basketball-reference.com/boxscores/202411090ATL.html,Atlanta Hawks,Chicago Bulls,Away,-12.0
+125,2024-11-09,Brooklyn Nets,100.0,Cleveland Cavaliers,105.0,CLE,BRK,https://www.basketball-reference.com/boxscores/202411090CLE.html,Brooklyn Nets,Cleveland Cavaliers,Home,5.0
+126,2024-11-09,Toronto Raptors,103.0,Los Angeles Clippers,105.0,LAC,TOR,https://www.basketball-reference.com/boxscores/202411090LAC.html,Los Angeles Clippers,Toronto Raptors,Home,2.0
+127,2024-11-10,Houston Rockets,101.0,Detroit Pistons,99.0,DET,HOU,https://www.basketball-reference.com/boxscores/202411100DET.html,Detroit Pistons,Houston Rockets,Away,-2.0
+128,2024-11-10,Boston Celtics,113.0,Milwaukee Bucks,107.0,MIL,BOS,https://www.basketball-reference.com/boxscores/202411100MIL.html,Boston Celtics,Milwaukee Bucks,Away,-6.0
+129,2024-11-10,New York Knicks,121.0,Indiana Pacers,132.0,IND,NYK,https://www.basketball-reference.com/boxscores/202411100IND.html,Indiana Pacers,New York Knicks,Home,11.0
+130,2024-11-10,Washington Wizards,94.0,Orlando Magic,121.0,ORL,WAS,https://www.basketball-reference.com/boxscores/202411100ORL.html,Orlando Magic,Washington Wizards,Home,27.0
+131,2024-11-10,Miami Heat,95.0,Minnesota Timberwolves,94.0,MIN,MIA,https://www.basketball-reference.com/boxscores/202411100MIN.html,Miami Heat,Minnesota Timberwolves,Away,-1.0
+132,2024-11-10,Golden State Warriors,127.0,Oklahoma City Thunder,116.0,OKC,GSW,https://www.basketball-reference.com/boxscores/202411100OKC.html,Golden State Warriors,Oklahoma City Thunder,Away,-11.0
+133,2024-11-10,Charlotte Hornets,105.0,Philadelphia 76ers,107.0,PHI,CHO,https://www.basketball-reference.com/boxscores/202411100PHI.html,Charlotte Hornets,Philadelphia 76ers,Home,2.0
+134,2024-11-10,Dallas Mavericks,120.0,Denver Nuggets,122.0,DEN,DAL,https://www.basketball-reference.com/boxscores/202411100DEN.html,Dallas Mavericks,Denver Nuggets,Home,2.0
+135,2024-11-10,Sacramento Kings,127.0,Phoenix Suns,118.0,PHO,SAC,https://www.basketball-reference.com/boxscores/202411100PHO.html,Phoenix Suns,Sacramento Kings,Away,-9.0
+136,2024-11-10,Memphis Grizzlies,134.0,Portland Trail Blazers,89.0,POR,MEM,https://www.basketball-reference.com/boxscores/202411100POR.html,Memphis Grizzlies,Portland Trail Blazers,Away,-45.0
+137,2024-11-10,Toronto Raptors,103.0,Los Angeles Lakers,123.0,LAL,TOR,https://www.basketball-reference.com/boxscores/202411100LAL.html,Los Angeles Lakers,Toronto Raptors,Home,20.0
+138,2024-11-11,Cleveland Cavaliers,119.0,Chicago Bulls,113.0,CHI,CLE,https://www.basketball-reference.com/boxscores/202411110CHI.html,Chicago Bulls,Cleveland Cavaliers,Away,-6.0
+139,2024-11-11,Washington Wizards,92.0,Houston Rockets,107.0,HOU,WAS,https://www.basketball-reference.com/boxscores/202411110HOU.html,Houston Rockets,Washington Wizards,Home,15.0
+140,2024-11-11,Brooklyn Nets,107.0,New Orleans Pelicans,105.0,NOP,BRK,https://www.basketball-reference.com/boxscores/202411110NOP.html,Brooklyn Nets,New Orleans Pelicans,Away,-2.0
+141,2024-11-11,Los Angeles Clippers,128.0,Oklahoma City Thunder,134.0,OKC,LAC,https://www.basketball-reference.com/boxscores/202411110OKC.html,Los Angeles Clippers,Oklahoma City Thunder,Home,6.0
+142,2024-11-11,Sacramento Kings,96.0,San Antonio Spurs,116.0,SAS,SAC,https://www.basketball-reference.com/boxscores/202411110SAS.html,Sacramento Kings,San Antonio Spurs,Home,20.0
+143,2024-11-12,Atlanta Hawks,117.0,Boston Celtics,116.0,BOS,ATL,https://www.basketball-reference.com/boxscores/202411120BOS.html,Atlanta Hawks,Boston Celtics,Away,-1.0
+144,2024-11-12,Miami Heat,121.0,Detroit Pistons,123.0,DET,MIA,https://www.basketball-reference.com/boxscores/202411120DET.html,Detroit Pistons,Miami Heat,Home,2.0
+145,2024-11-12,Charlotte Hornets,89.0,Orlando Magic,114.0,ORL,CHO,https://www.basketball-reference.com/boxscores/202411120ORL.html,Charlotte Hornets,Orlando Magic,Home,25.0
+146,2024-11-12,New York Knicks,111.0,Philadelphia 76ers,99.0,PHI,NYK,https://www.basketball-reference.com/boxscores/202411120PHI.html,New York Knicks,Philadelphia 76ers,Away,-12.0
+147,2024-11-12,Toronto Raptors,85.0,Milwaukee Bucks,99.0,MIL,TOR,https://www.basketball-reference.com/boxscores/202411120MIL.html,Milwaukee Bucks,Toronto Raptors,Home,14.0
+148,2024-11-12,Phoenix Suns,120.0,Utah Jazz,112.0,UTA,PHO,https://www.basketball-reference.com/boxscores/202411120UTA.html,Phoenix Suns,Utah Jazz,Away,-8.0
+149,2024-11-12,Dallas Mavericks,117.0,Golden State Warriors,120.0,GSW,DAL,https://www.basketball-reference.com/boxscores/202411120GSW.html,Dallas Mavericks,Golden State Warriors,Home,3.0
+150,2024-11-12,Minnesota Timberwolves,108.0,Portland Trail Blazers,122.0,POR,MIN,https://www.basketball-reference.com/boxscores/202411120POR.html,Minnesota Timberwolves,Portland Trail Blazers,Home,14.0
+151,2024-11-13,Indiana Pacers,90.0,Orlando Magic,94.0,ORL,IND,https://www.basketball-reference.com/boxscores/202411130ORL.html,Indiana Pacers,Orlando Magic,Home,4.0
+152,2024-11-13,Boston Celtics,139.0,Brooklyn Nets,114.0,BRK,BOS,https://www.basketball-reference.com/boxscores/202411130BRK.html,Boston Celtics,Brooklyn Nets,Away,-25.0
+153,2024-11-13,Chicago Bulls,124.0,New York Knicks,123.0,NYK,CHI,https://www.basketball-reference.com/boxscores/202411130NYK.html,Chicago Bulls,New York Knicks,Away,-1.0
+154,2024-11-13,New Orleans Pelicans,88.0,Oklahoma City Thunder,106.0,OKC,NOP,https://www.basketball-reference.com/boxscores/202411130OKC.html,New Orleans Pelicans,Oklahoma City Thunder,Home,18.0
+155,2024-11-13,Cleveland Cavaliers,114.0,Philadelphia 76ers,106.0,PHI,CLE,https://www.basketball-reference.com/boxscores/202411130PHI.html,Cleveland Cavaliers,Philadelphia 76ers,Away,-8.0
+156,2024-11-13,Los Angeles Clippers,103.0,Houston Rockets,111.0,HOU,LAC,https://www.basketball-reference.com/boxscores/202411130HOU.html,Houston Rockets,Los Angeles Clippers,Home,8.0
+157,2024-11-13,Detroit Pistons,120.0,Milwaukee Bucks,127.0,MIL,DET,https://www.basketball-reference.com/boxscores/202411130MIL.html,Detroit Pistons,Milwaukee Bucks,Home,7.0
+158,2024-11-13,Washington Wizards,130.0,San Antonio Spurs,139.0,SAS,WAS,https://www.basketball-reference.com/boxscores/202411130SAS.html,San Antonio Spurs,Washington Wizards,Home,9.0
+159,2024-11-13,Memphis Grizzlies,123.0,Los Angeles Lakers,128.0,LAL,MEM,https://www.basketball-reference.com/boxscores/202411130LAL.html,Los Angeles Lakers,Memphis Grizzlies,Home,5.0
+160,2024-11-13,Minnesota Timberwolves,98.0,Portland Trail Blazers,106.0,POR,MIN,https://www.basketball-reference.com/boxscores/202411130POR.html,Minnesota Timberwolves,Portland Trail Blazers,Home,8.0
+161,2024-11-13,Phoenix Suns,104.0,Sacramento Kings,127.0,SAC,PHO,https://www.basketball-reference.com/boxscores/202411130SAC.html,Phoenix Suns,Sacramento Kings,Home,23.0
+162,2024-11-14,Dallas Mavericks,113.0,Utah Jazz,115.0,UTA,DAL,https://www.basketball-reference.com/boxscores/202411140UTA.html,Dallas Mavericks,Utah Jazz,Home,2.0
+163,2024-11-15,Miami Heat,124.0,Indiana Pacers,111.0,IND,MIA,https://www.basketball-reference.com/boxscores/202411150IND.html,Indiana Pacers,Miami Heat,Away,-13.0
+164,2024-11-15,Philadelphia 76ers,86.0,Orlando Magic,98.0,ORL,PHI,https://www.basketball-reference.com/boxscores/202411150ORL.html,Orlando Magic,Philadelphia 76ers,Home,12.0
+165,2024-11-15,Detroit Pistons,99.0,Toronto Raptors,95.0,TOR,DET,https://www.basketball-reference.com/boxscores/202411150TOR.html,Detroit Pistons,Toronto Raptors,Away,-4.0
+166,2024-11-15,Washington Wizards,117.0,Atlanta Hawks,129.0,ATL,WAS,https://www.basketball-reference.com/boxscores/202411150ATL.html,Atlanta Hawks,Washington Wizards,Home,12.0
+167,2024-11-15,Chicago Bulls,126.0,Cleveland Cavaliers,144.0,CLE,CHI,https://www.basketball-reference.com/boxscores/202411150CLE.html,Chicago Bulls,Cleveland Cavaliers,Home,18.0
+168,2024-11-15,Brooklyn Nets,122.0,New York Knicks,124.0,NYK,BRK,https://www.basketball-reference.com/boxscores/202411150NYK.html,Brooklyn Nets,New York Knicks,Home,2.0
+169,2024-11-15,Los Angeles Lakers,120.0,San Antonio Spurs,115.0,SAS,LAL,https://www.basketball-reference.com/boxscores/202411150SAS.html,Los Angeles Lakers,San Antonio Spurs,Away,-5.0
+170,2024-11-15,Los Angeles Clippers,104.0,Houston Rockets,125.0,HOU,LAC,https://www.basketball-reference.com/boxscores/202411150HOU.html,Houston Rockets,Los Angeles Clippers,Home,21.0
+171,2024-11-15,Denver Nuggets,94.0,New Orleans Pelicans,101.0,NOP,DEN,https://www.basketball-reference.com/boxscores/202411150NOP.html,Denver Nuggets,New Orleans Pelicans,Home,7.0
+172,2024-11-15,Phoenix Suns,83.0,Oklahoma City Thunder,99.0,OKC,PHO,https://www.basketball-reference.com/boxscores/202411150OKC.html,Oklahoma City Thunder,Phoenix Suns,Home,16.0
+173,2024-11-15,Memphis Grizzlies,118.0,Golden State Warriors,123.0,GSW,MEM,https://www.basketball-reference.com/boxscores/202411150GSW.html,Golden State Warriors,Memphis Grizzlies,Home,5.0
+174,2024-11-15,Minnesota Timberwolves,130.0,Sacramento Kings,126.0,SAC,MIN,https://www.basketball-reference.com/boxscores/202411150SAC.html,Minnesota Timberwolves,Sacramento Kings,Away,-4.0
+175,2024-11-16,Milwaukee Bucks,114.0,Charlotte Hornets,115.0,CHO,MIL,https://www.basketball-reference.com/boxscores/202411160CHO.html,Charlotte Hornets,Milwaukee Bucks,Home,1.0
+176,2024-11-16,Toronto Raptors,123.0,Boston Celtics,126.0,BOS,TOR,https://www.basketball-reference.com/boxscores/202411160BOS.html,Boston Celtics,Toronto Raptors,Home,3.0
+177,2024-11-16,Los Angeles Lakers,104.0,New Orleans Pelicans,99.0,NOP,LAL,https://www.basketball-reference.com/boxscores/202411160NOP.html,Los Angeles Lakers,New Orleans Pelicans,Away,-5.0
+178,2024-11-16,San Antonio Spurs,93.0,Dallas Mavericks,110.0,DAL,SAS,https://www.basketball-reference.com/boxscores/202411160DAL.html,Dallas Mavericks,San Antonio Spurs,Home,17.0
+179,2024-11-16,Utah Jazz,117.0,Sacramento Kings,121.0,SAC,UTA,https://www.basketball-reference.com/boxscores/202411160SAC.html,Sacramento Kings,Utah Jazz,Home,4.0
+180,2024-11-17,Phoenix Suns,117.0,Minnesota Timberwolves,120.0,MIN,PHO,https://www.basketball-reference.com/boxscores/202411170MIN.html,Minnesota Timberwolves,Phoenix Suns,Home,3.0
+181,2024-11-17,Miami Heat,110.0,Indiana Pacers,119.0,IND,MIA,https://www.basketball-reference.com/boxscores/202411170IND.html,Indiana Pacers,Miami Heat,Home,9.0
+182,2024-11-17,Charlotte Hornets,114.0,Cleveland Cavaliers,128.0,CLE,CHO,https://www.basketball-reference.com/boxscores/202411170CLE.html,Charlotte Hornets,Cleveland Cavaliers,Home,14.0
+183,2024-11-17,Denver Nuggets,90.0,Memphis Grizzlies,105.0,MEM,DEN,https://www.basketball-reference.com/boxscores/202411170MEM.html,Denver Nuggets,Memphis Grizzlies,Home,15.0
+184,2024-11-17,Atlanta Hawks,110.0,Portland Trail Blazers,114.0,POR,ATL,https://www.basketball-reference.com/boxscores/202411170POR.html,Atlanta Hawks,Portland Trail Blazers,Home,4.0
+185,2024-11-17,Detroit Pistons,124.0,Washington Wizards,104.0,WAS,DET,https://www.basketball-reference.com/boxscores/202411170WAS.html,Detroit Pistons,Washington Wizards,Away,-20.0
+186,2024-11-17,Houston Rockets,143.0,Chicago Bulls,107.0,CHI,HOU,https://www.basketball-reference.com/boxscores/202411170CHI.html,Chicago Bulls,Houston Rockets,Away,-36.0
+187,2024-11-17,Brooklyn Nets,104.0,New York Knicks,114.0,NYK,BRK,https://www.basketball-reference.com/boxscores/202411170NYK.html,Brooklyn Nets,New York Knicks,Home,10.0
+188,2024-11-17,Dallas Mavericks,121.0,Oklahoma City Thunder,119.0,OKC,DAL,https://www.basketball-reference.com/boxscores/202411170OKC.html,Dallas Mavericks,Oklahoma City Thunder,Away,-2.0
+189,2024-11-17,Utah Jazz,105.0,Los Angeles Clippers,116.0,LAC,UTA,https://www.basketball-reference.com/boxscores/202411170LAC.html,Los Angeles Clippers,Utah Jazz,Home,11.0
+190,2024-11-18,Chicago Bulls,122.0,Detroit Pistons,112.0,DET,CHI,https://www.basketball-reference.com/boxscores/202411180DET.html,Chicago Bulls,Detroit Pistons,Away,-10.0
+191,2024-11-18,Philadelphia 76ers,89.0,Miami Heat,106.0,MIA,PHI,https://www.basketball-reference.com/boxscores/202411180MIA.html,Miami Heat,Philadelphia 76ers,Home,17.0
+192,2024-11-18,Washington Wizards,106.0,New York Knicks,134.0,NYK,WAS,https://www.basketball-reference.com/boxscores/202411180NYK.html,New York Knicks,Washington Wizards,Home,28.0
+193,2024-11-18,Indiana Pacers,119.0,Toronto Raptors,130.0,TOR,IND,https://www.basketball-reference.com/boxscores/202411180TOR.html,Indiana Pacers,Toronto Raptors,Home,11.0
+194,2024-11-18,Houston Rockets,100.0,Milwaukee Bucks,101.0,MIL,HOU,https://www.basketball-reference.com/boxscores/202411180MIL.html,Houston Rockets,Milwaukee Bucks,Home,1.0
+195,2024-11-18,Orlando Magic,109.0,Phoenix Suns,99.0,PHO,ORL,https://www.basketball-reference.com/boxscores/202411180PHO.html,Orlando Magic,Phoenix Suns,Away,-10.0
+196,2024-11-18,Atlanta Hawks,109.0,Sacramento Kings,108.0,SAC,ATL,https://www.basketball-reference.com/boxscores/202411180SAC.html,Atlanta Hawks,Sacramento Kings,Away,-1.0
+197,2024-11-18,Golden State Warriors,99.0,Los Angeles Clippers,102.0,LAC,GSW,https://www.basketball-reference.com/boxscores/202411180LAC.html,Golden State Warriors,Los Angeles Clippers,Home,3.0
+198,2024-11-19,Cleveland Cavaliers,117.0,Boston Celtics,120.0,BOS,CLE,https://www.basketball-reference.com/boxscores/202411190BOS.html,Boston Celtics,Cleveland Cavaliers,Home,3.0
+199,2024-11-19,Charlotte Hornets,115.0,Brooklyn Nets,116.0,BRK,CHO,https://www.basketball-reference.com/boxscores/202411190BRK.html,Brooklyn Nets,Charlotte Hornets,Home,1.0
+200,2024-11-19,Denver Nuggets,122.0,Memphis Grizzlies,110.0,MEM,DEN,https://www.basketball-reference.com/boxscores/202411190MEM.html,Denver Nuggets,Memphis Grizzlies,Away,-12.0
+201,2024-11-19,New Orleans Pelicans,91.0,Dallas Mavericks,132.0,DAL,NOP,https://www.basketball-reference.com/boxscores/202411190DAL.html,Dallas Mavericks,New Orleans Pelicans,Home,41.0
+202,2024-11-19,Oklahoma City Thunder,104.0,San Antonio Spurs,110.0,SAS,OKC,https://www.basketball-reference.com/boxscores/202411190SAS.html,Oklahoma City Thunder,San Antonio Spurs,Home,6.0
+203,2024-11-19,Utah Jazz,118.0,Los Angeles Lakers,124.0,LAL,UTA,https://www.basketball-reference.com/boxscores/202411190LAL.html,Los Angeles Lakers,Utah Jazz,Home,6.0
+204,2024-11-20,New Orleans Pelicans,100.0,Cleveland Cavaliers,128.0,CLE,NOP,https://www.basketball-reference.com/boxscores/202411200CLE.html,Cleveland Cavaliers,New Orleans Pelicans,Home,28.0
+205,2024-11-20,Chicago Bulls,106.0,Milwaukee Bucks,122.0,MIL,CHI,https://www.basketball-reference.com/boxscores/202411200MIL.html,Chicago Bulls,Milwaukee Bucks,Home,16.0
+206,2024-11-20,Indiana Pacers,113.0,Houston Rockets,130.0,HOU,IND,https://www.basketball-reference.com/boxscores/202411200HOU.html,Houston Rockets,Indiana Pacers,Home,17.0
+207,2024-11-20,Philadelphia 76ers,111.0,Memphis Grizzlies,117.0,MEM,PHI,https://www.basketball-reference.com/boxscores/202411200MEM.html,Memphis Grizzlies,Philadelphia 76ers,Home,6.0
+208,2024-11-20,Portland Trail Blazers,99.0,Oklahoma City Thunder,109.0,OKC,POR,https://www.basketball-reference.com/boxscores/202411200OKC.html,Oklahoma City Thunder,Portland Trail Blazers,Home,10.0
+209,2024-11-20,Atlanta Hawks,97.0,Golden State Warriors,120.0,GSW,ATL,https://www.basketball-reference.com/boxscores/202411200GSW.html,Atlanta Hawks,Golden State Warriors,Home,23.0
+210,2024-11-20,New York Knicks,138.0,Phoenix Suns,122.0,PHO,NYK,https://www.basketball-reference.com/boxscores/202411200PHO.html,New York Knicks,Phoenix Suns,Away,-16.0
+211,2024-11-20,Orlando Magic,93.0,Los Angeles Clippers,104.0,LAC,ORL,https://www.basketball-reference.com/boxscores/202411200LAC.html,Los Angeles Clippers,Orlando Magic,Home,11.0
+212,2024-11-21,Detroit Pistons,121.0,Charlotte Hornets,123.0,CHO,DET,https://www.basketball-reference.com/boxscores/202411210CHO.html,Charlotte Hornets,Detroit Pistons,Home,2.0
+213,2024-11-21,Minnesota Timberwolves,105.0,Toronto Raptors,110.0,TOR,MIN,https://www.basketball-reference.com/boxscores/202411210TOR.html,Minnesota Timberwolves,Toronto Raptors,Home,5.0
+214,2024-11-21,Utah Jazz,118.0,San Antonio Spurs,126.0,SAS,UTA,https://www.basketball-reference.com/boxscores/202411210SAS.html,San Antonio Spurs,Utah Jazz,Home,8.0
+215,2024-11-21,Orlando Magic,119.0,Los Angeles Lakers,118.0,LAL,ORL,https://www.basketball-reference.com/boxscores/202411210LAL.html,Los Angeles Lakers,Orlando Magic,Away,-1.0
+216,2024-11-22,Brooklyn Nets,98.0,Philadelphia 76ers,113.0,PHI,BRK,https://www.basketball-reference.com/boxscores/202411220PHI.html,Brooklyn Nets,Philadelphia 76ers,Home,15.0
+217,2024-11-22,Boston Celtics,108.0,Washington Wizards,96.0,WAS,BOS,https://www.basketball-reference.com/boxscores/202411220WAS.html,Boston Celtics,Washington Wizards,Away,-12.0
+218,2024-11-22,Golden State Warriors,112.0,New Orleans Pelicans,108.0,NOP,GSW,https://www.basketball-reference.com/boxscores/202411220NOP.html,Golden State Warriors,New Orleans Pelicans,Away,-4.0
+219,2024-11-22,Atlanta Hawks,122.0,Chicago Bulls,136.0,CHI,ATL,https://www.basketball-reference.com/boxscores/202411220CHI.html,Atlanta Hawks,Chicago Bulls,Home,14.0
+220,2024-11-22,Portland Trail Blazers,88.0,Houston Rockets,116.0,HOU,POR,https://www.basketball-reference.com/boxscores/202411220HOU.html,Houston Rockets,Portland Trail Blazers,Home,28.0
+221,2024-11-22,Indiana Pacers,117.0,Milwaukee Bucks,129.0,MIL,IND,https://www.basketball-reference.com/boxscores/202411220MIL.html,Indiana Pacers,Milwaukee Bucks,Home,12.0
+222,2024-11-22,Dallas Mavericks,123.0,Denver Nuggets,120.0,DEN,DAL,https://www.basketball-reference.com/boxscores/202411220DEN.html,Dallas Mavericks,Denver Nuggets,Away,-3.0
+223,2024-11-22,Sacramento Kings,88.0,Los Angeles Clippers,104.0,LAC,SAC,https://www.basketball-reference.com/boxscores/202411220LAC.html,Los Angeles Clippers,Sacramento Kings,Home,16.0
+224,2024-11-23,New York Knicks,106.0,Utah Jazz,121.0,UTA,NYK,https://www.basketball-reference.com/boxscores/202411230UTA.html,New York Knicks,Utah Jazz,Home,15.0
+225,2024-11-23,Detroit Pistons,100.0,Orlando Magic,111.0,ORL,DET,https://www.basketball-reference.com/boxscores/202411230ORL.html,Detroit Pistons,Orlando Magic,Home,11.0
+226,2024-11-23,Memphis Grizzlies,142.0,Chicago Bulls,131.0,CHI,MEM,https://www.basketball-reference.com/boxscores/202411230CHI.html,Chicago Bulls,Memphis Grizzlies,Away,-11.0
+227,2024-11-23,Portland Trail Blazers,104.0,Houston Rockets,98.0,HOU,POR,https://www.basketball-reference.com/boxscores/202411230HOU.html,Houston Rockets,Portland Trail Blazers,Away,-6.0
+228,2024-11-23,Charlotte Hornets,119.0,Milwaukee Bucks,125.0,MIL,CHO,https://www.basketball-reference.com/boxscores/202411230MIL.html,Charlotte Hornets,Milwaukee Bucks,Home,6.0
+229,2024-11-23,Golden State Warriors,94.0,San Antonio Spurs,104.0,SAS,GSW,https://www.basketball-reference.com/boxscores/202411230SAS.html,Golden State Warriors,San Antonio Spurs,Home,10.0
+230,2024-11-23,Denver Nuggets,127.0,Los Angeles Lakers,102.0,LAL,DEN,https://www.basketball-reference.com/boxscores/202411230LAL.html,Denver Nuggets,Los Angeles Lakers,Away,-25.0
+231,2024-11-24,Minnesota Timberwolves,105.0,Boston Celtics,107.0,BOS,MIN,https://www.basketball-reference.com/boxscores/202411240BOS.html,Boston Celtics,Minnesota Timberwolves,Home,2.0
+232,2024-11-24,Washington Wizards,103.0,Indiana Pacers,115.0,IND,WAS,https://www.basketball-reference.com/boxscores/202411240IND.html,Indiana Pacers,Washington Wizards,Home,12.0
+233,2024-11-24,Dallas Mavericks,118.0,Miami Heat,123.0,MIA,DAL,https://www.basketball-reference.com/boxscores/202411240MIA.html,Dallas Mavericks,Miami Heat,Home,5.0
+234,2024-11-24,Los Angeles Clippers,125.0,Philadelphia 76ers,99.0,PHI,LAC,https://www.basketball-reference.com/boxscores/202411240PHI.html,Los Angeles Clippers,Philadelphia 76ers,Away,-26.0
+235,2024-11-24,Toronto Raptors,108.0,Cleveland Cavaliers,122.0,CLE,TOR,https://www.basketball-reference.com/boxscores/202411240CLE.html,Cleveland Cavaliers,Toronto Raptors,Home,14.0
+236,2024-11-24,Brooklyn Nets,108.0,Sacramento Kings,103.0,SAC,BRK,https://www.basketball-reference.com/boxscores/202411240SAC.html,Brooklyn Nets,Sacramento Kings,Away,-5.0
+237,2024-11-25,Orlando Magic,95.0,Charlotte Hornets,84.0,CHO,ORL,https://www.basketball-reference.com/boxscores/202411250CHO.html,Charlotte Hornets,Orlando Magic,Away,-11.0
+238,2024-11-25,Toronto Raptors,100.0,Detroit Pistons,102.0,DET,TOR,https://www.basketball-reference.com/boxscores/202411250DET.html,Detroit Pistons,Toronto Raptors,Home,2.0
+239,2024-11-25,New Orleans Pelicans,110.0,Indiana Pacers,114.0,IND,NOP,https://www.basketball-reference.com/boxscores/202411250IND.html,Indiana Pacers,New Orleans Pelicans,Home,4.0
+240,2024-11-25,Dallas Mavericks,129.0,Atlanta Hawks,119.0,ATL,DAL,https://www.basketball-reference.com/boxscores/202411250ATL.html,Atlanta Hawks,Dallas Mavericks,Away,-10.0
+241,2024-11-25,Los Angeles Clippers,94.0,Boston Celtics,126.0,BOS,LAC,https://www.basketball-reference.com/boxscores/202411250BOS.html,Boston Celtics,Los Angeles Clippers,Home,32.0
+242,2024-11-25,Portland Trail Blazers,98.0,Memphis Grizzlies,123.0,MEM,POR,https://www.basketball-reference.com/boxscores/202411250MEM.html,Memphis Grizzlies,Portland Trail Blazers,Home,25.0
+243,2024-11-25,New York Knicks,145.0,Denver Nuggets,118.0,DEN,NYK,https://www.basketball-reference.com/boxscores/202411250DEN.html,Denver Nuggets,New York Knicks,Away,-27.0
+244,2024-11-25,Brooklyn Nets,128.0,Golden State Warriors,120.0,GSW,BRK,https://www.basketball-reference.com/boxscores/202411250GSW.html,Brooklyn Nets,Golden State Warriors,Away,-8.0
+245,2024-11-25,Oklahoma City Thunder,130.0,Sacramento Kings,109.0,SAC,OKC,https://www.basketball-reference.com/boxscores/202411250SAC.html,Oklahoma City Thunder,Sacramento Kings,Away,-21.0
+246,2024-11-26,Chicago Bulls,127.0,Washington Wizards,108.0,WAS,CHI,https://www.basketball-reference.com/boxscores/202411260WAS.html,Chicago Bulls,Washington Wizards,Away,-19.0
+247,2024-11-26,Milwaukee Bucks,106.0,Miami Heat,103.0,MIA,MIL,https://www.basketball-reference.com/boxscores/202411260MIA.html,Miami Heat,Milwaukee Bucks,Away,-3.0
+248,2024-11-26,Houston Rockets,117.0,Minnesota Timberwolves,111.0,MIN,HOU,https://www.basketball-reference.com/boxscores/202411260MIN.html,Houston Rockets,Minnesota Timberwolves,Away,-6.0
+249,2024-11-26,San Antonio Spurs,128.0,Utah Jazz,115.0,UTA,SAS,https://www.basketball-reference.com/boxscores/202411260UTA.html,San Antonio Spurs,Utah Jazz,Away,-13.0
+250,2024-11-26,Los Angeles Lakers,100.0,Phoenix Suns,127.0,PHO,LAL,https://www.basketball-reference.com/boxscores/202411260PHO.html,Los Angeles Lakers,Phoenix Suns,Home,27.0
+251,2024-11-27,Miami Heat,98.0,Charlotte Hornets,94.0,CHO,MIA,https://www.basketball-reference.com/boxscores/202411270CHO.html,Charlotte Hornets,Miami Heat,Away,-4.0
+252,2024-11-27,Atlanta Hawks,135.0,Cleveland Cavaliers,124.0,CLE,ATL,https://www.basketball-reference.com/boxscores/202411270CLE.html,Atlanta Hawks,Cleveland Cavaliers,Away,-11.0
+253,2024-11-27,Portland Trail Blazers,114.0,Indiana Pacers,121.0,IND,POR,https://www.basketball-reference.com/boxscores/202411270IND.html,Indiana Pacers,Portland Trail Blazers,Home,7.0
+254,2024-11-27,Chicago Bulls,119.0,Orlando Magic,133.0,ORL,CHI,https://www.basketball-reference.com/boxscores/202411270ORL.html,Chicago Bulls,Orlando Magic,Home,14.0
+255,2024-11-27,Houston Rockets,122.0,Philadelphia 76ers,115.0,PHI,HOU,https://www.basketball-reference.com/boxscores/202411270PHI.html,Houston Rockets,Philadelphia 76ers,Away,-7.0
+256,2024-11-27,Los Angeles Clippers,121.0,Washington Wizards,96.0,WAS,LAC,https://www.basketball-reference.com/boxscores/202411270WAS.html,Los Angeles Clippers,Washington Wizards,Away,-25.0
+257,2024-11-27,New York Knicks,114.0,Dallas Mavericks,129.0,DAL,NYK,https://www.basketball-reference.com/boxscores/202411270DAL.html,Dallas Mavericks,New York Knicks,Home,15.0
+258,2024-11-27,Detroit Pistons,111.0,Memphis Grizzlies,131.0,MEM,DET,https://www.basketball-reference.com/boxscores/202411270MEM.html,Detroit Pistons,Memphis Grizzlies,Home,20.0
+259,2024-11-27,Sacramento Kings,115.0,Minnesota Timberwolves,104.0,MIN,SAC,https://www.basketball-reference.com/boxscores/202411270MIN.html,Minnesota Timberwolves,Sacramento Kings,Away,-11.0
+260,2024-11-27,Toronto Raptors,119.0,New Orleans Pelicans,93.0,NOP,TOR,https://www.basketball-reference.com/boxscores/202411270NOP.html,New Orleans Pelicans,Toronto Raptors,Away,-26.0
+261,2024-11-27,Los Angeles Lakers,119.0,San Antonio Spurs,101.0,SAS,LAL,https://www.basketball-reference.com/boxscores/202411270SAS.html,Los Angeles Lakers,San Antonio Spurs,Away,-18.0
+262,2024-11-27,Brooklyn Nets,127.0,Phoenix Suns,117.0,PHO,BRK,https://www.basketball-reference.com/boxscores/202411270PHO.html,Brooklyn Nets,Phoenix Suns,Away,-10.0
+263,2024-11-27,Denver Nuggets,122.0,Utah Jazz,103.0,UTA,DEN,https://www.basketball-reference.com/boxscores/202411270UTA.html,Denver Nuggets,Utah Jazz,Away,-19.0
+264,2024-11-27,Oklahoma City Thunder,105.0,Golden State Warriors,101.0,GSW,OKC,https://www.basketball-reference.com/boxscores/202411270GSW.html,Golden State Warriors,Oklahoma City Thunder,Away,-4.0
+265,2024-11-29,New York Knicks,99.0,Charlotte Hornets,98.0,CHO,NYK,https://www.basketball-reference.com/boxscores/202411290CHO.html,Charlotte Hornets,New York Knicks,Away,-1.0
+266,2024-11-29,Cleveland Cavaliers,101.0,Atlanta Hawks,117.0,ATL,CLE,https://www.basketball-reference.com/boxscores/202411290ATL.html,Atlanta Hawks,Cleveland Cavaliers,Home,16.0
+267,2024-11-29,New Orleans Pelicans,109.0,Memphis Grizzlies,120.0,MEM,NOP,https://www.basketball-reference.com/boxscores/202411290MEM.html,Memphis Grizzlies,New Orleans Pelicans,Home,11.0
+268,2024-11-29,Orlando Magic,123.0,Brooklyn Nets,100.0,BRK,ORL,https://www.basketball-reference.com/boxscores/202411290BRK.html,Brooklyn Nets,Orlando Magic,Away,-23.0
+269,2024-11-29,Los Angeles Clippers,92.0,Minnesota Timberwolves,93.0,MIN,LAC,https://www.basketball-reference.com/boxscores/202411290MIN.html,Los Angeles Clippers,Minnesota Timberwolves,Home,1.0
+270,2024-11-29,Boston Celtics,138.0,Chicago Bulls,129.0,CHI,BOS,https://www.basketball-reference.com/boxscores/202411290CHI.html,Boston Celtics,Chicago Bulls,Away,-9.0
+271,2024-11-29,Detroit Pistons,130.0,Indiana Pacers,106.0,IND,DET,https://www.basketball-reference.com/boxscores/202411290IND.html,Detroit Pistons,Indiana Pacers,Away,-24.0
+272,2024-11-29,Toronto Raptors,111.0,Miami Heat,121.0,MIA,TOR,https://www.basketball-reference.com/boxscores/202411290MIA.html,Miami Heat,Toronto Raptors,Home,10.0
+273,2024-11-29,Oklahoma City Thunder,101.0,Los Angeles Lakers,93.0,LAL,OKC,https://www.basketball-reference.com/boxscores/202411290LAL.html,Los Angeles Lakers,Oklahoma City Thunder,Away,-8.0
+274,2024-11-29,Sacramento Kings,106.0,Portland Trail Blazers,115.0,POR,SAC,https://www.basketball-reference.com/boxscores/202411290POR.html,Portland Trail Blazers,Sacramento Kings,Home,9.0
+275,2024-11-30,Atlanta Hawks,107.0,Charlotte Hornets,104.0,CHO,ATL,https://www.basketball-reference.com/boxscores/202411300CHO.html,Atlanta Hawks,Charlotte Hornets,Away,-3.0
+276,2024-11-30,Philadelphia 76ers,111.0,Detroit Pistons,96.0,DET,PHI,https://www.basketball-reference.com/boxscores/202411300DET.html,Detroit Pistons,Philadelphia 76ers,Away,-15.0
+277,2024-11-30,Washington Wizards,114.0,Milwaukee Bucks,124.0,MIL,WAS,https://www.basketball-reference.com/boxscores/202411300MIL.html,Milwaukee Bucks,Washington Wizards,Home,10.0
+278,2024-11-30,Golden State Warriors,105.0,Phoenix Suns,113.0,PHO,GSW,https://www.basketball-reference.com/boxscores/202411300PHO.html,Golden State Warriors,Phoenix Suns,Home,8.0
+279,2024-11-30,Dallas Mavericks,106.0,Utah Jazz,94.0,UTA,DAL,https://www.basketball-reference.com/boxscores/202411300UTA.html,Dallas Mavericks,Utah Jazz,Away,-12.0
+280,2024-12-01,Orlando Magic,100.0,Brooklyn Nets,92.0,BRK,ORL,https://www.basketball-reference.com/boxscores/202412010BRK.html,Brooklyn Nets,Orlando Magic,Away,-8.0
+281,2024-12-01,Indiana Pacers,121.0,Memphis Grizzlies,136.0,MEM,IND,https://www.basketball-reference.com/boxscores/202412010MEM.html,Indiana Pacers,Memphis Grizzlies,Home,15.0
+282,2024-12-01,Boston Celtics,111.0,Cleveland Cavaliers,115.0,CLE,BOS,https://www.basketball-reference.com/boxscores/202412010CLE.html,Boston Celtics,Cleveland Cavaliers,Home,4.0
+283,2024-12-01,New Orleans Pelicans,85.0,New York Knicks,118.0,NYK,NOP,https://www.basketball-reference.com/boxscores/202412010NYK.html,New Orleans Pelicans,New York Knicks,Home,33.0
+284,2024-12-01,Miami Heat,116.0,Toronto Raptors,119.0,TOR,MIA,https://www.basketball-reference.com/boxscores/202412010TOR.html,Miami Heat,Toronto Raptors,Home,3.0
+285,2024-12-01,Oklahoma City Thunder,116.0,Houston Rockets,119.0,HOU,OKC,https://www.basketball-reference.com/boxscores/202412010HOU.html,Houston Rockets,Oklahoma City Thunder,Home,3.0
+286,2024-12-01,Los Angeles Lakers,105.0,Utah Jazz,104.0,UTA,LAL,https://www.basketball-reference.com/boxscores/202412010UTA.html,Los Angeles Lakers,Utah Jazz,Away,-1.0
+287,2024-12-01,Dallas Mavericks,137.0,Portland Trail Blazers,131.0,POR,DAL,https://www.basketball-reference.com/boxscores/202412010POR.html,Dallas Mavericks,Portland Trail Blazers,Away,-6.0
+288,2024-12-01,San Antonio Spurs,127.0,Sacramento Kings,125.0,SAC,SAS,https://www.basketball-reference.com/boxscores/202412010SAC.html,Sacramento Kings,San Antonio Spurs,Away,-2.0
+289,2024-12-01,Denver Nuggets,122.0,Los Angeles Clippers,126.0,LAC,DEN,https://www.basketball-reference.com/boxscores/202412010LAC.html,Denver Nuggets,Los Angeles Clippers,Home,4.0
+290,2024-12-02,New Orleans Pelicans,112.0,Atlanta Hawks,124.0,ATL,NOP,https://www.basketball-reference.com/boxscores/202412020ATL.html,Atlanta Hawks,New Orleans Pelicans,Home,12.0
+291,2024-12-02,Miami Heat,89.0,Boston Celtics,108.0,BOS,MIA,https://www.basketball-reference.com/boxscores/202412020BOS.html,Boston Celtics,Miami Heat,Home,19.0
+292,2024-12-02,Brooklyn Nets,102.0,Chicago Bulls,128.0,CHI,BRK,https://www.basketball-reference.com/boxscores/202412020CHI.html,Brooklyn Nets,Chicago Bulls,Home,26.0
+293,2024-12-02,Los Angeles Lakers,80.0,Minnesota Timberwolves,109.0,MIN,LAL,https://www.basketball-reference.com/boxscores/202412020MIN.html,Los Angeles Lakers,Minnesota Timberwolves,Home,29.0
+294,2024-12-03,Philadelphia 76ers,110.0,Charlotte Hornets,104.0,CHO,PHI,https://www.basketball-reference.com/boxscores/202412030CHO.html,Charlotte Hornets,Philadelphia 76ers,Away,-6.0
+295,2024-12-03,Washington Wizards,87.0,Cleveland Cavaliers,118.0,CLE,WAS,https://www.basketball-reference.com/boxscores/202412030CLE.html,Cleveland Cavaliers,Washington Wizards,Home,31.0
+296,2024-12-03,Milwaukee Bucks,128.0,Detroit Pistons,107.0,DET,MIL,https://www.basketball-reference.com/boxscores/202412030DET.html,Detroit Pistons,Milwaukee Bucks,Away,-21.0
+297,2024-12-03,Orlando Magic,106.0,New York Knicks,121.0,NYK,ORL,https://www.basketball-reference.com/boxscores/202412030NYK.html,New York Knicks,Orlando Magic,Home,15.0
+298,2024-12-03,Indiana Pacers,111.0,Toronto Raptors,122.0,TOR,IND,https://www.basketball-reference.com/boxscores/202412030TOR.html,Indiana Pacers,Toronto Raptors,Home,11.0
+299,2024-12-03,Utah Jazz,106.0,Oklahoma City Thunder,133.0,OKC,UTA,https://www.basketball-reference.com/boxscores/202412030OKC.html,Oklahoma City Thunder,Utah Jazz,Home,27.0
+300,2024-12-03,Memphis Grizzlies,116.0,Dallas Mavericks,121.0,DAL,MEM,https://www.basketball-reference.com/boxscores/202412030DAL.html,Dallas Mavericks,Memphis Grizzlies,Home,5.0
+301,2024-12-03,San Antonio Spurs,93.0,Phoenix Suns,104.0,PHO,SAS,https://www.basketball-reference.com/boxscores/202412030PHO.html,Phoenix Suns,San Antonio Spurs,Home,11.0
+302,2024-12-03,Golden State Warriors,115.0,Denver Nuggets,119.0,DEN,GSW,https://www.basketball-reference.com/boxscores/202412030DEN.html,Denver Nuggets,Golden State Warriors,Home,4.0
+303,2024-12-03,Houston Rockets,111.0,Sacramento Kings,120.0,SAC,HOU,https://www.basketball-reference.com/boxscores/202412030SAC.html,Houston Rockets,Sacramento Kings,Home,9.0
+304,2024-12-03,Portland Trail Blazers,105.0,Los Angeles Clippers,127.0,LAC,POR,https://www.basketball-reference.com/boxscores/202412030LAC.html,Los Angeles Clippers,Portland Trail Blazers,Home,22.0
+305,2024-12-04,Detroit Pistons,120.0,Boston Celtics,130.0,BOS,DET,https://www.basketball-reference.com/boxscores/202412040BOS.html,Boston Celtics,Detroit Pistons,Home,10.0
+306,2024-12-04,Indiana Pacers,90.0,Brooklyn Nets,99.0,BRK,IND,https://www.basketball-reference.com/boxscores/202412040BRK.html,Brooklyn Nets,Indiana Pacers,Home,9.0
+307,2024-12-04,Los Angeles Lakers,93.0,Miami Heat,134.0,MIA,LAL,https://www.basketball-reference.com/boxscores/202412040MIA.html,Los Angeles Lakers,Miami Heat,Home,41.0
+308,2024-12-04,Orlando Magic,106.0,Philadelphia 76ers,102.0,PHI,ORL,https://www.basketball-reference.com/boxscores/202412040PHI.html,Orlando Magic,Philadelphia 76ers,Away,-4.0
+309,2024-12-04,Atlanta Hawks,119.0,Milwaukee Bucks,104.0,MIL,ATL,https://www.basketball-reference.com/boxscores/202412040MIL.html,Atlanta Hawks,Milwaukee Bucks,Away,-15.0
+310,2024-12-04,Minnesota Timberwolves,108.0,Los Angeles Clippers,80.0,LAC,MIN,https://www.basketball-reference.com/boxscores/202412040LAC.html,Los Angeles Clippers,Minnesota Timberwolves,Away,-28.0
+311,2024-12-05,Denver Nuggets,114.0,Cleveland Cavaliers,126.0,CLE,DEN,https://www.basketball-reference.com/boxscores/202412050CLE.html,Cleveland Cavaliers,Denver Nuggets,Home,12.0
+312,2024-12-05,Dallas Mavericks,137.0,Washington Wizards,101.0,WAS,DAL,https://www.basketball-reference.com/boxscores/202412050WAS.html,Dallas Mavericks,Washington Wizards,Away,-36.0
+313,2024-12-05,Charlotte Hornets,101.0,New York Knicks,125.0,NYK,CHO,https://www.basketball-reference.com/boxscores/202412050NYK.html,Charlotte Hornets,New York Knicks,Home,24.0
+314,2024-12-05,Oklahoma City Thunder,129.0,Toronto Raptors,92.0,TOR,OKC,https://www.basketball-reference.com/boxscores/202412050TOR.html,Oklahoma City Thunder,Toronto Raptors,Away,-37.0
+315,2024-12-05,Sacramento Kings,110.0,Memphis Grizzlies,115.0,MEM,SAC,https://www.basketball-reference.com/boxscores/202412050MEM.html,Memphis Grizzlies,Sacramento Kings,Home,5.0
+316,2024-12-05,Phoenix Suns,124.0,New Orleans Pelicans,126.0,NOP,PHO,https://www.basketball-reference.com/boxscores/202412050NOP.html,New Orleans Pelicans,Phoenix Suns,Home,2.0
+317,2024-12-05,Chicago Bulls,139.0,San Antonio Spurs,124.0,SAS,CHI,https://www.basketball-reference.com/boxscores/202412050SAS.html,Chicago Bulls,San Antonio Spurs,Away,-15.0
+318,2024-12-05,Houston Rockets,93.0,Golden State Warriors,99.0,GSW,HOU,https://www.basketball-reference.com/boxscores/202412050GSW.html,Golden State Warriors,Houston Rockets,Home,6.0
+319,2024-12-06,Orlando Magic,94.0,Philadelphia 76ers,102.0,PHI,ORL,https://www.basketball-reference.com/boxscores/202412060PHI.html,Orlando Magic,Philadelphia 76ers,Home,8.0
+320,2024-12-06,Los Angeles Lakers,132.0,Atlanta Hawks,134.0,ATL,LAL,https://www.basketball-reference.com/boxscores/202412060ATL.html,Atlanta Hawks,Los Angeles Lakers,Home,2.0
+321,2024-12-06,Milwaukee Bucks,105.0,Boston Celtics,111.0,BOS,MIL,https://www.basketball-reference.com/boxscores/202412060BOS.html,Boston Celtics,Milwaukee Bucks,Home,6.0
+322,2024-12-06,Indiana Pacers,132.0,Chicago Bulls,123.0,CHI,IND,https://www.basketball-reference.com/boxscores/202412060CHI.html,Chicago Bulls,Indiana Pacers,Away,-9.0
+323,2024-12-06,Sacramento Kings,140.0,San Antonio Spurs,113.0,SAS,SAC,https://www.basketball-reference.com/boxscores/202412060SAS.html,Sacramento Kings,San Antonio Spurs,Away,-27.0
+324,2024-12-06,Minnesota Timberwolves,107.0,Golden State Warriors,90.0,GSW,MIN,https://www.basketball-reference.com/boxscores/202412060GSW.html,Golden State Warriors,Minnesota Timberwolves,Away,-17.0
+325,2024-12-06,Utah Jazz,141.0,Portland Trail Blazers,99.0,POR,UTA,https://www.basketball-reference.com/boxscores/202412060POR.html,Portland Trail Blazers,Utah Jazz,Away,-42.0
+326,2024-12-07,Cleveland Cavaliers,116.0,Charlotte Hornets,102.0,CHO,CLE,https://www.basketball-reference.com/boxscores/202412070CHO.html,Charlotte Hornets,Cleveland Cavaliers,Away,-14.0
+327,2024-12-07,Oklahoma City Thunder,119.0,New Orleans Pelicans,109.0,NOP,OKC,https://www.basketball-reference.com/boxscores/202412070NOP.html,New Orleans Pelicans,Oklahoma City Thunder,Away,-10.0
+328,2024-12-07,Denver Nuggets,113.0,Washington Wizards,122.0,WAS,DEN,https://www.basketball-reference.com/boxscores/202412070WAS.html,Denver Nuggets,Washington Wizards,Home,9.0
+329,2024-12-07,Detroit Pistons,120.0,New York Knicks,111.0,NYK,DET,https://www.basketball-reference.com/boxscores/202412070NYK.html,Detroit Pistons,New York Knicks,Away,-9.0
+330,2024-12-07,Dallas Mavericks,125.0,Toronto Raptors,118.0,TOR,DAL,https://www.basketball-reference.com/boxscores/202412070TOR.html,Dallas Mavericks,Toronto Raptors,Away,-7.0
+331,2024-12-07,Memphis Grizzlies,127.0,Boston Celtics,121.0,BOS,MEM,https://www.basketball-reference.com/boxscores/202412070BOS.html,Boston Celtics,Memphis Grizzlies,Away,-6.0
+332,2024-12-07,Phoenix Suns,111.0,Miami Heat,121.0,MIA,PHO,https://www.basketball-reference.com/boxscores/202412070MIA.html,Miami Heat,Phoenix Suns,Home,10.0
+333,2024-12-08,Philadelphia 76ers,108.0,Chicago Bulls,100.0,CHI,PHI,https://www.basketball-reference.com/boxscores/202412080CHI.html,Chicago Bulls,Philadelphia 76ers,Away,-8.0
+334,2024-12-08,Milwaukee Bucks,118.0,Brooklyn Nets,113.0,BRK,MIL,https://www.basketball-reference.com/boxscores/202412080BRK.html,Brooklyn Nets,Milwaukee Bucks,Away,-5.0
+335,2024-12-08,Charlotte Hornets,113.0,Indiana Pacers,109.0,IND,CHO,https://www.basketball-reference.com/boxscores/202412080IND.html,Charlotte Hornets,Indiana Pacers,Away,-4.0
+336,2024-12-08,Denver Nuggets,141.0,Atlanta Hawks,111.0,ATL,DEN,https://www.basketball-reference.com/boxscores/202412080ATL.html,Atlanta Hawks,Denver Nuggets,Away,-30.0
+337,2024-12-08,Cleveland Cavaliers,113.0,Miami Heat,122.0,MIA,CLE,https://www.basketball-reference.com/boxscores/202412080MIA.html,Cleveland Cavaliers,Miami Heat,Home,9.0
+338,2024-12-08,Phoenix Suns,110.0,Orlando Magic,115.0,ORL,PHO,https://www.basketball-reference.com/boxscores/202412080ORL.html,Orlando Magic,Phoenix Suns,Home,5.0
+339,2024-12-08,New Orleans Pelicans,116.0,San Antonio Spurs,121.0,SAS,NOP,https://www.basketball-reference.com/boxscores/202412080SAS.html,New Orleans Pelicans,San Antonio Spurs,Home,5.0
+340,2024-12-08,Memphis Grizzlies,140.0,Washington Wizards,112.0,WAS,MEM,https://www.basketball-reference.com/boxscores/202412080WAS.html,Memphis Grizzlies,Washington Wizards,Away,-28.0
+341,2024-12-08,Minnesota Timberwolves,106.0,Golden State Warriors,114.0,GSW,MIN,https://www.basketball-reference.com/boxscores/202412080GSW.html,Golden State Warriors,Minnesota Timberwolves,Home,8.0
+342,2024-12-08,Houston Rockets,117.0,Los Angeles Clippers,106.0,LAC,HOU,https://www.basketball-reference.com/boxscores/202412080LAC.html,Houston Rockets,Los Angeles Clippers,Away,-11.0
+343,2024-12-08,Utah Jazz,97.0,Sacramento Kings,141.0,SAC,UTA,https://www.basketball-reference.com/boxscores/202412080SAC.html,Sacramento Kings,Utah Jazz,Home,44.0
+344,2024-12-08,Portland Trail Blazers,98.0,Los Angeles Lakers,107.0,LAL,POR,https://www.basketball-reference.com/boxscores/202412080LAL.html,Los Angeles Lakers,Portland Trail Blazers,Home,9.0
+345,2024-12-09,New York Knicks,113.0,Toronto Raptors,108.0,TOR,NYK,https://www.basketball-reference.com/boxscores/202412090TOR.html,New York Knicks,Toronto Raptors,Away,-5.0
+346,2024-12-10,Orlando Magic,109.0,Milwaukee Bucks,114.0,MIL,ORL,https://www.basketball-reference.com/boxscores/202412100MIL.html,Milwaukee Bucks,Orlando Magic,Home,5.0
+347,2024-12-10,Dallas Mavericks,104.0,Oklahoma City Thunder,118.0,OKC,DAL,https://www.basketball-reference.com/boxscores/202412100OKC.html,Dallas Mavericks,Oklahoma City Thunder,Home,14.0
+348,2024-12-11,Atlanta Hawks,108.0,New York Knicks,100.0,NYK,ATL,https://www.basketball-reference.com/boxscores/202412110NYK.html,Atlanta Hawks,New York Knicks,Away,-8.0
+349,2024-12-11,Golden State Warriors,90.0,Houston Rockets,91.0,HOU,GSW,https://www.basketball-reference.com/boxscores/202412110HOU.html,Golden State Warriors,Houston Rockets,Home,1.0
+350,2024-12-12,Detroit Pistons,99.0,Boston Celtics,123.0,BOS,DET,https://www.basketball-reference.com/boxscores/202412120BOS.html,Boston Celtics,Detroit Pistons,Home,24.0
+351,2024-12-12,Toronto Raptors,104.0,Miami Heat,114.0,MIA,TOR,https://www.basketball-reference.com/boxscores/202412120MIA.html,Miami Heat,Toronto Raptors,Home,10.0
+352,2024-12-12,Sacramento Kings,111.0,New Orleans Pelicans,109.0,NOP,SAC,https://www.basketball-reference.com/boxscores/202412120NOP.html,New Orleans Pelicans,Sacramento Kings,Away,-2.0
+353,2024-12-13,Washington Wizards,105.0,Cleveland Cavaliers,115.0,CLE,WAS,https://www.basketball-reference.com/boxscores/202412130CLE.html,Cleveland Cavaliers,Washington Wizards,Home,10.0
+354,2024-12-13,Indiana Pacers,121.0,Philadelphia 76ers,107.0,PHI,IND,https://www.basketball-reference.com/boxscores/202412130PHI.html,Indiana Pacers,Philadelphia 76ers,Away,-14.0
+355,2024-12-13,Charlotte Hornets,95.0,Chicago Bulls,109.0,CHI,CHO,https://www.basketball-reference.com/boxscores/202412130CHI.html,Charlotte Hornets,Chicago Bulls,Home,14.0
+356,2024-12-13,Brooklyn Nets,119.0,Memphis Grizzlies,135.0,MEM,BRK,https://www.basketball-reference.com/boxscores/202412130MEM.html,Brooklyn Nets,Memphis Grizzlies,Home,16.0
+357,2024-12-13,Los Angeles Lakers,87.0,Minnesota Timberwolves,97.0,MIN,LAL,https://www.basketball-reference.com/boxscores/202412130MIN.html,Los Angeles Lakers,Minnesota Timberwolves,Home,10.0
+358,2024-12-13,Los Angeles Clippers,98.0,Denver Nuggets,120.0,DEN,LAC,https://www.basketball-reference.com/boxscores/202412130DEN.html,Denver Nuggets,Los Angeles Clippers,Home,22.0
+359,2024-12-13,Phoenix Suns,134.0,Utah Jazz,126.0,UTA,PHO,https://www.basketball-reference.com/boxscores/202412130UTA.html,Phoenix Suns,Utah Jazz,Away,-8.0
+360,2024-12-13,San Antonio Spurs,118.0,Portland Trail Blazers,116.0,POR,SAS,https://www.basketball-reference.com/boxscores/202412130POR.html,Portland Trail Blazers,San Antonio Spurs,Away,-2.0
+361,2024-12-14,Atlanta Hawks,102.0,Milwaukee Bucks,110.0,MIL,ATL,https://www.basketball-reference.com/boxscores/202412140MIL.html,Atlanta Hawks,Milwaukee Bucks,Home,8.0
+362,2024-12-14,Houston Rockets,96.0,Oklahoma City Thunder,111.0,OKC,HOU,https://www.basketball-reference.com/boxscores/202412140OKC.html,Houston Rockets,Oklahoma City Thunder,Home,15.0
+363,2024-12-15,New Orleans Pelicans,104.0,Indiana Pacers,119.0,IND,NOP,https://www.basketball-reference.com/boxscores/202412150IND.html,Indiana Pacers,New Orleans Pelicans,Home,15.0
+364,2024-12-15,New York Knicks,100.0,Orlando Magic,91.0,ORL,NYK,https://www.basketball-reference.com/boxscores/202412150ORL.html,New York Knicks,Orlando Magic,Away,-9.0
+365,2024-12-15,Boston Celtics,112.0,Washington Wizards,98.0,WAS,BOS,https://www.basketball-reference.com/boxscores/202412150WAS.html,Boston Celtics,Washington Wizards,Away,-14.0
+366,2024-12-15,Minnesota Timberwolves,106.0,San Antonio Spurs,92.0,SAS,MIN,https://www.basketball-reference.com/boxscores/202412150SAS.html,Minnesota Timberwolves,San Antonio Spurs,Away,-14.0
+367,2024-12-15,Portland Trail Blazers,109.0,Phoenix Suns,116.0,PHO,POR,https://www.basketball-reference.com/boxscores/202412150PHO.html,Phoenix Suns,Portland Trail Blazers,Home,7.0
+368,2024-12-15,Dallas Mavericks,143.0,Golden State Warriors,133.0,GSW,DAL,https://www.basketball-reference.com/boxscores/202412150GSW.html,Dallas Mavericks,Golden State Warriors,Away,-10.0
+369,2024-12-15,Memphis Grizzlies,110.0,Los Angeles Lakers,116.0,LAL,MEM,https://www.basketball-reference.com/boxscores/202412150LAL.html,Los Angeles Lakers,Memphis Grizzlies,Home,6.0
+370,2024-12-16,Philadelphia 76ers,121.0,Charlotte Hornets,108.0,CHO,PHI,https://www.basketball-reference.com/boxscores/202412160CHO.html,Charlotte Hornets,Philadelphia 76ers,Away,-13.0
+371,2024-12-16,Miami Heat,124.0,Detroit Pistons,125.0,DET,MIA,https://www.basketball-reference.com/boxscores/202412160DET.html,Detroit Pistons,Miami Heat,Home,1.0
+372,2024-12-16,Cleveland Cavaliers,130.0,Brooklyn Nets,101.0,BRK,CLE,https://www.basketball-reference.com/boxscores/202412160BRK.html,Brooklyn Nets,Cleveland Cavaliers,Away,-29.0
+373,2024-12-16,Chicago Bulls,122.0,Toronto Raptors,121.0,TOR,CHI,https://www.basketball-reference.com/boxscores/202412160TOR.html,Chicago Bulls,Toronto Raptors,Away,-1.0
+374,2024-12-16,Denver Nuggets,130.0,Sacramento Kings,129.0,SAC,DEN,https://www.basketball-reference.com/boxscores/202412160SAC.html,Denver Nuggets,Sacramento Kings,Away,-1.0
+375,2024-12-16,Utah Jazz,107.0,Los Angeles Clippers,144.0,LAC,UTA,https://www.basketball-reference.com/boxscores/202412160LAC.html,Los Angeles Clippers,Utah Jazz,Home,37.0
+376,2024-12-17,Milwaukee Bucks,97.0,Oklahoma City Thunder,81.0,OKC,MIL,https://www.basketball-reference.com/boxscores/202412170OKC.html,Milwaukee Bucks,Oklahoma City Thunder,Away,-16.0
+377,2024-12-19,Utah Jazz,126.0,Detroit Pistons,119.0,DET,UTA,https://www.basketball-reference.com/boxscores/202412190DET.html,Detroit Pistons,Utah Jazz,Away,-7.0
+378,2024-12-19,Oklahoma City Thunder,105.0,Orlando Magic,99.0,ORL,OKC,https://www.basketball-reference.com/boxscores/202412190ORL.html,Oklahoma City Thunder,Orlando Magic,Away,-6.0
+379,2024-12-19,Charlotte Hornets,114.0,Washington Wizards,123.0,WAS,CHO,https://www.basketball-reference.com/boxscores/202412190WAS.html,Charlotte Hornets,Washington Wizards,Home,9.0
+380,2024-12-19,Chicago Bulls,117.0,Boston Celtics,108.0,BOS,CHI,https://www.basketball-reference.com/boxscores/202412190BOS.html,Boston Celtics,Chicago Bulls,Away,-9.0
+381,2024-12-19,Brooklyn Nets,101.0,Toronto Raptors,94.0,TOR,BRK,https://www.basketball-reference.com/boxscores/202412190TOR.html,Brooklyn Nets,Toronto Raptors,Away,-7.0
+382,2024-12-19,New Orleans Pelicans,113.0,Houston Rockets,133.0,HOU,NOP,https://www.basketball-reference.com/boxscores/202412190HOU.html,Houston Rockets,New Orleans Pelicans,Home,20.0
+383,2024-12-19,Golden State Warriors,93.0,Memphis Grizzlies,144.0,MEM,GSW,https://www.basketball-reference.com/boxscores/202412190MEM.html,Golden State Warriors,Memphis Grizzlies,Home,51.0
+384,2024-12-19,Atlanta Hawks,126.0,San Antonio Spurs,133.0,SAS,ATL,https://www.basketball-reference.com/boxscores/202412190SAS.html,Atlanta Hawks,San Antonio Spurs,Home,7.0
+385,2024-12-19,Los Angeles Clippers,118.0,Dallas Mavericks,95.0,DAL,LAC,https://www.basketball-reference.com/boxscores/202412190DAL.html,Dallas Mavericks,Los Angeles Clippers,Away,-23.0
+386,2024-12-19,Indiana Pacers,120.0,Phoenix Suns,111.0,PHO,IND,https://www.basketball-reference.com/boxscores/202412190PHO.html,Indiana Pacers,Phoenix Suns,Away,-9.0
+387,2024-12-19,New York Knicks,133.0,Minnesota Timberwolves,107.0,MIN,NYK,https://www.basketball-reference.com/boxscores/202412190MIN.html,Minnesota Timberwolves,New York Knicks,Away,-26.0
+388,2024-12-19,Denver Nuggets,124.0,Portland Trail Blazers,126.0,POR,DEN,https://www.basketball-reference.com/boxscores/202412190POR.html,Denver Nuggets,Portland Trail Blazers,Home,2.0
+389,2024-12-19,Los Angeles Lakers,113.0,Sacramento Kings,100.0,SAC,LAL,https://www.basketball-reference.com/boxscores/202412190SAC.html,Los Angeles Lakers,Sacramento Kings,Away,-13.0
