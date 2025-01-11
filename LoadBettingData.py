@@ -3,7 +3,9 @@ import re
 import numpy as np
 
 def get_odds(odds_type, abv):
-    df = pd.read_html(f'https://www.sportsline.com/nba/odds/{odds_type}')[0].drop(columns=["Proj Score", "bet365newjersey"]).rename(columns={"Unnamed: 3": "mgm"})[["Matchup", "draftkings"]]
+    # df = pd.read_html(f'https://www.sportsline.com/nba/odds/{odds_type}')[0].drop(columns=["Proj Score", "bet365newjersey"]).rename(columns={"Unnamed: 3": "mgm"})[["Matchup", "draftkings"]]
+    df = pd.read_html(f'https://www.sportsline.com/nba/odds/{odds_type}')[0][["Matchup", "draftkings"]]
+
     df.dropna(inplace=True, how='any', axis=0)
     df = df[~df["Matchup"].str.contains("Advanced")].reset_index(drop=True)
 
