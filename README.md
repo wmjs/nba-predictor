@@ -1,3 +1,5 @@
+# NOTE: OUT OF DATE
+
 # NBA Game Predictor
 
 An automated NBA game prediction system that uses machine learning to forecast game outcomes and identify potential betting opportunities.
