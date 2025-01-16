@@ -4,7 +4,18 @@ import numpy as np
 
 def get_odds(odds_type, abv):
     # df = pd.read_html(f'https://www.sportsline.com/nba/odds/{odds_type}')[0].drop(columns=["Proj Score", "bet365newjersey"]).rename(columns={"Unnamed: 3": "mgm"})[["Matchup", "draftkings"]]
-    df = pd.read_html(f'https://www.sportsline.com/nba/odds/{odds_type}')[0][["Matchup", "draftkings"]]
+    df = pd.read_html(f'https://www.sportsline.com/nba/odds/{odds_type}')[0]
+    print(" ")
+    print(odds_type)
+    print(df.columns)
+    print(" ")
+    try:
+        df = df[["Matchup", "consensus"]]
+    except:
+        print("FAILED TRYING AGAIN")
+        df = pd.read_html(f'https://www.sportsline.com/nba/odds/{odds_type}')[0]
+        df = df[["Matchup", "consensus"]]
+        
 
     df.dropna(inplace=True, how='any', axis=0)
     df = df[~df["Matchup"].str.contains("Advanced")].reset_index(drop=True)
@@ -52,8 +63,8 @@ def get_odds(odds_type, abv):
         return pd.to_datetime(entry).tz_convert('US/Eastern').date()
 
     df_grouped["Date"] = df_grouped["Time-Matchup"].apply(clean_matchup_date)
-    df_grouped.rename(columns={"Away-Matchup": "Away", "Home-Matchup": "Home", "Away-draftkings": f"Away odds", "Home-draftkings": f"Home odds"}, inplace=True)
-    df_grouped = df_grouped.drop(columns=["Time-Matchup", "Time-draftkings"]).reset_index(drop=True)
+    df_grouped.rename(columns={"Away-Matchup": "Away", "Home-Matchup": "Home", "Away-consensus": f"Away odds", "Home-consensus": f"Home odds"}, inplace=True)
+    df_grouped = df_grouped.drop(columns=["Time-Matchup", "Time-consensus"]).reset_index(drop=True)
 
     def clean_odds(row, hoa, odds_type):
         entry = row[f"{hoa} odds"]
