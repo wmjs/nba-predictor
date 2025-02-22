@@ -1,13 +1,13 @@
 ,Date,Away,AwayPoints,Home,HomePoints,HomeAbbreviation,AwayAbbreviation,GameUrl,A_Team,B_Team,Winner,PointDifferential
-0,2025-02-20,Memphis Grizzlies,113.0,Indiana Pacers,127.0,IND,MEM,https://www.basketball-reference.com/boxscores/202502200IND.html,Indiana Pacers,Memphis Grizzlies,Home,14.0
-1,2025-02-20,Boston Celtics,124.0,Philadelphia 76ers,104.0,PHI,BOS,https://www.basketball-reference.com/boxscores/202502200PHI.html,Boston Celtics,Philadelphia 76ers,Away,-20.0
-2,2025-02-20,Orlando Magic,114.0,Atlanta Hawks,108.0,ATL,ORL,https://www.basketball-reference.com/boxscores/202502200ATL.html,Atlanta Hawks,Orlando Magic,Away,-6.0
-3,2025-02-20,Cleveland Cavaliers,110.0,Brooklyn Nets,97.0,BRK,CLE,https://www.basketball-reference.com/boxscores/202502200BRK.html,Brooklyn Nets,Cleveland Cavaliers,Away,-13.0
-4,2025-02-20,Chicago Bulls,111.0,New York Knicks,113.0,NYK,CHI,https://www.basketball-reference.com/boxscores/202502200NYK.html,Chicago Bulls,New York Knicks,Home,2.0
-5,2025-02-20,Los Angeles Clippers,110.0,Milwaukee Bucks,116.0,MIL,LAC,https://www.basketball-reference.com/boxscores/202502200MIL.html,Los Angeles Clippers,Milwaukee Bucks,Home,6.0
-6,2025-02-20,Charlotte Hornets,115.0,Denver Nuggets,129.0,DEN,CHO,https://www.basketball-reference.com/boxscores/202502200DEN.html,Charlotte Hornets,Denver Nuggets,Home,14.0
-7,2025-02-20,Phoenix Suns,109.0,San Antonio Spurs,120.0,SAS,PHO,https://www.basketball-reference.com/boxscores/202502200SAS.html,Phoenix Suns,San Antonio Spurs,Home,11.0
-8,2025-02-20,Los Angeles Lakers,110.0,Portland Trail Blazers,102.0,POR,LAL,https://www.basketball-reference.com/boxscores/202502200POR.html,Los Angeles Lakers,Portland Trail Blazers,Away,-8.0
+0,2025-02-21,New York Knicks,105.0,Cleveland Cavaliers,142.0,CLE,NYK,https://www.basketball-reference.com/boxscores/202502210CLE.html,Cleveland Cavaliers,New York Knicks,Home,37.0
+1,2025-02-21,Memphis Grizzlies,105.0,Orlando Magic,104.0,ORL,MEM,https://www.basketball-reference.com/boxscores/202502210ORL.html,Memphis Grizzlies,Orlando Magic,Away,-1.0
+2,2025-02-21,Milwaukee Bucks,104.0,Washington Wizards,101.0,WAS,MIL,https://www.basketball-reference.com/boxscores/202502210WAS.html,Milwaukee Bucks,Washington Wizards,Away,-3.0
+3,2025-02-21,Miami Heat,120.0,Toronto Raptors,111.0,TOR,MIA,https://www.basketball-reference.com/boxscores/202502210TOR.html,Miami Heat,Toronto Raptors,Away,-9.0
+4,2025-02-21,New Orleans Pelicans,103.0,Dallas Mavericks,111.0,DAL,NOP,https://www.basketball-reference.com/boxscores/202502210DAL.html,Dallas Mavericks,New Orleans Pelicans,Home,8.0
+5,2025-02-21,Detroit Pistons,125.0,San Antonio Spurs,110.0,SAS,DET,https://www.basketball-reference.com/boxscores/202502210SAS.html,Detroit Pistons,San Antonio Spurs,Away,-15.0
+6,2025-02-21,Minnesota Timberwolves,115.0,Houston Rockets,121.0,HOU,MIN,https://www.basketball-reference.com/boxscores/202502210HOU.html,Houston Rockets,Minnesota Timberwolves,Home,6.0
+7,2025-02-21,Oklahoma City Thunder,130.0,Utah Jazz,107.0,UTA,OKC,https://www.basketball-reference.com/boxscores/202502210UTA.html,Oklahoma City Thunder,Utah Jazz,Away,-23.0
+8,2025-02-21,Golden State Warriors,132.0,Sacramento Kings,108.0,SAC,GSW,https://www.basketball-reference.com/boxscores/202502210SAC.html,Golden State Warriors,Sacramento Kings,Away,-24.0
 9,2024-10-25,Brooklyn Nets,101.0,Orlando Magic,116.0,ORL,BRK,https://www.basketball-reference.com/boxscores/202410250ORL.html,Brooklyn Nets,Orlando Magic,Home,15.0
 10,2024-10-25,Philadelphia 76ers,107.0,Toronto Raptors,115.0,TOR,PHI,https://www.basketball-reference.com/boxscores/202410250TOR.html,Philadelphia 76ers,Toronto Raptors,Home,8.0
 11,2024-10-25,Charlotte Hornets,120.0,Atlanta Hawks,125.0,ATL,CHO,https://www.basketball-reference.com/boxscores/202410250ATL.html,Atlanta Hawks,Charlotte Hornets,Home,5.0
@@ -808,3 +808,12 @@
 806,2025-02-13,Oklahoma City Thunder,101.0,Minnesota Timberwolves,116.0,MIN,OKC,https://www.basketball-reference.com/boxscores/202502130MIN.html,Minnesota Timberwolves,Oklahoma City Thunder,Home,15.0
 807,2025-02-13,Los Angeles Clippers,120.0,Utah Jazz,116.0,UTA,LAC,https://www.basketball-reference.com/boxscores/202502130UTA.html,Los Angeles Clippers,Utah Jazz,Away,-4.0
 808,2025-02-19,Charlotte Hornets,100.0,Los Angeles Lakers,97.0,LAL,CHO,https://www.basketball-reference.com/boxscores/202502190LAL.html,Charlotte Hornets,Los Angeles Lakers,Away,-3.0
+809,2025-02-20,Memphis Grizzlies,113.0,Indiana Pacers,127.0,IND,MEM,https://www.basketball-reference.com/boxscores/202502200IND.html,Indiana Pacers,Memphis Grizzlies,Home,14.0
+810,2025-02-20,Boston Celtics,124.0,Philadelphia 76ers,104.0,PHI,BOS,https://www.basketball-reference.com/boxscores/202502200PHI.html,Boston Celtics,Philadelphia 76ers,Away,-20.0
+811,2025-02-20,Orlando Magic,114.0,Atlanta Hawks,108.0,ATL,ORL,https://www.basketball-reference.com/boxscores/202502200ATL.html,Atlanta Hawks,Orlando Magic,Away,-6.0
+812,2025-02-20,Cleveland Cavaliers,110.0,Brooklyn Nets,97.0,BRK,CLE,https://www.basketball-reference.com/boxscores/202502200BRK.html,Brooklyn Nets,Cleveland Cavaliers,Away,-13.0
+813,2025-02-20,Chicago Bulls,111.0,New York Knicks,113.0,NYK,CHI,https://www.basketball-reference.com/boxscores/202502200NYK.html,Chicago Bulls,New York Knicks,Home,2.0
+814,2025-02-20,Los Angeles Clippers,110.0,Milwaukee Bucks,116.0,MIL,LAC,https://www.basketball-reference.com/boxscores/202502200MIL.html,Los Angeles Clippers,Milwaukee Bucks,Home,6.0
+815,2025-02-20,Charlotte Hornets,115.0,Denver Nuggets,129.0,DEN,CHO,https://www.basketball-reference.com/boxscores/202502200DEN.html,Charlotte Hornets,Denver Nuggets,Home,14.0
+816,2025-02-20,Phoenix Suns,109.0,San Antonio Spurs,120.0,SAS,PHO,https://www.basketball-reference.com/boxscores/202502200SAS.html,Phoenix Suns,San Antonio Spurs,Home,11.0
+817,2025-02-20,Los Angeles Lakers,110.0,Portland Trail Blazers,102.0,POR,LAL,https://www.basketball-reference.com/boxscores/202502200POR.html,Los Angeles Lakers,Portland Trail Blazers,Away,-8.0
