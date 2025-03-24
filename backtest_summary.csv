@@ -1,5 +1,5 @@
 Metric,SingleModel,weekBatchRetrain
-TotalGames,1042.0,1017.0
-CorrectPredictions,840.0,703.0
-Accuracy,0.8061420345489443,0.6912487708947886
-AverageSpreadError,6.790978886756238,8.12251720747296
+TotalGames,1050.0,1025.0
+CorrectPredictions,840.0,717.0
+Accuracy,0.8,0.6995121951219512
+AverageSpreadError,6.7912380952380955,8.135024390243904
