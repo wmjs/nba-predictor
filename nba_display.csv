@@ -1,150 +1,144 @@
 Date,Away,PredictedAwayPoints,Home,PredictedHomePoints,PredictedWinner,PredictedSpread,Confidence,Away Money Line,Away Money Line Odds,Away Money Line Implied Probability,Home Money Line,Home Money Line Odds,Home Money Line Implied Probability,Away Spread,Away Spread Odds,Away Spread Implied Probability,Home Spread,Home Spread Odds,Home Spread Implied Probability,Away Over/Under,Away Over/Under Odds,Away Over/Under Implied Probability,Home Over/Under,Home Over/Under Odds,Home Over/Under Implied Probability,Book Winner,Value?
-2025-03-26,Washington Wizards,108.5,Philadelphia 76ers,109.3,Philadelphia 76ers,0.7,52.49,Wizards,125.0,44.44,76ers,-149.0,59.84,+3,-109.0,52.15,-3,-111.0,52.61,o231,-110.0,52.38,u231,-110.0,52.38,Philadelphia 76ers,No
-2025-03-26,Toronto Raptors,112.0,Brooklyn Nets,103.5,Toronto Raptors,8.5,69.38,Raptors,118.0,45.87,Nets,-140.0,58.33,+2.5,-109.0,52.15,-2.5,-111.0,52.61,o214.5,-108.0,51.92,u214.5,-112.0,52.83,Brooklyn Nets,Money Line
-2025-03-26,Los Angeles Lakers,111.9,Indiana Pacers,110.9,Los Angeles Lakers,1.0,52.74,Lakers,-113.0,53.05,Pacers,-106.0,51.46,-1.5,-103.0,50.74,+1.5,-122.0,54.95,o235.5,-111.0,52.61,u235.5,-109.0,52.15,Los Angeles Lakers,No
-2025-03-26,Los Angeles Clippers,116.1,New York Knicks,107.6,Los Angeles Clippers,8.5,69.38,Clippers,-152.0,60.32,Knicks,128.0,43.86,-3.5,-106.0,51.46,+3.5,-114.0,53.27,o218,-110.0,52.38,u218,-110.0,52.38,Los Angeles Clippers,No
-2025-03-26,Milwaukee Bucks,119.2,Denver Nuggets,120.6,Denver Nuggets,1.4,53.09,Bucks,191.0,34.36,Nuggets,-233.0,69.97,+6,-108.0,51.92,-6,-112.0,52.83,o225,-110.0,52.38,u225,-110.0,52.38,Denver Nuggets,No
-2025-03-26,Boston Celtics,112.8,Phoenix Suns,103.2,Boston Celtics,9.7,73.79,Celtics,-189.0,65.4,Suns,157.0,38.91,-4.5,-111.0,52.61,+4.5,-109.0,52.15,o221,-110.0,52.38,u221,-110.0,52.38,Boston Celtics,No
-2025-03-27,Portland Trail Blazers,123.4,Sacramento Kings,121.2,Portland Trail Blazers,2.2,53.94,,,,,,,,,,,,,,,,,,,,No
-2025-03-27,Houston Rockets,126.2,Utah Jazz,110.4,Houston Rockets,15.9,90.29,,,,,,,,,,,,,,,,,,,,No
-2025-03-27,Memphis Grizzlies,112.2,Oklahoma City Thunder,123.5,Oklahoma City Thunder,11.3,79.46,,,,,,,,,,,,,,,,,,,,No
-2025-03-27,Los Angeles Lakers,118.4,Chicago Bulls,119.3,Chicago Bulls,0.9,52.65,,,,,,,,,,,,,,,,,,,,No
-2025-03-27,Indiana Pacers,131.7,Washington Wizards,119.8,Indiana Pacers,11.9,81.39,,,,,,,,,,,,,,,,,,,,No
-2025-03-27,Dallas Mavericks,115.5,Orlando Magic,106.9,Dallas Mavericks,8.6,69.75,,,,,,,,,,,,,,,,,,,,No
-2025-03-27,San Antonio Spurs,117.3,Cleveland Cavaliers,124.4,Cleveland Cavaliers,7.1,64.56,,,,,,,,,,,,,,,,,,,,No
-2025-03-27,Atlanta Hawks,109.4,Miami Heat,114.6,Miami Heat,5.2,59.19,,,,,,,,,,,,,,,,,,,,No
-2025-03-28,Golden State Warriors,120.9,New Orleans Pelicans,113.6,Golden State Warriors,7.3,65.21,,,,,,,,,,,,,,,,,,,,No
-2025-03-28,Utah Jazz,123.5,Denver Nuggets,131.1,Denver Nuggets,7.6,66.22,,,,,,,,,,,,,,,,,,,,No
-2025-03-28,Phoenix Suns,116.3,Minnesota Timberwolves,110.9,Phoenix Suns,5.4,59.67,,,,,,,,,,,,,,,,,,,,No
-2025-03-28,Los Angeles Clippers,115.2,Brooklyn Nets,103.9,Los Angeles Clippers,11.3,79.46,,,,,,,,,,,,,,,,,,,,No
-2025-03-28,Charlotte Hornets,106.4,Toronto Raptors,102.3,Charlotte Hornets,4.1,56.83,,,,,,,,,,,,,,,,,,,,No
-2025-03-28,Cleveland Cavaliers,121.3,Detroit Pistons,113.1,Cleveland Cavaliers,8.1,67.95,,,,,,,,,,,,,,,,,,,,No
-2025-03-28,New York Knicks,116.6,Milwaukee Bucks,106.4,New York Knicks,10.2,75.62,,,,,,,,,,,,,,,,,,,,No
-2025-03-29,Sacramento Kings,114.4,Orlando Magic,105.3,Sacramento Kings,9.1,71.58,,,,,,,,,,,,,,,,,,,,No
-2025-03-29,Brooklyn Nets,114.1,Washington Wizards,113.0,Brooklyn Nets,1.2,52.91,,,,,,,,,,,,,,,,,,,,No
-2025-03-29,Miami Heat,117.5,Philadelphia 76ers,108.2,Miami Heat,9.3,72.32,,,,,,,,,,,,,,,,,,,,No
-2025-03-29,Dallas Mavericks,119.4,Chicago Bulls,123.3,Chicago Bulls,3.9,56.46,,,,,,,,,,,,,,,,,,,,No
-2025-03-29,Los Angeles Lakers,117.2,Memphis Grizzlies,124.2,Memphis Grizzlies,7.0,64.24,,,,,,,,,,,,,,,,,,,,No
-2025-03-29,Indiana Pacers,115.1,Oklahoma City Thunder,116.1,Oklahoma City Thunder,1.0,52.74,,,,,,,,,,,,,,,,,,,,No
-2025-03-29,Boston Celtics,118.8,San Antonio Spurs,106.6,Boston Celtics,12.2,82.31,,,,,,,,,,,,,,,,,,,,No
-2025-03-30,Golden State Warriors,119.9,San Antonio Spurs,116.6,Golden State Warriors,3.3,55.44,,,,,,,,,,,,,,,,,,,,No
-2025-03-30,Houston Rockets,120.4,Phoenix Suns,116.7,Houston Rockets,3.8,56.28,,,,,,,,,,,,,,,,,,,,No
-2025-03-30,Charlotte Hornets,112.7,New Orleans Pelicans,111.3,Charlotte Hornets,1.4,53.09,,,,,,,,,,,,,,,,,,,,No
-2025-03-30,Toronto Raptors,112.6,Philadelphia 76ers,106.6,Toronto Raptors,6.0,61.25,,,,,,,,,,,,,,,,,,,,No
-2025-03-30,Atlanta Hawks,109.4,Milwaukee Bucks,106.3,Atlanta Hawks,3.1,55.14,,,,,,,,,,,,,,,,,,,,No
-2025-03-30,Portland Trail Blazers,118.5,New York Knicks,123.8,New York Knicks,5.3,59.43,,,,,,,,,,,,,,,,,,,,No
-2025-03-30,Detroit Pistons,108.2,Minnesota Timberwolves,108.4,Minnesota Timberwolves,0.2,52.13,,,,,,,,,,,,,,,,,,,,No
-2025-03-30,Los Angeles Clippers,120.5,Cleveland Cavaliers,111.0,Los Angeles Clippers,9.5,73.05,,,,,,,,,,,,,,,,,,,,No
-2025-03-31,Utah Jazz,114.5,Charlotte Hornets,113.5,Utah Jazz,1.1,52.82,,,,,,,,,,,,,,,,,,,,No
-2025-03-31,Sacramento Kings,112.6,Indiana Pacers,116.0,Indiana Pacers,3.4,55.6,,,,,,,,,,,,,,,,,,,,No
-2025-03-31,Los Angeles Clippers,113.5,Orlando Magic,103.3,Los Angeles Clippers,10.2,75.62,,,,,,,,,,,,,,,,,,,,No
-2025-03-31,Miami Heat,124.5,Washington Wizards,116.1,Miami Heat,8.4,69.02,,,,,,,,,,,,,,,,,,,,No
-2025-03-31,Boston Celtics,120.8,Memphis Grizzlies,107.9,Boston Celtics,12.9,84.29,,,,,,,,,,,,,,,,,,,,No
-2025-03-31,Chicago Bulls,111.3,Oklahoma City Thunder,124.5,Oklahoma City Thunder,13.1,84.82,,,,,,,,,,,,,,,,,,,,No
-2025-03-31,Brooklyn Nets,116.4,Dallas Mavericks,111.3,Brooklyn Nets,5.1,58.95,,,,,,,,,,,,,,,,,,,,No
-2025-03-31,Houston Rockets,114.2,Los Angeles Lakers,102.2,Houston Rockets,12.0,81.7,,,,,,,,,,,,,,,,,,,,No
-2025-04-01,Orlando Magic,111.1,San Antonio Spurs,106.2,Orlando Magic,4.9,58.49,,,,,,,,,,,,,,,,,,,,No
-2025-04-01,Golden State Warriors,119.6,Memphis Grizzlies,120.4,Memphis Grizzlies,0.8,52.57,,,,,,,,,,,,,,,,,,,,No
-2025-04-01,Toronto Raptors,117.3,Chicago Bulls,123.6,Chicago Bulls,6.2,61.81,,,,,,,,,,,,,,,,,,,,No
-2025-04-01,Minnesota Timberwolves,119.9,Denver Nuggets,110.6,Minnesota Timberwolves,9.3,72.32,,,,,,,,,,,,,,,,,,,,No
-2025-04-01,Phoenix Suns,117.2,Milwaukee Bucks,108.5,Phoenix Suns,8.6,69.75,,,,,,,,,,,,,,,,,,,,No
-2025-04-01,Portland Trail Blazers,123.4,Atlanta Hawks,118.0,Portland Trail Blazers,5.4,59.67,,,,,,,,,,,,,,,,,,,,No
-2025-04-01,Philadelphia 76ers,113.1,New York Knicks,121.5,New York Knicks,8.3,68.66,,,,,,,,,,,,,,,,,,,,No
-2025-04-02,New Orleans Pelicans,105.3,Los Angeles Clippers,123.5,Los Angeles Clippers,18.2,92.66,,,,,,,,,,,,,,,,,,,,No
-2025-04-02,San Antonio Spurs,123.7,Denver Nuggets,126.8,Denver Nuggets,3.1,55.14,,,,,,,,,,,,,,,,,,,,No
-2025-04-02,Atlanta Hawks,127.5,Dallas Mavericks,121.2,Atlanta Hawks,6.3,62.1,,,,,,,,,,,,,,,,,,,,No
-2025-04-02,Utah Jazz,114.9,Houston Rockets,129.4,Houston Rockets,14.5,87.98,,,,,,,,,,,,,,,,,,,,No
-2025-04-02,Detroit Pistons,107.7,Oklahoma City Thunder,120.5,Oklahoma City Thunder,12.8,84.02,,,,,,,,,,,,,,,,,,,,No
-2025-04-02,Sacramento Kings,129.1,Washington Wizards,118.4,Sacramento Kings,10.7,77.4,,,,,,,,,,,,,,,,,,,,No
-2025-04-02,Charlotte Hornets,105.3,Indiana Pacers,112.2,Indiana Pacers,6.9,63.92,,,,,,,,,,,,,,,,,,,,No
-2025-04-02,New York Knicks,122.8,Cleveland Cavaliers,117.7,New York Knicks,5.0,58.72,,,,,,,,,,,,,,,,,,,,No
-2025-04-02,Miami Heat,109.7,Boston Celtics,113.4,Boston Celtics,3.7,56.1,,,,,,,,,,,,,,,,,,,,No
-2025-04-03,Orlando Magic,118.3,Washington Wizards,106.1,Orlando Magic,12.3,82.61,,,,,,,,,,,,,,,,,,,,No
-2025-04-03,Minnesota Timberwolves,112.9,Brooklyn Nets,105.6,Minnesota Timberwolves,7.3,65.21,,,,,,,,,,,,,,,,,,,,No
-2025-04-03,Memphis Grizzlies,116.5,Miami Heat,117.1,Miami Heat,0.6,52.42,,,,,,,,,,,,,,,,,,,,No
-2025-04-03,Milwaukee Bucks,115.1,Philadelphia 76ers,108.9,Milwaukee Bucks,6.3,62.1,,,,,,,,,,,,,,,,,,,,No
-2025-04-03,Portland Trail Blazers,113.3,Toronto Raptors,103.2,Portland Trail Blazers,10.2,75.62,,,,,,,,,,,,,,,,,,,,No
-2025-04-03,Golden State Warriors,115.0,Los Angeles Lakers,111.2,Golden State Warriors,3.8,56.28,,,,,,,,,,,,,,,,,,,,No
-2025-04-04,Cleveland Cavaliers,124.1,San Antonio Spurs,114.6,Cleveland Cavaliers,9.4,72.68,,,,,,,,,,,,,,,,,,,,No
-2025-04-04,New Orleans Pelicans,112.8,Los Angeles Lakers,113.1,Los Angeles Lakers,0.3,52.2,,,,,,,,,,,,,,,,,,,,No
-2025-04-04,Denver Nuggets,126.2,Golden State Warriors,118.5,Denver Nuggets,7.7,66.56,,,,,,,,,,,,,,,,,,,,No
-2025-04-04,Oklahoma City Thunder,111.0,Houston Rockets,109.0,Oklahoma City Thunder,1.9,53.6,,,,,,,,,,,,,,,,,,,,No
-2025-04-04,Dallas Mavericks,111.1,Los Angeles Clippers,124.1,Los Angeles Clippers,13.0,84.56,,,,,,,,,,,,,,,,,,,,No
-2025-04-04,Detroit Pistons,112.9,Toronto Raptors,103.8,Detroit Pistons,9.1,71.58,,,,,,,,,,,,,,,,,,,,No
-2025-04-04,Sacramento Kings,111.4,Charlotte Hornets,110.1,Sacramento Kings,1.3,53.0,,,,,,,,,,,,,,,,,,,,No
-2025-04-04,Portland Trail Blazers,121.4,Chicago Bulls,121.1,Portland Trail Blazers,0.2,52.13,,,,,,,,,,,,,,,,,,,,No
-2025-04-04,Phoenix Suns,111.7,Boston Celtics,118.5,Boston Celtics,6.8,63.61,,,,,,,,,,,,,,,,,,,,No
-2025-04-04,Utah Jazz,111.0,Indiana Pacers,122.4,Indiana Pacers,11.4,79.79,,,,,,,,,,,,,,,,,,,,No
-2025-04-05,New York Knicks,125.2,Atlanta Hawks,114.3,New York Knicks,10.9,78.1,,,,,,,,,,,,,,,,,,,,No
-2025-04-05,Memphis Grizzlies,119.5,Detroit Pistons,114.6,Memphis Grizzlies,4.9,58.49,,,,,,,,,,,,,,,,,,,,No
-2025-04-05,Minnesota Timberwolves,115.1,Philadelphia 76ers,106.6,Minnesota Timberwolves,8.5,69.38,,,,,,,,,,,,,,,,,,,,No
-2025-04-05,Milwaukee Bucks,113.1,Miami Heat,108.4,Milwaukee Bucks,4.8,58.26,,,,,,,,,,,,,,,,,,,,No
-2025-04-05,Dallas Mavericks,111.1,Los Angeles Clippers,124.1,Los Angeles Clippers,13.0,84.56,,,,,,,,,,,,,,,,,,,,No
-2025-04-06,Houston Rockets,116.4,Golden State Warriors,110.6,Houston Rockets,5.7,60.44,,,,,,,,,,,,,,,,,,,,No
-2025-04-06,Milwaukee Bucks,113.1,New Orleans Pelicans,109.4,Milwaukee Bucks,3.7,56.1,,,,,,,,,,,,,,,,,,,,No
-2025-04-06,Phoenix Suns,119.3,New York Knicks,121.7,New York Knicks,2.4,54.18,,,,,,,,,,,,,,,,,,,,No
-2025-04-06,San Antonio Spurs,111.0,Portland Trail Blazers,120.7,Portland Trail Blazers,9.7,73.79,,,,,,,,,,,,,,,,,,,,No
-2025-04-06,Sacramento Kings,118.3,Cleveland Cavaliers,125.8,Cleveland Cavaliers,7.5,65.88,,,,,,,,,,,,,,,,,,,,No
-2025-04-06,Indiana Pacers,128.8,Denver Nuggets,120.6,Indiana Pacers,8.2,68.31,,,,,,,,,,,,,,,,,,,,No
-2025-04-06,Utah Jazz,116.7,Atlanta Hawks,124.8,Atlanta Hawks,8.1,67.95,,,,,,,,,,,,,,,,,,,,No
-2025-04-06,Los Angeles Lakers,109.5,Oklahoma City Thunder,119.4,Oklahoma City Thunder,9.9,74.52,,,,,,,,,,,,,,,,,,,,No
-2025-04-06,Toronto Raptors,112.0,Brooklyn Nets,103.5,Toronto Raptors,8.5,69.38,,,,,,,,,,,,,,,,,,,,No
-2025-04-06,Chicago Bulls,113.6,Charlotte Hornets,110.2,Chicago Bulls,3.4,55.6,,,,,,,,,,,,,,,,,,,,No
-2025-04-06,Washington Wizards,101.5,Boston Celtics,119.9,Boston Celtics,18.4,92.8,,,,,,,,,,,,,,,,,,,,No
-2025-04-07,Sacramento Kings,114.9,Detroit Pistons,113.9,Sacramento Kings,1.0,52.74,,,,,,,,,,,,,,,,,,,,No
-2025-04-07,Philadelphia 76ers,102.7,Miami Heat,108.2,Miami Heat,5.5,59.93,,,,,,,,,,,,,,,,,,,,No
-2025-04-08,San Antonio Spurs,102.6,Los Angeles Clippers,118.9,Los Angeles Clippers,16.3,90.82,,,,,,,,,,,,,,,,,,,,No
-2025-04-08,Golden State Warriors,117.4,Phoenix Suns,118.3,Phoenix Suns,0.9,52.65,,,,,,,,,,,,,,,,,,,,No
-2025-04-08,Los Angeles Lakers,109.5,Oklahoma City Thunder,119.4,Oklahoma City Thunder,9.9,74.52,,,,,,,,,,,,,,,,,,,,No
-2025-04-08,Minnesota Timberwolves,110.1,Milwaukee Bucks,104.4,Minnesota Timberwolves,5.7,60.44,,,,,,,,,,,,,,,,,,,,No
-2025-04-08,Boston Celtics,116.7,New York Knicks,103.9,Boston Celtics,12.8,84.02,,,,,,,,,,,,,,,,,,,,No
-2025-04-08,Atlanta Hawks,114.6,Orlando Magic,106.6,Atlanta Hawks,8.0,67.6,,,,,,,,,,,,,,,,,,,,No
-2025-04-08,Washington Wizards,101.9,Indiana Pacers,113.9,Indiana Pacers,12.0,81.7,,,,,,,,,,,,,,,,,,,,No
-2025-04-08,Chicago Bulls,120.2,Cleveland Cavaliers,123.9,Cleveland Cavaliers,3.7,56.1,,,,,,,,,,,,,,,,,,,,No
-2025-04-08,Memphis Grizzlies,116.8,Charlotte Hornets,108.0,Memphis Grizzlies,8.8,70.48,,,,,,,,,,,,,,,,,,,,No
-2025-04-08,New Orleans Pelicans,111.7,Brooklyn Nets,104.6,New Orleans Pelicans,7.1,64.56,,,,,,,,,,,,,,,,,,,,No
-2025-04-09,San Antonio Spurs,113.6,Golden State Warriors,120.6,Golden State Warriors,7.0,64.24,,,,,,,,,,,,,,,,,,,,No
-2025-04-09,Denver Nuggets,126.3,Sacramento Kings,122.7,Denver Nuggets,3.6,55.93,,,,,,,,,,,,,,,,,,,,No
-2025-04-09,Oklahoma City Thunder,122.1,Phoenix Suns,112.1,Oklahoma City Thunder,10.0,74.89,,,,,,,,,,,,,,,,,,,,No
-2025-04-09,Houston Rockets,104.2,Los Angeles Clippers,113.4,Los Angeles Clippers,9.2,71.95,,,,,,,,,,,,,,,,,,,,No
-2025-04-09,Portland Trail Blazers,127.2,Utah Jazz,115.8,Portland Trail Blazers,11.4,79.79,,,,,,,,,,,,,,,,,,,,No
-2025-04-09,Charlotte Hornets,106.4,Toronto Raptors,102.3,Charlotte Hornets,4.1,56.83,,,,,,,,,,,,,,,,,,,,No
-2025-04-09,Los Angeles Lakers,123.4,Dallas Mavericks,115.2,Los Angeles Lakers,8.2,68.31,,,,,,,,,,,,,,,,,,,,No
-2025-04-09,Philadelphia 76ers,119.7,Washington Wizards,120.7,Washington Wizards,1.1,52.82,,,,,,,,,,,,,,,,,,,,No
-2025-04-09,Boston Celtics,114.7,Orlando Magic,104.7,Boston Celtics,10.1,75.25,,,,,,,,,,,,,,,,,,,,No
-2025-04-09,Miami Heat,122.8,Chicago Bulls,119.1,Miami Heat,3.7,56.1,,,,,,,,,,,,,,,,,,,,No
-2025-04-10,Minnesota Timberwolves,117.1,Memphis Grizzlies,111.7,Minnesota Timberwolves,5.4,59.67,,,,,,,,,,,,,,,,,,,,No
-2025-04-10,Atlanta Hawks,118.7,Brooklyn Nets,109.8,Atlanta Hawks,8.9,70.84,,,,,,,,,,,,,,,,,,,,No
-2025-04-10,New Orleans Pelicans,106.6,Milwaukee Bucks,105.4,New Orleans Pelicans,1.3,53.0,,,,,,,,,,,,,,,,,,,,No
-2025-04-10,New York Knicks,118.5,Detroit Pistons,112.0,New York Knicks,6.5,62.69,,,,,,,,,,,,,,,,,,,,No
-2025-04-10,Cleveland Cavaliers,120.3,Indiana Pacers,118.1,Cleveland Cavaliers,2.1,53.82,,,,,,,,,,,,,,,,,,,,No
-2025-04-11,Memphis Grizzlies,124.4,Denver Nuggets,130.2,Denver Nuggets,5.8,60.71,,,,,,,,,,,,,,,,,,,,No
-2025-04-11,Los Angeles Clippers,120.7,Sacramento Kings,109.0,Los Angeles Clippers,11.7,80.76,,,,,,,,,,,,,,,,,,,,No
-2025-04-11,Golden State Warriors,118.6,Portland Trail Blazers,116.9,Golden State Warriors,1.8,53.49,,,,,,,,,,,,,,,,,,,,No
-2025-04-11,San Antonio Spurs,115.2,Phoenix Suns,123.6,Phoenix Suns,8.4,69.02,,,,,,,,,,,,,,,,,,,,No
-2025-04-11,Oklahoma City Thunder,128.4,Utah Jazz,109.9,Oklahoma City Thunder,18.5,92.87,,,,,,,,,,,,,,,,,,,,No
-2025-04-11,Houston Rockets,114.2,Los Angeles Lakers,102.2,Houston Rockets,12.0,81.7,,,,,,,,,,,,,,,,,,,,No
-2025-04-11,Toronto Raptors,121.7,Dallas Mavericks,117.0,Toronto Raptors,4.6,57.83,,,,,,,,,,,,,,,,,,,,No
-2025-04-11,Brooklyn Nets,100.7,Minnesota Timberwolves,112.6,Minnesota Timberwolves,12.0,81.7,,,,,,,,,,,,,,,,,,,,No
-2025-04-11,Washington Wizards,116.2,Chicago Bulls,123.3,Chicago Bulls,7.1,64.56,,,,,,,,,,,,,,,,,,,,No
-2025-04-11,Cleveland Cavaliers,121.3,New York Knicks,121.8,New York Knicks,0.5,52.34,,,,,,,,,,,,,,,,,,,,No
-2025-04-11,Charlotte Hornets,104.9,Boston Celtics,119.6,Boston Celtics,14.7,88.36,,,,,,,,,,,,,,,,,,,,No
-2025-04-11,Atlanta Hawks,119.3,Philadelphia 76ers,113.6,Atlanta Hawks,5.7,60.44,,,,,,,,,,,,,,,,,,,,No
-2025-04-11,Orlando Magic,107.9,Indiana Pacers,109.8,Indiana Pacers,2.0,53.71,,,,,,,,,,,,,,,,,,,,No
-2025-04-11,Milwaukee Bucks,113.6,Detroit Pistons,110.5,Milwaukee Bucks,3.2,55.29,,,,,,,,,,,,,,,,,,,,No
-2025-04-11,Miami Heat,112.6,New Orleans Pelicans,108.7,Miami Heat,3.9,56.46,,,,,,,,,,,,,,,,,,,,No
-2025-04-13,Los Angeles Lakers,112.5,Portland Trail Blazers,119.2,Portland Trail Blazers,6.7,63.3,,,,,,,,,,,,,,,,,,,,No
-2025-04-13,Oklahoma City Thunder,120.5,New Orleans Pelicans,107.8,Oklahoma City Thunder,12.7,83.75,,,,,,,,,,,,,,,,,,,,No
-2025-04-13,Utah Jazz,105.4,Minnesota Timberwolves,115.9,Minnesota Timberwolves,10.5,76.69,,,,,,,,,,,,,,,,,,,,No
-2025-04-13,Dallas Mavericks,122.7,Memphis Grizzlies,129.6,Memphis Grizzlies,6.9,63.92,,,,,,,,,,,,,,,,,,,,No
-2025-04-13,Denver Nuggets,118.3,Houston Rockets,117.5,Denver Nuggets,0.9,52.65,,,,,,,,,,,,,,,,,,,,No
-2025-04-13,Los Angeles Clippers,115.0,Golden State Warriors,108.2,Los Angeles Clippers,6.8,63.61,,,,,,,,,,,,,,,,,,,,No
-2025-04-13,Indiana Pacers,125.1,Cleveland Cavaliers,121.3,Indiana Pacers,3.8,56.28,,,,,,,,,,,,,,,,,,,,No
-2025-04-13,Detroit Pistons,111.5,Milwaukee Bucks,105.0,Detroit Pistons,6.5,62.69,,,,,,,,,,,,,,,,,,,,No
-2025-04-13,Washington Wizards,103.9,Miami Heat,111.1,Miami Heat,7.2,64.88,,,,,,,,,,,,,,,,,,,,No
-2025-04-13,New York Knicks,116.5,Brooklyn Nets,105.5,New York Knicks,11.0,78.44,,,,,,,,,,,,,,,,,,,,No
-2025-04-13,Charlotte Hornets,104.9,Boston Celtics,119.6,Boston Celtics,14.7,88.36,,,,,,,,,,,,,,,,,,,,No
-2025-04-13,Orlando Magic,107.0,Atlanta Hawks,106.1,Orlando Magic,0.9,52.65,,,,,,,,,,,,,,,,,,,,No
-2025-04-13,Phoenix Suns,121.3,Sacramento Kings,116.8,Phoenix Suns,4.5,57.62,,,,,,,,,,,,,,,,,,,,No
-2025-04-13,Chicago Bulls,124.1,Philadelphia 76ers,116.8,Chicago Bulls,7.3,65.21,,,,,,,,,,,,,,,,,,,,No
-2025-04-13,Toronto Raptors,114.2,San Antonio Spurs,108.2,Toronto Raptors,6.0,61.25,,,,,,,,,,,,,,,,,,,,No
+2025-03-27,San Antonio Spurs,119.7,Cleveland Cavaliers,126.4,Cleveland Cavaliers,6.6,60.9,Spurs,685.0,12.74,Cavaliers,-1075.0,91.49,+14.5,-110.0,52.38,-14.5,-110.0,52.38,o236.5,-111.0,52.61,u236.5,-109.0,52.15,Cleveland Cavaliers,No
+2025-03-27,Dallas Mavericks,112.2,Orlando Magic,104.7,Dallas Mavericks,7.4,62.86,Mavericks,220.0,31.25,Magic,-272.0,73.12,+7.5,-112.0,52.83,-7.5,-108.0,51.92,o218.5,-112.0,52.83,u218.5,-108.0,51.92,Orlando Magic,Money Line
+2025-03-27,Indiana Pacers,123.0,Washington Wizards,110.9,Indiana Pacers,12.1,77.03,Pacers,-725.0,87.88,Wizards,514.0,16.29,-12.5,-110.0,52.38,+12.5,-110.0,52.38,o233.5,-110.0,52.38,u233.5,-110.0,52.38,Indiana Pacers,No
+2025-03-27,Atlanta Hawks,109.2,Miami Heat,115.1,Miami Heat,5.9,59.35,Hawks,100.0,50.0,Heat,-120.0,54.55,+1.5,-112.0,52.83,-1.5,-108.0,51.92,o227,-110.0,52.38,u227,-110.0,52.38,Miami Heat,No
+2025-03-27,Los Angeles Lakers,120.5,Chicago Bulls,120.9,Chicago Bulls,0.4,52.38,Lakers,-155.0,60.78,Bulls,129.0,43.67,-2.5,-114.0,53.27,+2.5,-106.0,51.46,o236.5,-110.0,52.38,u236.5,-110.0,52.38,Los Angeles Lakers,Money Line
+2025-03-27,Memphis Grizzlies,112.5,Oklahoma City Thunder,123.9,Oklahoma City Thunder,11.5,75.18,Grizzlies,349.0,22.27,Thunder,-450.0,81.82,+10,-110.0,52.38,-10,-112.0,52.83,o239.5,-108.0,51.92,u239.5,-112.0,52.83,Oklahoma City Thunder,No
+2025-03-27,Houston Rockets,127.3,Utah Jazz,110.3,Houston Rockets,17.0,88.55,Rockets,-787.0,88.73,Jazz,543.0,15.55,-13,-110.0,52.38,+13,-110.0,52.38,o228,-110.0,52.38,u228,-110.0,52.38,Houston Rockets,No
+2025-03-27,Portland Trail Blazers,121.5,Sacramento Kings,124.2,Sacramento Kings,2.7,54.33,TrailBlazers,197.0,33.67,Kings,-240.0,70.59,+6,-111.0,52.61,-6,-109.0,52.15,o225.5,-110.0,52.38,u225.5,-110.0,52.38,Sacramento Kings,No
+2025-03-28,Utah Jazz,123.6,Denver Nuggets,129.3,Denver Nuggets,5.7,58.94,,,,,,,,,,,,,,,,,,,,No
+2025-03-28,Golden State Warriors,119.1,New Orleans Pelicans,114.7,Golden State Warriors,4.5,56.76,,,,,,,,,,,,,,,,,,,,No
+2025-03-28,Phoenix Suns,114.2,Minnesota Timberwolves,110.8,Phoenix Suns,3.4,55.17,,,,,,,,,,,,,,,,,,,,No
+2025-03-28,Cleveland Cavaliers,122.4,Detroit Pistons,113.9,Cleveland Cavaliers,8.4,65.6,,,,,,,,,,,,,,,,,,,,No
+2025-03-28,Charlotte Hornets,109.9,Toronto Raptors,107.7,Charlotte Hornets,2.2,53.81,,,,,,,,,,,,,,,,,,,,No
+2025-03-28,Los Angeles Clippers,112.5,Brooklyn Nets,103.6,Los Angeles Clippers,8.9,67.06,,,,,,,,,,,,,,,,,,,,No
+2025-03-28,New York Knicks,118.3,Milwaukee Bucks,108.3,New York Knicks,10.0,70.45,,,,,,,,,,,,,,,,,,,,No
+2025-03-29,Indiana Pacers,117.0,Oklahoma City Thunder,117.5,Oklahoma City Thunder,0.5,52.44,,,,,,,,,,,,,,,,,,,,No
+2025-03-29,Boston Celtics,118.5,San Antonio Spurs,105.1,Boston Celtics,13.5,81.08,,,,,,,,,,,,,,,,,,,,No
+2025-03-29,Los Angeles Lakers,120.5,Memphis Grizzlies,125.5,Memphis Grizzlies,5.0,57.61,,,,,,,,,,,,,,,,,,,,No
+2025-03-29,Brooklyn Nets,109.8,Washington Wizards,107.7,Brooklyn Nets,2.0,53.62,,,,,,,,,,,,,,,,,,,,No
+2025-03-29,Miami Heat,113.9,Philadelphia 76ers,109.0,Miami Heat,4.9,57.44,,,,,,,,,,,,,,,,,,,,No
+2025-03-29,Sacramento Kings,111.1,Orlando Magic,103.7,Sacramento Kings,7.3,62.61,,,,,,,,,,,,,,,,,,,,No
+2025-03-29,Dallas Mavericks,121.3,Chicago Bulls,125.4,Chicago Bulls,4.1,56.14,,,,,,,,,,,,,,,,,,,,No
+2025-03-30,Los Angeles Clippers,118.4,Cleveland Cavaliers,124.8,Cleveland Cavaliers,6.4,60.44,,,,,,,,,,,,,,,,,,,,No
+2025-03-30,Portland Trail Blazers,120.4,New York Knicks,124.2,New York Knicks,3.8,55.71,,,,,,,,,,,,,,,,,,,,No
+2025-03-30,Atlanta Hawks,113.8,Milwaukee Bucks,110.4,Atlanta Hawks,3.5,55.3,,,,,,,,,,,,,,,,,,,,No
+2025-03-30,Detroit Pistons,107.2,Minnesota Timberwolves,108.9,Minnesota Timberwolves,1.7,53.35,,,,,,,,,,,,,,,,,,,,No
+2025-03-30,Charlotte Hornets,114.3,New Orleans Pelicans,111.7,Charlotte Hornets,2.6,54.22,,,,,,,,,,,,,,,,,,,,No
+2025-03-30,Golden State Warriors,119.3,San Antonio Spurs,115.9,Golden State Warriors,3.5,55.3,,,,,,,,,,,,,,,,,,,,No
+2025-03-30,Toronto Raptors,116.3,Philadelphia 76ers,104.5,Toronto Raptors,11.9,76.42,,,,,,,,,,,,,,,,,,,,No
+2025-03-30,Houston Rockets,122.4,Phoenix Suns,114.3,Houston Rockets,8.1,64.75,,,,,,,,,,,,,,,,,,,,No
+2025-03-31,Brooklyn Nets,113.7,Dallas Mavericks,113.0,Brooklyn Nets,0.7,52.57,,,,,,,,,,,,,,,,,,,,No
+2025-03-31,Houston Rockets,118.5,Los Angeles Lakers,102.4,Houston Rockets,16.1,87.02,,,,,,,,,,,,,,,,,,,,No
+2025-03-31,Boston Celtics,123.4,Memphis Grizzlies,112.5,Boston Celtics,10.9,73.29,,,,,,,,,,,,,,,,,,,,No
+2025-03-31,Chicago Bulls,111.3,Oklahoma City Thunder,123.8,Oklahoma City Thunder,12.5,78.23,,,,,,,,,,,,,,,,,,,,No
+2025-03-31,Los Angeles Clippers,111.7,Orlando Magic,102.8,Los Angeles Clippers,8.8,66.77,,,,,,,,,,,,,,,,,,,,No
+2025-03-31,Sacramento Kings,114.0,Indiana Pacers,117.9,Indiana Pacers,3.9,55.85,,,,,,,,,,,,,,,,,,,,No
+2025-03-31,Utah Jazz,114.1,Charlotte Hornets,117.4,Charlotte Hornets,3.3,55.04,,,,,,,,,,,,,,,,,,,,No
+2025-03-31,Miami Heat,116.9,Washington Wizards,111.2,Miami Heat,5.7,58.94,,,,,,,,,,,,,,,,,,,,No
+2025-04-01,Portland Trail Blazers,121.4,Atlanta Hawks,122.0,Atlanta Hawks,0.6,52.51,,,,,,,,,,,,,,,,,,,,No
+2025-04-01,Phoenix Suns,119.6,Milwaukee Bucks,110.6,Phoenix Suns,9.0,67.36,,,,,,,,,,,,,,,,,,,,No
+2025-04-01,Philadelphia 76ers,110.8,New York Knicks,122.2,New York Knicks,11.4,74.87,,,,,,,,,,,,,,,,,,,,No
+2025-04-01,Toronto Raptors,116.9,Chicago Bulls,122.3,Chicago Bulls,5.5,58.55,,,,,,,,,,,,,,,,,,,,No
+2025-04-01,Golden State Warriors,120.6,Memphis Grizzlies,123.1,Memphis Grizzlies,2.5,54.12,,,,,,,,,,,,,,,,,,,,No
+2025-04-01,Orlando Magic,113.2,San Antonio Spurs,105.4,Orlando Magic,7.8,63.92,,,,,,,,,,,,,,,,,,,,No
+2025-04-01,Minnesota Timberwolves,122.0,Denver Nuggets,112.2,Minnesota Timberwolves,9.8,69.82,,,,,,,,,,,,,,,,,,,,No
+2025-04-02,New Orleans Pelicans,107.6,Los Angeles Clippers,113.2,Los Angeles Clippers,5.6,58.74,,,,,,,,,,,,,,,,,,,,No
+2025-04-02,San Antonio Spurs,124.3,Denver Nuggets,123.1,San Antonio Spurs,1.3,53.01,,,,,,,,,,,,,,,,,,,,No
+2025-04-02,Atlanta Hawks,124.6,Dallas Mavericks,122.2,Atlanta Hawks,2.3,53.91,,,,,,,,,,,,,,,,,,,,No
+2025-04-02,Utah Jazz,110.4,Houston Rockets,125.7,Houston Rockets,15.3,85.44,,,,,,,,,,,,,,,,,,,,No
+2025-04-02,Detroit Pistons,106.1,Oklahoma City Thunder,119.1,Oklahoma City Thunder,13.0,79.69,,,,,,,,,,,,,,,,,,,,No
+2025-04-02,Sacramento Kings,121.5,Washington Wizards,114.3,Sacramento Kings,7.2,62.35,,,,,,,,,,,,,,,,,,,,No
+2025-04-02,Charlotte Hornets,105.0,Indiana Pacers,112.7,Indiana Pacers,7.7,63.65,,,,,,,,,,,,,,,,,,,,No
+2025-04-02,New York Knicks,120.1,Cleveland Cavaliers,119.2,New York Knicks,1.0,52.79,,,,,,,,,,,,,,,,,,,,No
+2025-04-02,Miami Heat,107.5,Boston Celtics,118.1,Boston Celtics,10.6,72.34,,,,,,,,,,,,,,,,,,,,No
+2025-04-03,Orlando Magic,112.2,Washington Wizards,103.5,Orlando Magic,8.7,66.47,,,,,,,,,,,,,,,,,,,,No
+2025-04-03,Minnesota Timberwolves,112.0,Brooklyn Nets,104.2,Minnesota Timberwolves,7.7,63.65,,,,,,,,,,,,,,,,,,,,No
+2025-04-03,Memphis Grizzlies,115.6,Miami Heat,117.8,Miami Heat,2.1,53.71,,,,,,,,,,,,,,,,,,,,No
+2025-04-03,Milwaukee Bucks,114.9,Philadelphia 76ers,105.9,Milwaukee Bucks,9.0,67.36,,,,,,,,,,,,,,,,,,,,No
+2025-04-03,Portland Trail Blazers,114.3,Toronto Raptors,107.6,Portland Trail Blazers,6.7,61.13,,,,,,,,,,,,,,,,,,,,No
+2025-04-03,Golden State Warriors,117.5,Los Angeles Lakers,111.3,Golden State Warriors,6.3,60.21,,,,,,,,,,,,,,,,,,,,No
+2025-04-04,New Orleans Pelicans,113.8,Los Angeles Lakers,115.5,Los Angeles Lakers,1.7,53.35,,,,,,,,,,,,,,,,,,,,No
+2025-04-04,Dallas Mavericks,114.2,Los Angeles Clippers,116.6,Los Angeles Clippers,2.4,54.01,,,,,,,,,,,,,,,,,,,,No
+2025-04-04,Denver Nuggets,126.1,Golden State Warriors,119.0,Denver Nuggets,7.0,61.85,,,,,,,,,,,,,,,,,,,,No
+2025-04-04,Cleveland Cavaliers,124.3,San Antonio Spurs,115.1,Cleveland Cavaliers,9.2,67.97,,,,,,,,,,,,,,,,,,,,No
+2025-04-04,Oklahoma City Thunder,110.9,Houston Rockets,108.2,Oklahoma City Thunder,2.7,54.33,,,,,,,,,,,,,,,,,,,,No
+2025-04-04,Sacramento Kings,111.5,Charlotte Hornets,109.2,Sacramento Kings,2.3,53.91,,,,,,,,,,,,,,,,,,,,No
+2025-04-04,Detroit Pistons,114.4,Toronto Raptors,105.1,Detroit Pistons,9.3,68.27,,,,,,,,,,,,,,,,,,,,No
+2025-04-04,Phoenix Suns,109.0,Boston Celtics,118.1,Boston Celtics,9.1,67.66,,,,,,,,,,,,,,,,,,,,No
+2025-04-04,Utah Jazz,111.4,Indiana Pacers,121.5,Indiana Pacers,10.1,70.76,,,,,,,,,,,,,,,,,,,,No
+2025-04-04,Portland Trail Blazers,121.6,Chicago Bulls,123.2,Chicago Bulls,1.6,53.26,,,,,,,,,,,,,,,,,,,,No
+2025-04-05,Dallas Mavericks,114.2,Los Angeles Clippers,116.6,Los Angeles Clippers,2.4,54.01,,,,,,,,,,,,,,,,,,,,No
+2025-04-05,Milwaukee Bucks,116.5,Miami Heat,110.6,Milwaukee Bucks,5.9,59.35,,,,,,,,,,,,,,,,,,,,No
+2025-04-05,Memphis Grizzlies,120.1,Detroit Pistons,116.3,Memphis Grizzlies,3.8,55.71,,,,,,,,,,,,,,,,,,,,No
+2025-04-05,Minnesota Timberwolves,118.1,Philadelphia 76ers,107.9,Minnesota Timberwolves,10.2,71.08,,,,,,,,,,,,,,,,,,,,No
+2025-04-05,New York Knicks,120.2,Atlanta Hawks,112.4,New York Knicks,7.9,64.2,,,,,,,,,,,,,,,,,,,,No
+2025-04-06,Houston Rockets,118.3,Golden State Warriors,111.7,Houston Rockets,6.7,61.13,,,,,,,,,,,,,,,,,,,,No
+2025-04-06,Indiana Pacers,128.8,Denver Nuggets,120.8,Indiana Pacers,7.9,64.2,,,,,,,,,,,,,,,,,,,,No
+2025-04-06,Phoenix Suns,120.8,New York Knicks,121.6,New York Knicks,0.8,52.64,,,,,,,,,,,,,,,,,,,,No
+2025-04-06,San Antonio Spurs,113.8,Portland Trail Blazers,119.0,Portland Trail Blazers,5.2,57.98,,,,,,,,,,,,,,,,,,,,No
+2025-04-06,Sacramento Kings,119.1,Cleveland Cavaliers,125.6,Cleveland Cavaliers,6.5,60.67,,,,,,,,,,,,,,,,,,,,No
+2025-04-06,Milwaukee Bucks,113.8,New Orleans Pelicans,108.9,Milwaukee Bucks,4.9,57.44,,,,,,,,,,,,,,,,,,,,No
+2025-04-06,Utah Jazz,113.8,Atlanta Hawks,121.6,Atlanta Hawks,7.8,63.92,,,,,,,,,,,,,,,,,,,,No
+2025-04-06,Los Angeles Lakers,112.8,Oklahoma City Thunder,123.1,Oklahoma City Thunder,10.3,71.39,,,,,,,,,,,,,,,,,,,,No
+2025-04-06,Toronto Raptors,113.9,Brooklyn Nets,101.8,Toronto Raptors,12.0,76.73,,,,,,,,,,,,,,,,,,,,No
+2025-04-06,Chicago Bulls,115.0,Charlotte Hornets,114.2,Chicago Bulls,0.8,52.64,,,,,,,,,,,,,,,,,,,,No
+2025-04-06,Washington Wizards,99.4,Boston Celtics,120.6,Boston Celtics,21.3,92.87,,,,,,,,,,,,,,,,,,,,No
+2025-04-07,Philadelphia 76ers,102.1,Miami Heat,110.7,Miami Heat,8.6,66.18,,,,,,,,,,,,,,,,,,,,No
+2025-04-07,Sacramento Kings,115.1,Detroit Pistons,114.9,Sacramento Kings,0.2,52.25,,,,,,,,,,,,,,,,,,,,No
+2025-04-08,Memphis Grizzlies,119.0,Charlotte Hornets,110.6,Memphis Grizzlies,8.4,65.6,,,,,,,,,,,,,,,,,,,,No
+2025-04-08,San Antonio Spurs,111.0,Los Angeles Clippers,114.0,Los Angeles Clippers,3.0,54.67,,,,,,,,,,,,,,,,,,,,No
+2025-04-08,Washington Wizards,104.7,Indiana Pacers,114.7,Indiana Pacers,10.1,70.76,,,,,,,,,,,,,,,,,,,,No
+2025-04-08,Atlanta Hawks,114.4,Orlando Magic,106.3,Atlanta Hawks,8.1,64.75,,,,,,,,,,,,,,,,,,,,No
+2025-04-08,New Orleans Pelicans,108.6,Brooklyn Nets,103.6,New Orleans Pelicans,5.0,57.61,,,,,,,,,,,,,,,,,,,,No
+2025-04-08,Boston Celtics,118.8,New York Knicks,105.0,Boston Celtics,13.8,81.88,,,,,,,,,,,,,,,,,,,,No
+2025-04-08,Minnesota Timberwolves,112.3,Milwaukee Bucks,106.2,Minnesota Timberwolves,6.1,59.78,,,,,,,,,,,,,,,,,,,,No
+2025-04-08,Los Angeles Lakers,112.8,Oklahoma City Thunder,123.1,Oklahoma City Thunder,10.3,71.39,,,,,,,,,,,,,,,,,,,,No
+2025-04-08,Golden State Warriors,120.8,Phoenix Suns,116.5,Golden State Warriors,4.3,56.45,,,,,,,,,,,,,,,,,,,,No
+2025-04-08,Chicago Bulls,118.9,Cleveland Cavaliers,122.7,Cleveland Cavaliers,3.8,55.71,,,,,,,,,,,,,,,,,,,,No
+2025-04-09,Denver Nuggets,124.5,Sacramento Kings,124.6,Sacramento Kings,0.1,52.19,,,,,,,,,,,,,,,,,,,,No
+2025-04-09,Houston Rockets,113.6,Los Angeles Clippers,104.1,Houston Rockets,9.5,68.89,,,,,,,,,,,,,,,,,,,,No
+2025-04-09,Oklahoma City Thunder,125.2,Phoenix Suns,115.9,Oklahoma City Thunder,9.3,68.27,,,,,,,,,,,,,,,,,,,,No
+2025-04-09,San Antonio Spurs,112.9,Golden State Warriors,116.6,Golden State Warriors,3.7,55.57,,,,,,,,,,,,,,,,,,,,No
+2025-04-09,Portland Trail Blazers,123.3,Utah Jazz,115.1,Portland Trail Blazers,8.3,65.31,,,,,,,,,,,,,,,,,,,,No
+2025-04-09,Charlotte Hornets,109.9,Toronto Raptors,107.7,Charlotte Hornets,2.2,53.81,,,,,,,,,,,,,,,,,,,,No
+2025-04-09,Los Angeles Lakers,125.2,Dallas Mavericks,120.9,Los Angeles Lakers,4.3,56.45,,,,,,,,,,,,,,,,,,,,No
+2025-04-09,Philadelphia 76ers,111.0,Washington Wizards,112.7,Washington Wizards,1.7,53.35,,,,,,,,,,,,,,,,,,,,No
+2025-04-09,Boston Celtics,114.5,Orlando Magic,103.1,Boston Celtics,11.4,74.87,,,,,,,,,,,,,,,,,,,,No
+2025-04-09,Miami Heat,125.5,Chicago Bulls,121.2,Miami Heat,4.2,56.29,,,,,,,,,,,,,,,,,,,,No
+2025-04-10,New Orleans Pelicans,107.7,Milwaukee Bucks,108.2,Milwaukee Bucks,0.5,52.44,,,,,,,,,,,,,,,,,,,,No
+2025-04-10,New York Knicks,119.7,Detroit Pistons,111.5,New York Knicks,8.1,64.75,,,,,,,,,,,,,,,,,,,,No
+2025-04-10,Cleveland Cavaliers,119.4,Indiana Pacers,118.5,Cleveland Cavaliers,1.0,52.79,,,,,,,,,,,,,,,,,,,,No
+2025-04-10,Atlanta Hawks,116.6,Brooklyn Nets,108.3,Atlanta Hawks,8.2,65.03,,,,,,,,,,,,,,,,,,,,No
+2025-04-10,Minnesota Timberwolves,115.8,Memphis Grizzlies,116.9,Memphis Grizzlies,1.1,52.86,,,,,,,,,,,,,,,,,,,,No
+2025-04-11,Oklahoma City Thunder,129.1,Utah Jazz,112.9,Oklahoma City Thunder,16.2,87.21,,,,,,,,,,,,,,,,,,,,No
+2025-04-11,San Antonio Spurs,116.6,Phoenix Suns,121.2,Phoenix Suns,4.6,56.93,,,,,,,,,,,,,,,,,,,,No
+2025-04-11,Washington Wizards,111.5,Chicago Bulls,121.2,Chicago Bulls,9.7,69.51,,,,,,,,,,,,,,,,,,,,No
+2025-04-11,Los Angeles Clippers,119.4,Sacramento Kings,119.4,Sacramento Kings,0.0,52.13,,,,,,,,,,,,,,,,,,,,No
+2025-04-11,Houston Rockets,118.5,Los Angeles Lakers,102.4,Houston Rockets,16.1,87.02,,,,,,,,,,,,,,,,,,,,No
+2025-04-11,Brooklyn Nets,98.8,Minnesota Timberwolves,112.2,Minnesota Timberwolves,13.4,80.8,,,,,,,,,,,,,,,,,,,,No
+2025-04-11,Golden State Warriors,116.7,Portland Trail Blazers,117.9,Portland Trail Blazers,1.2,52.94,,,,,,,,,,,,,,,,,,,,No
+2025-04-11,Memphis Grizzlies,124.1,Denver Nuggets,124.8,Denver Nuggets,0.7,52.57,,,,,,,,,,,,,,,,,,,,No
+2025-04-11,Charlotte Hornets,99.8,Boston Celtics,115.6,Boston Celtics,15.9,86.65,,,,,,,,,,,,,,,,,,,,No
+2025-04-11,Miami Heat,110.4,New Orleans Pelicans,110.9,New Orleans Pelicans,0.5,52.44,,,,,,,,,,,,,,,,,,,,No
+2025-04-11,Cleveland Cavaliers,122.4,New York Knicks,123.4,New York Knicks,1.0,52.79,,,,,,,,,,,,,,,,,,,,No
+2025-04-11,Atlanta Hawks,123.5,Philadelphia 76ers,119.3,Atlanta Hawks,4.2,56.29,,,,,,,,,,,,,,,,,,,,No
+2025-04-11,Orlando Magic,106.9,Indiana Pacers,109.6,Indiana Pacers,2.7,54.33,,,,,,,,,,,,,,,,,,,,No
+2025-04-11,Milwaukee Bucks,115.4,Detroit Pistons,112.0,Milwaukee Bucks,3.4,55.17,,,,,,,,,,,,,,,,,,,,No
+2025-04-11,Toronto Raptors,121.1,Dallas Mavericks,113.5,Toronto Raptors,7.7,63.65,,,,,,,,,,,,,,,,,,,,No
+2025-04-13,Dallas Mavericks,120.1,Memphis Grizzlies,128.2,Memphis Grizzlies,8.1,64.75,,,,,,,,,,,,,,,,,,,,No
+2025-04-13,Utah Jazz,103.7,Minnesota Timberwolves,115.2,Minnesota Timberwolves,11.6,75.49,,,,,,,,,,,,,,,,,,,,No
+2025-04-13,Denver Nuggets,116.9,Houston Rockets,116.3,Denver Nuggets,0.6,52.51,,,,,,,,,,,,,,,,,,,,No
+2025-04-13,Los Angeles Lakers,114.2,Portland Trail Blazers,117.1,Portland Trail Blazers,2.9,54.56,,,,,,,,,,,,,,,,,,,,No
+2025-04-13,Oklahoma City Thunder,119.0,New Orleans Pelicans,109.1,Oklahoma City Thunder,9.9,70.13,,,,,,,,,,,,,,,,,,,,No
+2025-04-13,Los Angeles Clippers,113.6,Golden State Warriors,114.6,Golden State Warriors,1.0,52.79,,,,,,,,,,,,,,,,,,,,No
+2025-04-13,Phoenix Suns,122.7,Sacramento Kings,118.2,Phoenix Suns,4.5,56.76,,,,,,,,,,,,,,,,,,,,No
+2025-04-13,Detroit Pistons,114.7,Milwaukee Bucks,107.0,Detroit Pistons,7.7,63.65,,,,,,,,,,,,,,,,,,,,No
+2025-04-13,Washington Wizards,102.8,Miami Heat,110.2,Miami Heat,7.5,63.12,,,,,,,,,,,,,,,,,,,,No
+2025-04-13,Indiana Pacers,122.6,Cleveland Cavaliers,120.2,Indiana Pacers,2.4,54.01,,,,,,,,,,,,,,,,,,,,No
+2025-04-13,New York Knicks,110.7,Brooklyn Nets,103.6,New York Knicks,7.1,62.1,,,,,,,,,,,,,,,,,,,,No
+2025-04-13,Charlotte Hornets,99.8,Boston Celtics,115.6,Boston Celtics,15.9,86.65,,,,,,,,,,,,,,,,,,,,No
+2025-04-13,Orlando Magic,109.7,Atlanta Hawks,108.0,Orlando Magic,1.7,53.35,,,,,,,,,,,,,,,,,,,,No
+2025-04-13,Chicago Bulls,123.3,Philadelphia 76ers,115.1,Chicago Bulls,8.2,65.03,,,,,,,,,,,,,,,,,,,,No
+2025-04-13,Toronto Raptors,116.4,San Antonio Spurs,109.0,Toronto Raptors,7.4,62.86,,,,,,,,,,,,,,,,,,,,No
