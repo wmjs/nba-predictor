@@ -1,37 +1,33 @@
 Date,Away,PredictedAwayPoints,Home,PredictedHomePoints,PredictedWinner,PredictedSpread,Confidence
-2025-04-20,Memphis Grizzlies,118.0,Oklahoma City Thunder,122.5,Oklahoma City Thunder,4.5,61.17
-2025-04-20,Orlando Magic,111.4,Boston Celtics,111.0,Orlando Magic,0.4,52.13
-2025-04-20,Miami Heat,110.0,Cleveland Cavaliers,119.1,Cleveland Cavaliers,9.1,83.03
-2025-04-20,Golden State Warriors,111.0,Houston Rockets,107.4,Golden State Warriors,3.6,58.06
-2025-04-21,Detroit Pistons,118.6,New York Knicks,117.8,Detroit Pistons,0.8,52.54
-2025-04-21,Los Angeles Clippers,121.6,Denver Nuggets,121.2,Los Angeles Clippers,0.4,52.13
-2025-04-22,Milwaukee Bucks,114.8,Indiana Pacers,113.3,Milwaukee Bucks,1.5,53.44
-2025-04-22,Memphis Grizzlies,118.0,Oklahoma City Thunder,122.5,Oklahoma City Thunder,4.5,61.17
-2025-04-22,Minnesota Timberwolves,115.4,Los Angeles Lakers,109.1,Minnesota Timberwolves,6.3,69.4
-2025-04-23,Orlando Magic,111.4,Boston Celtics,111.0,Orlando Magic,0.4,52.13
-2025-04-23,Miami Heat,110.0,Cleveland Cavaliers,119.1,Cleveland Cavaliers,9.1,83.03
-2025-04-23,Golden State Warriors,111.0,Houston Rockets,107.4,Golden State Warriors,3.6,58.06
-2025-04-24,New York Knicks,116.6,Detroit Pistons,109.9,New York Knicks,6.7,71.46
-2025-04-24,Oklahoma City Thunder,123.1,Memphis Grizzlies,113.1,Oklahoma City Thunder,10.1,86.63
-2025-04-24,Denver Nuggets,119.7,Los Angeles Clippers,113.8,Denver Nuggets,5.9,67.4
-2025-04-25,Indiana Pacers,119.7,Milwaukee Bucks,109.9,Indiana Pacers,9.8,85.65
-2025-04-25,Los Angeles Lakers,116.4,Minnesota Timberwolves,112.5,Los Angeles Lakers,3.9,59.01
-2025-04-25,Boston Celtics,106.7,Orlando Magic,104.5,Boston Celtics,2.2,54.61
-2025-04-26,Cleveland Cavaliers,116.2,Miami Heat,102.8,Cleveland Cavaliers,13.4,92.87
-2025-04-26,Oklahoma City Thunder,123.1,Memphis Grizzlies,113.1,Oklahoma City Thunder,10.1,86.63
-2025-04-26,Denver Nuggets,119.7,Los Angeles Clippers,113.8,Denver Nuggets,5.9,67.4
-2025-04-26,Houston Rockets,109.8,Golden State Warriors,103.2,Houston Rockets,6.6,70.94
-2025-04-27,New York Knicks,116.6,Detroit Pistons,109.9,New York Knicks,6.7,71.46
-2025-04-27,Los Angeles Lakers,116.4,Minnesota Timberwolves,112.5,Los Angeles Lakers,3.9,59.01
-2025-04-27,Boston Celtics,106.7,Orlando Magic,104.5,Boston Celtics,2.2,54.61
-2025-04-27,Indiana Pacers,119.7,Milwaukee Bucks,109.9,Indiana Pacers,9.8,85.65
-2025-04-28,Cleveland Cavaliers,116.2,Miami Heat,102.8,Cleveland Cavaliers,13.4,92.87
-2025-04-28,Memphis Grizzlies,118.0,Oklahoma City Thunder,122.5,Oklahoma City Thunder,4.5,61.17
-2025-04-28,Houston Rockets,109.8,Golden State Warriors,103.2,Houston Rockets,6.6,70.94
-2025-04-29,Orlando Magic,111.4,Boston Celtics,111.0,Orlando Magic,0.4,52.13
-2025-04-29,Los Angeles Clippers,121.6,Denver Nuggets,121.2,Los Angeles Clippers,0.4,52.13
-2025-04-29,Milwaukee Bucks,114.8,Indiana Pacers,113.3,Milwaukee Bucks,1.5,53.44
-2025-04-29,Detroit Pistons,118.6,New York Knicks,117.8,Detroit Pistons,0.8,52.54
-2025-04-30,Golden State Warriors,111.0,Houston Rockets,107.4,Golden State Warriors,3.6,58.06
-2025-04-30,Miami Heat,110.0,Cleveland Cavaliers,119.1,Cleveland Cavaliers,9.1,83.03
-2025-04-30,Minnesota Timberwolves,115.4,Los Angeles Lakers,109.1,Minnesota Timberwolves,6.3,69.4
+2025-04-21,Detroit Pistons,116.8,New York Knicks,115.7,Detroit Pistons,1.1,52.59
+2025-04-21,Los Angeles Clippers,117.9,Denver Nuggets,119.0,Denver Nuggets,1.0,52.52
+2025-04-22,Milwaukee Bucks,113.3,Indiana Pacers,113.6,Indiana Pacers,0.4,52.13
+2025-04-22,Memphis Grizzlies,107.8,Oklahoma City Thunder,128.6,Oklahoma City Thunder,20.8,92.87
+2025-04-22,Minnesota Timberwolves,115.0,Los Angeles Lakers,110.0,Minnesota Timberwolves,5.0,57.27
+2025-04-23,Orlando Magic,100.9,Boston Celtics,109.5,Boston Celtics,8.6,66.07
+2025-04-23,Miami Heat,109.1,Cleveland Cavaliers,120.2,Cleveland Cavaliers,11.1,74.15
+2025-04-23,Golden State Warriors,105.0,Houston Rockets,100.5,Golden State Warriors,4.4,56.26
+2025-04-24,New York Knicks,116.2,Detroit Pistons,110.9,New York Knicks,5.3,57.82
+2025-04-24,Oklahoma City Thunder,122.2,Memphis Grizzlies,109.4,Oklahoma City Thunder,12.8,79.54
+2025-04-24,Denver Nuggets,119.4,Los Angeles Clippers,113.7,Denver Nuggets,5.7,58.61
+2025-04-25,Boston Celtics,110.3,Orlando Magic,106.6,Boston Celtics,3.7,55.23
+2025-04-25,Indiana Pacers,117.5,Milwaukee Bucks,109.8,Indiana Pacers,7.7,63.45
+2025-04-25,Los Angeles Lakers,115.2,Minnesota Timberwolves,112.2,Los Angeles Lakers,3.0,54.35
+2025-04-26,Houston Rockets,116.2,Golden State Warriors,108.0,Houston Rockets,8.2,64.87
+2025-04-26,Denver Nuggets,119.4,Los Angeles Clippers,113.7,Denver Nuggets,5.7,58.61
+2025-04-26,Oklahoma City Thunder,122.2,Memphis Grizzlies,109.4,Oklahoma City Thunder,12.8,79.54
+2025-04-26,Cleveland Cavaliers,116.8,Miami Heat,103.8,Cleveland Cavaliers,13.1,80.42
+2025-04-27,New York Knicks,116.2,Detroit Pistons,110.9,New York Knicks,5.3,57.82
+2025-04-27,Los Angeles Lakers,115.2,Minnesota Timberwolves,112.2,Los Angeles Lakers,3.0,54.35
+2025-04-27,Boston Celtics,110.3,Orlando Magic,106.6,Boston Celtics,3.7,55.23
+2025-04-27,Indiana Pacers,117.5,Milwaukee Bucks,109.8,Indiana Pacers,7.7,63.45
+2025-04-28,Cleveland Cavaliers,116.8,Miami Heat,103.8,Cleveland Cavaliers,13.1,80.42
+2025-04-28,Memphis Grizzlies,107.8,Oklahoma City Thunder,128.6,Oklahoma City Thunder,20.8,92.87
+2025-04-28,Houston Rockets,116.2,Golden State Warriors,108.0,Houston Rockets,8.2,64.87
+2025-04-29,Orlando Magic,100.9,Boston Celtics,109.5,Boston Celtics,8.6,66.07
+2025-04-29,Los Angeles Clippers,117.9,Denver Nuggets,119.0,Denver Nuggets,1.0,52.52
+2025-04-29,Milwaukee Bucks,113.3,Indiana Pacers,113.6,Indiana Pacers,0.4,52.13
+2025-04-29,Detroit Pistons,116.8,New York Knicks,115.7,Detroit Pistons,1.1,52.59
+2025-04-30,Miami Heat,109.1,Cleveland Cavaliers,120.2,Cleveland Cavaliers,11.1,74.15
+2025-04-30,Golden State Warriors,105.0,Houston Rockets,100.5,Golden State Warriors,4.4,56.26
+2025-04-30,Minnesota Timberwolves,115.0,Los Angeles Lakers,110.0,Minnesota Timberwolves,5.0,57.27
