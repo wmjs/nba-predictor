@@ -1,19 +1,14 @@
 Date,Away,PredictedAwayPoints,Home,PredictedHomePoints,PredictedWinner,PredictedSpread,Confidence
-2025-04-26,Cleveland Cavaliers,113.4,Miami Heat,101.3,Cleveland Cavaliers,12.1,82.8
-2025-04-26,Oklahoma City Thunder,122.0,Memphis Grizzlies,112.2,Oklahoma City Thunder,9.8,74.64
-2025-04-26,Denver Nuggets,103.4,Los Angeles Clippers,121.3,Los Angeles Clippers,17.9,92.87
-2025-04-26,Houston Rockets,108.0,Golden State Warriors,104.6,Houston Rockets,3.4,55.23
-2025-04-27,New York Knicks,112.4,Detroit Pistons,113.9,Detroit Pistons,1.6,52.96
-2025-04-27,Los Angeles Lakers,112.1,Minnesota Timberwolves,120.9,Minnesota Timberwolves,8.7,70.36
-2025-04-27,Boston Celtics,100.0,Orlando Magic,102.0,Orlando Magic,2.0,53.37
-2025-04-27,Indiana Pacers,115.2,Milwaukee Bucks,122.2,Milwaukee Bucks,7.0,64.14
-2025-04-28,Houston Rockets,108.0,Golden State Warriors,104.6,Houston Rockets,3.4,55.23
-2025-04-28,Cleveland Cavaliers,113.4,Miami Heat,101.3,Cleveland Cavaliers,12.1,82.8
-2025-04-28,Memphis Grizzlies,116.2,Oklahoma City Thunder,120.0,Oklahoma City Thunder,3.8,55.91
-2025-04-29,Milwaukee Bucks,116.7,Indiana Pacers,111.0,Milwaukee Bucks,5.7,60.17
-2025-04-29,Detroit Pistons,113.9,New York Knicks,111.8,Detroit Pistons,2.1,53.48
-2025-04-29,Orlando Magic,104.4,Boston Celtics,107.7,Boston Celtics,3.3,55.07
-2025-04-29,Los Angeles Clippers,122.1,Denver Nuggets,106.7,Los Angeles Clippers,15.4,90.23
-2025-04-30,Golden State Warriors,100.6,Houston Rockets,99.9,Golden State Warriors,0.6,52.13
-2025-04-30,Miami Heat,108.8,Cleveland Cavaliers,118.4,Cleveland Cavaliers,9.7,74.25
-2025-04-30,Minnesota Timberwolves,118.4,Los Angeles Lakers,107.6,Minnesota Timberwolves,10.8,78.41
+2025-04-27,New York Knicks,112.2,Detroit Pistons,113.1,Detroit Pistons,1.0,52.13
+2025-04-27,Los Angeles Lakers,110.5,Minnesota Timberwolves,121.3,Minnesota Timberwolves,10.9,90.55
+2025-04-27,Boston Celtics,97.7,Orlando Magic,102.5,Orlando Magic,4.8,62.1
+2025-04-27,Indiana Pacers,116.6,Milwaukee Bucks,122.4,Milwaukee Bucks,5.8,67.27
+2025-04-28,Cleveland Cavaliers,114.6,Miami Heat,106.9,Cleveland Cavaliers,7.7,78.29
+2025-04-28,Houston Rockets,103.1,Golden State Warriors,105.2,Golden State Warriors,2.0,53.5
+2025-04-29,Milwaukee Bucks,117.5,Indiana Pacers,108.6,Milwaukee Bucks,8.9,84.24
+2025-04-29,Detroit Pistons,113.5,New York Knicks,115.0,New York Knicks,1.5,52.74
+2025-04-29,Orlando Magic,102.1,Boston Celtics,108.4,Boston Celtics,6.3,70.14
+2025-04-29,Los Angeles Clippers,117.3,Denver Nuggets,104.9,Los Angeles Clippers,12.4,92.87
+2025-04-30,Miami Heat,120.6,Cleveland Cavaliers,118.5,Miami Heat,2.0,53.5
+2025-04-30,Golden State Warriors,106.4,Houston Rockets,102.3,Golden State Warriors,4.0,58.75
+2025-04-30,Minnesota Timberwolves,120.5,Los Angeles Lakers,109.0,Minnesota Timberwolves,11.5,91.67
