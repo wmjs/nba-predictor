@@ -1,10 +1,7 @@
 Date,Away,PredictedAwayPoints,Home,PredictedHomePoints,PredictedWinner,PredictedSpread,Confidence
-2025-04-28,Cleveland Cavaliers,112.9,Miami Heat,101.2,Cleveland Cavaliers,11.7,92.3
-2025-04-28,Houston Rockets,105.9,Golden State Warriors,110.1,Golden State Warriors,4.2,62.4
-2025-04-29,Milwaukee Bucks,117.7,Indiana Pacers,109.2,Milwaukee Bucks,8.6,84.7
-2025-04-29,Detroit Pistons,112.9,New York Knicks,112.8,Detroit Pistons,0.1,52.13
-2025-04-29,Orlando Magic,105.7,Boston Celtics,109.4,Boston Celtics,3.6,59.91
-2025-04-29,Los Angeles Clippers,119.3,Denver Nuggets,109.2,Los Angeles Clippers,10.1,89.44
-2025-04-30,Miami Heat,120.0,Cleveland Cavaliers,120.6,Cleveland Cavaliers,0.6,52.7
-2025-04-30,Golden State Warriors,105.8,Houston Rockets,103.5,Golden State Warriors,2.3,55.81
-2025-04-30,Minnesota Timberwolves,122.9,Los Angeles Lakers,110.7,Minnesota Timberwolves,12.2,92.87
+2025-04-29,Milwaukee Bucks,117.5,Indiana Pacers,112.2,Milwaukee Bucks,5.3,62.7
+2025-04-29,Detroit Pistons,114.3,New York Knicks,114.3,Detroit Pistons,0.1,52.13
+2025-04-29,Orlando Magic,103.9,Boston Celtics,107.6,Boston Celtics,3.7,57.75
+2025-04-29,Los Angeles Clippers,117.0,Denver Nuggets,109.2,Los Angeles Clippers,7.9,73.62
+2025-04-30,Golden State Warriors,104.5,Houston Rockets,102.0,Golden State Warriors,2.5,55.15
+2025-04-30,Minnesota Timberwolves,124.0,Los Angeles Lakers,108.9,Minnesota Timberwolves,15.2,92.87
